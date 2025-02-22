@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Nature Vibration RSS</title>
+    <link>https://www.nature.com/search?q=vibration&amp;order=date_desc</link>
+    <description>Latest vibration articles from Nature</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sat, 22 Feb 2025 07:47:01 +0000</lastBuildDate>
+    <item>
+      <title>Tip carbon encapsulation customizes cationic enrichment and valence stabilization for low K+ acidic CO2 electroreduction</title>
+      <link>https://www.nature.com/articles/s41467-025-56977-6</link>
+      <description>Acidic electrochemical CO2 conversion is a promising alternative to overcome low CO2 utilization. Here, the authors report a robust carbon coated tip-like In2O3 electrocatalyst that demonstrates an enhanced activity for the direct production of HCOOH in a strongly acidic and low K+ electrolyte.</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boosting mechanical durability under high humidity by bioinspired multisite polymer for high-efficiency flexible perovskite solar cells</title>
+      <link>https://www.nature.com/articles/s41467-025-57102-3</link>
+      <description>Poor mechanical stability under high humidity remains a critical challenge for flexible perovskite solar cells. Here, the authors develop a bioinspired dopamine containing polymer to enhance adhesion in humid environments, achieving an efficiency of nearly 26%.</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CSTF2-impeded innate αβ T cell infiltration and activation exacerbate immune evasion of pancreatic cancer</title>
+      <link>https://www.nature.com/articles/s41418-025-01464-0</link>
+      <description>No summary</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using visible and NIR hyperspectral imaging and machine learning for nondestructive detection of nutrient contents in sorghum</title>
+      <link>https://www.nature.com/articles/s41598-025-90892-6</link>
+      <description>No summary</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vacancies and sea urchin structure protect cobalt manganese spinel from anion poisoning in peroxymonosulfate activation</title>
+      <link>https://www.nature.com/articles/s41545-025-00444-8</link>
+      <description>No summary</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuroprotective effects of melanins and melanin derivatives from Calvatia Craniiformis and Xylaria plebeja against Parkinsonian toxins</title>
+      <link>https://www.nature.com/articles/s41598-025-90557-4</link>
+      <description>No summary</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Activation dynamics study of trapped platelets using a lab-built optical tweezers micro-raman spectrometer</title>
+      <link>https://www.nature.com/articles/s41598-025-89029-6</link>
+      <description>No summary</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extracting mechanical quality factor and eliminating feedthrough using harmonics of thermal-piezoresistive micromechanical resonators</title>
+      <link>https://www.nature.com/articles/s41378-025-00869-8</link>
+      <description>No summary</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heat flows solubilize apatite to boost phosphate availability for prebiotic chemistry</title>
+      <link>https://www.nature.com/articles/s41467-025-57110-3</link>
+      <description>Heat flows through rock cracks drive the permanent solubilization of phosphate from apatite and its accumulation from phosphate bearing geomaterials, offering a non-equilibrium pathway to approach the phosphate problem at the emergence of life.</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A μGal MOEMS gravimeter designed with free-form anti-springs</title>
+      <link>https://www.nature.com/articles/s41467-025-57176-z</link>
+      <description>MEMS gravimeters are compact and cost-effective but face challenges in achieving ultra-high sensitivity due to fabrication tolerances and size limitations. Here, authors introduce a μGal MOEMS gravimeter with locally adjustable free-form anti-springs, achieving picometer-level displacement sensitivity.</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unconventional (anti)ferroelectricity in van der Waals group-IV monochalcogenides</title>
+      <link>https://www.nature.com/articles/s41467-025-57138-5</link>
+      <description>The authors find the hidden out-of-plane antiferroelectricity and field-induced ferroelectric polarization in spatial-inversion symmetric GeSe, which may be extended to other centrosymmetric van der Waals layered materials.</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A parts-per-million scale electrolyte additive for durable aqueous zinc batteries</title>
+      <link>https://www.nature.com/articles/s41467-025-56607-1</link>
+      <description>Challenges of zinc electrodes imped their progress in energy storage. Here, authors propose a parts-per-million scale electrolyte additive, phosphonoglycolic acid, enabling Zn stripping/stripping for nearly a year in coin cells, and exhibiting high durability in pouch cells and redox flow batteries.</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ratiometric fluorescence nanoprobe based on nitrogen-doped carbon dots for Cu2+ and Fe3+ detection</title>
+      <link>https://www.nature.com/articles/s41598-025-89327-z</link>
+      <description>No summary</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultra-fast optical time-domain transformation techniques</title>
+      <link>https://www.nature.com/articles/s43586-025-00381-3</link>
+      <description>Ultra-fast optical time-domain transformation (UO-TDT) techniques are used to encode spatial and spectral information from ultra-short pulses into the time domain. In this Primer, Zhang et al. cover the physical and mathematical basis of UO-TDT and its application in various imaging platforms, and conclude with an outlook on how these techniques could be applied to novel applications and imaging modalities.</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ameba-inspired strategy enhances probiotic efficacy via prebound nutrient supply</title>
+      <link>https://www.nature.com/articles/s41467-025-57071-7</link>
+      <description>Nutrient competition is a major obstacle to probiotic survival and success in treating inflammatory bowel disease. Here, the authors report on an ameba-inspired food-carrying strategy developed to provide a prebound food supply, free from competition, to improve probiotic survival increasing therapeutic potential.</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chemical modification and antioxidant activity of Wendan peel polysaccharide</title>
+      <link>https://www.nature.com/articles/s41598-025-91124-7</link>
+      <description>No summary</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigation on the formation of two dimensional perovskite nanostructures at the water surface through self initiated reaction</title>
+      <link>https://www.nature.com/articles/s41598-024-78259-9</link>
+      <description>No summary</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FaultSeg: A Dataset for Train Wheel Defect Detection</title>
+      <link>https://www.nature.com/articles/s41597-025-04557-0</link>
+      <description>No summary</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Characterization and potential usage of selected eggshell species</title>
+      <link>https://www.nature.com/articles/s41598-025-87786-y</link>
+      <description>No summary</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimization of ultrasound-assisted deep eutectic solvents extraction of rutin from Ilex asprella using response surface methodology</title>
+      <link>https://www.nature.com/articles/s41598-025-90536-9</link>
+      <description>No summary</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Array of micro-epidermal actuators for noninvasive pediatric flexible conductive hearing aids</title>
+      <link>https://www.nature.com/articles/s44172-025-00369-7</link>
+      <description>Flexible conductive hearing aids with an array of actuators improve patients’ hearing noninvasively. Here, an array of micro-epidermal actuators was implemented into the hearing aid and improved the hearing threshold by 30.5 dB at 1 kHz.</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lower limb motor imagery EEG dataset based on the multi-paradigm and longitudinal-training of stroke patients</title>
+      <link>https://www.nature.com/articles/s41597-025-04618-4</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring the efficiency of chemically activated palm frond carbon in heavy metal adsorption a modeling approach</title>
+      <link>https://www.nature.com/articles/s41598-025-89047-4</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vacancies in sulfides facilitate fluid-induced solid-state diffusion and critical metals accumulation</title>
+      <link>https://www.nature.com/articles/s41467-025-57171-4</link>
+      <description>Vacancies in sulfides facilitate fluid-induced solid-state diffusion at rates nearly two orders of magnitude faster than traditional lattice diffusion, promoting critical metal accumulation during ore formation.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptive evolution and early diversification of photonic nanomaterials in marine diatoms</title>
+      <link>https://www.nature.com/articles/s41598-024-82209-w</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Selective electrocatalytic synthesis of urea using entangled iron porphyrins in covalent organic frameworks</title>
+      <link>https://www.nature.com/articles/s44160-025-00742-6</link>
+      <description>The electrochemical coupling of NO3− and CO2 to produce urea using entangled iron porphyrins embedded in three-dimensional covalent organic frameworks is reported. The spatial localization of twin iron sites overcomes the unordered transfer of intermediates, enabling carbon–nitrogen coupling.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clearance distribution and contact characteristics of misaligned gear couplings considering hob feed path</title>
+      <link>https://www.nature.com/articles/s41598-024-79365-4</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aberrant activation of the mTOR signaling pathway in Rasmussen encephalitis</title>
+      <link>https://www.nature.com/articles/s41598-025-89426-x</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prediction and validation of mechanical properties of self-compacting geopolymer concrete using combined machine learning methods a comparative and suitability assessment of the best analysis</title>
+      <link>https://www.nature.com/articles/s41598-025-90468-4</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Early warning study of field station process safety based on VMD-CNN-LSTM-self-attention for natural gas load prediction</title>
+      <link>https://www.nature.com/articles/s41598-025-85582-2</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating the Electrocatalytic properties of ZnO-Based composite membrane for dye removal</title>
+      <link>https://www.nature.com/articles/s41598-024-75153-2</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Golden hour management of infants with congenital diaphragmatic hernia: 15 year experience at a high-volume center</title>
+      <link>https://www.nature.com/articles/s41372-025-02226-z</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kinetic cation effect in alkaline hydrogen electrocatalysis and double layer proton transfer</title>
+      <link>https://www.nature.com/articles/s41467-025-56966-9</link>
+      <description>Understanding the ubiquitous cation specificity in electrocatalysis is of great fundamental and technical significance. Here, the authors report atomic-scale evidence showing that the kinetic cation effect in alkaline hydrogen electrocatalysis is related to proton transfer in the electric double-layer.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phosphorus doped few layer WS2 flakes grown by chemical vapor deposition for hydrogen evolution reactions</title>
+      <link>https://www.nature.com/articles/s41598-025-90341-4</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A comprehensive investigation of the relationship between propulsion speed and water influx in coal mine TBM inclined shaft projects</title>
+      <link>https://www.nature.com/articles/s41598-025-89704-8</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tightly bonded excitons in chiral metal clusters for luminescent brilliance</title>
+      <link>https://www.nature.com/articles/s41467-025-57209-7</link>
+      <description>Chiral metal clusters have promise for circularly polarized luminescent materials but the absence of a unified understanding of the emission mechanism limits their design. Here, the authors show the crucial roles of the exciton binding energy and electron‒phonon interactions in achieving high efficiency phosphorescence.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A novel, low-cost, and high-efficiency method for nitrocellulose synthesis from plasma-modified cellulose</title>
+      <link>https://www.nature.com/articles/s41598-025-90706-9</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Development and characterization of carbon-based conductive pastes with high mechanical integrity under bending stress for room-temperature printable electronics</title>
+      <link>https://www.nature.com/articles/s41598-025-90210-0</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fabrication of atomically dispersed barium hydride catalysts for the synthesis of deuterated alkylarenes</title>
+      <link>https://www.nature.com/articles/s41467-025-57207-9</link>
+      <description>Hydrogen isotope exchange is essential for the synthesis of deuterium-labeled compounds but remains challenging under mild conditions. This study demonstrates the selective deuteration of alkylarenes at room temperature using atomically dispersed surface barium hydride.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polymeric ionic liquid promotes acidic electrocatalytic CO2 conversion to multicarbon products with ampere level current on Cu</title>
+      <link>https://www.nature.com/articles/s41467-025-57095-z</link>
+      <description>Acidic electrocatalytic CO2 reduction is a promising way for CO2 utilization, of which the selectivity and activity need improvement. Here, the authors report polymeric ionic liquid can boost the acidic electrocatalytic CO2 reduction into multicarbon products on Cu at ampere level current density.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A modified approach towards facile and green conversion of cement kiln dust wastes to efficient hydroxyapatite-carbon nanocomposite water adsorbents</title>
+      <link>https://www.nature.com/articles/s41598-025-87249-4</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al2O3 porous ceramics with high strength by protein foaming method</title>
+      <link>https://www.nature.com/articles/s41598-025-90007-1</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The effect of degumming conditions on the functionality of silk fibroin films</title>
+      <link>https://www.nature.com/articles/s41428-025-01019-7</link>
+      <description>Aqueous SF solution is purified through degumming with Na2CO3 aqueous solution, followed by water solubilization and dialysis. In the preparation of SF film, the aqueous SF solution is cast into a mold and subjected to a drying process. Throughout this process, intermolecular interactions played a crucial role in film formation. The molecular state of the SF, including its chain length and molecular weight distribution, affected the properties of the resulting film.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preparation, structure and properties of litchi pericarp polysaccharide</title>
+      <link>https://www.nature.com/articles/s41598-025-90697-7</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facilitating alkaline hydrogen evolution kinetics via interfacial modulation of hydrogen-bond networks by porous amine cages</title>
+      <link>https://www.nature.com/articles/s41467-025-56962-z</link>
+      <description>Modulating the electrochemical interface at the atomic level is challenging due to the lack of efficient interfacial regulators. Here, the authors report using a porous amine cage as an interfacial modifier to enhance alkaline hydrogen evolution reaction kinetics by facilitating charge transfer.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Influence of behavior of a coupled dynamic system on an energy harvester</title>
+      <link>https://www.nature.com/articles/s41598-024-83651-6</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Integrative study of Anchusa italica Retz flower’s microstructure and chemical composition</title>
+      <link>https://www.nature.com/articles/s41598-025-90620-0</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piezo proteins, mechano reception and behaviour in Hydra</title>
+      <link>https://www.nature.com/articles/s41598-025-91048-2</link>
+      <description>No summary</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Loose circle and rock mass strength tests of extremely thin layered surrounding rock in large deformation tunnels</title>
+      <link>https://www.nature.com/articles/s41598-025-90364-x</link>
+      <description>No summary</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polymorphic relaxor phase and defect dipole polarization co-reinforced capacitor energy storage in temperature-monitorable high-entropy ferroelectrics</title>
+      <link>https://www.nature.com/articles/s41467-025-57139-4</link>
+      <description>The authors construct a nanostructure consisting of defect dipole polarization and polymorphic relaxor phases. The high-entropy ceramic achieves an energy density of 11.23 J cm−3, an efficiency of 90.87%, along with temperature sensing feature.</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
