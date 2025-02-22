@@ -6,13 +6,7 @@
     <description>Latest vibration articles from Nature</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 10:20:48 +0000</lastBuildDate>
-    <item>
-      <title>Using visible and NIR hyperspectral imaging and machine learning for nondestructive detection of nutrient contents in sorghum</title>
-      <link>https://www.nature.com/articles/s41598-025-90892-6</link>
-      <description>No summary</description>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Feb 2025 11:11:24 +0000</lastBuildDate>
     <item>
       <title>Vacancies and sea urchin structure protect cobalt manganese spinel from anion poisoning in peroxymonosulfate activation</title>
       <link>https://www.nature.com/articles/s41545-025-00444-8</link>
@@ -287,6 +281,12 @@
       <title>A superresolution-enhanced spectrometer beyond the Cramer–Rao bound in phase sensitivity</title>
       <link>https://www.nature.com/articles/s41598-025-90857-9</link>
       <description>No summary</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rational design of precatalysts and controlled evolution of catalyst-electrolyte interface for efficient hydrogen production</title>
+      <link>https://www.nature.com/articles/s41467-025-57056-6</link>
+      <description>The significance of precatalyst activation and its impact on electrolyte properties in water electrocatalysis is crucial but often overlooked. The authors report an efficient transition metal catalyst for hydrogen production by manipulating both precatalyst reconstruction and electrolyte composition.</description>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
