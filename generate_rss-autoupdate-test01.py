@@ -54,7 +54,7 @@ def generate_rss():
     # 上传到 GitHub Pages（手动或用 Git 脚本）
     # 示例：用 os.system 调用 git 命令（需配置 Git 和 GitHub）
     os.system("git add nature_vibration_rss.xml")
-    os.system("git commit -m 'Update RSS file with latest changes'")
+    os.system('git commit -m "Update nature_vibration_rss.xml with latest changes"')
     os.system("git push origin main")  # 假设主分支为 main
     print("RSS 文件已更新到 GitHub Pages")
 
