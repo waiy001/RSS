@@ -6,7 +6,7 @@
     <description>Latest vibration articles from Nature</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 09:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 09:51:46 +0000</lastBuildDate>
     <item>
       <title>Using visible and NIR hyperspectral imaging and machine learning for nondestructive detection of nutrient contents in sorghum</title>
       <link>https://www.nature.com/articles/s41598-025-90892-6</link>
