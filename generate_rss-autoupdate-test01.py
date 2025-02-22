@@ -51,8 +51,14 @@ def generate_rss():
     with open('nature_vibration_rss.xml', 'w', encoding='utf-8') as f:
         f.write(fg.rss_str(pretty=True).decode('utf-8'))  # 使用 pretty=True 格式化输出
     print("RSS 文件已生成！")
+    # 上传到 GitHub Pages（手动或用 Git 脚本）
+    # 示例：用 os.system 调用 git 命令（需配置 Git 和 GitHub）
+    os.system("git add nature_vibration_rss.xml")
+    os.system("git commit -m 'Update RSS file with latest changes'")
+    os.system("git push origin main")  # 假设主分支为 main
+    print("RSS 文件已更新到 GitHub Pages")
 
-# 定时任务：每小时运行一次
+# 定时任务：每10分钟运行一次
 schedule.every(10).minutes.do(generate_rss)
 
 # 运行定时任务
@@ -62,8 +68,3 @@ if __name__ == "__main__":
         schedule.run_pending()
         time.sleep(60)  # 每分钟检查一次
 
-# 上传到 GitHub Pages（手动或用 Git 脚本）
-# 示例：用 os.system 调用 git 命令（需配置 Git 和 GitHub）
-os.system("git add nature_vibration_rss.xml")
-os.system("git commit -m 'Update RSS file'")
-os.system("git push origin main")  # 假设主分支为 main
