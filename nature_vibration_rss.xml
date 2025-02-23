@@ -6,10 +6,28 @@
     <description>Latest vibration articles from Nature</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 12:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 05:24:13 +0000</lastBuildDate>
     <item>
       <title>In-Depth Analysis of Tram Curve Noise Dataset for Rigorous Noise Assessment</title>
       <link>https://www.nature.com/articles/s41597-025-04660-2</link>
+      <description>No summary</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to approach long-term monitoring of chemical dynamics in oil paintings?</title>
+      <link>https://www.nature.com/articles/s40494-025-01583-4</link>
+      <description>No summary</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A study of rare earth elements enriched carbonisation material prepared from Dicranopteris pedata biomass grown in mining area</title>
+      <link>https://www.nature.com/articles/s41598-025-86067-y</link>
+      <description>No summary</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICEEMDAN–RPE–AITD algorithm for magnetic field signals of magnetic targets</title>
+      <link>https://www.nature.com/articles/s41598-025-91068-y</link>
       <description>No summary</description>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
     </item>
@@ -26,6 +44,12 @@
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Droplet impact dynamics on stretched textiles</title>
+      <link>https://www.nature.com/articles/s41598-025-89855-8</link>
+      <description>No summary</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Rational design of precatalysts and controlled evolution of catalyst-electrolyte interface for efficient hydrogen production</title>
       <link>https://www.nature.com/articles/s41467-025-57056-6</link>
       <description>The significance of precatalyst activation and its impact on electrolyte properties in water electrocatalysis is crucial but often overlooked. The authors report an efficient transition metal catalyst for hydrogen production by manipulating both precatalyst reconstruction and electrolyte composition.</description>
@@ -34,6 +58,18 @@
     <item>
       <title>A superresolution-enhanced spectrometer beyond the Cramer–Rao bound in phase sensitivity</title>
       <link>https://www.nature.com/articles/s41598-025-90857-9</link>
+      <description>No summary</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Achieving burst Li+ channels via quasi-two-dimensional fluorinated metal-organic framework modulating functionalized interface</title>
+      <link>https://www.nature.com/articles/s41467-025-57106-z</link>
+      <description>The Li dendrites and adverse Li-electrolyte reactions hinder the practical use of Li metal batteries. Here, authors propose an organic/inorganic artificial solid electrolyte interphase, where an outer metal layer ensures uniform Li nucleation and a F-rich inner layer acts as an electronic insulator.</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploration of stagnation-point flow of Reiner–Rivlin fluid originating from the stretched cylinder for the transmission of the energy and matter</title>
+      <link>https://www.nature.com/articles/s41598-025-90298-4</link>
       <description>No summary</description>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
     </item>
@@ -47,6 +83,12 @@
       <title>Road noise exposure over development increases baseline auditory activity and decision-making time in adult crickets</title>
       <link>https://www.nature.com/articles/s42003-025-07643-6</link>
       <description>A neuroethological approach reveals the impact of traffic noise on female crickets’ response to male song, demonstrating that developmental exposure increases adult cricket’s resting auditory activity and leads to protracted decision-making.</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Universal in situ oxide-based ABX3-structured seeds for templating halide perovskite growth in All-perovskite tandems</title>
+      <link>https://www.nature.com/articles/s41467-025-57195-w</link>
+      <description>The regulation of perovskite crystallization is essential for achieving efficient solar cells. Here, authors introduce K2SnO3 to induce formation of KI and PbSnO3 with an ABX3 structure to enhance film uniformity, achieving efficiency of 28.81% for four-terminal all-perovskite tandem solar cells.</description>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -264,48 +306,6 @@
       <link>https://www.nature.com/articles/s41467-025-56607-1</link>
       <description>Challenges of zinc electrodes imped their progress in energy storage. Here, authors propose a parts-per-million scale electrolyte additive, phosphonoglycolic acid, enabling Zn stripping/stripping for nearly a year in coin cells, and exhibiting high durability in pouch cells and redox flow batteries.</description>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unconventional (anti)ferroelectricity in van der Waals group-IV monochalcogenides</title>
-      <link>https://www.nature.com/articles/s41467-025-57138-5</link>
-      <description>The authors find the hidden out-of-plane antiferroelectricity and field-induced ferroelectric polarization in spatial-inversion symmetric GeSe, which may be extended to other centrosymmetric van der Waals layered materials.</description>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A μGal MOEMS gravimeter designed with free-form anti-springs</title>
-      <link>https://www.nature.com/articles/s41467-025-57176-z</link>
-      <description>MEMS gravimeters are compact and cost-effective but face challenges in achieving ultra-high sensitivity due to fabrication tolerances and size limitations. Here, authors introduce a μGal MOEMS gravimeter with locally adjustable free-form anti-springs, achieving picometer-level displacement sensitivity.</description>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heat flows solubilize apatite to boost phosphate availability for prebiotic chemistry</title>
-      <link>https://www.nature.com/articles/s41467-025-57110-3</link>
-      <description>Heat flows through rock cracks drive the permanent solubilization of phosphate from apatite and its accumulation from phosphate bearing geomaterials, offering a non-equilibrium pathway to approach the phosphate problem at the emergence of life.</description>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extracting mechanical quality factor and eliminating feedthrough using harmonics of thermal-piezoresistive micromechanical resonators</title>
-      <link>https://www.nature.com/articles/s41378-025-00869-8</link>
-      <description>No summary</description>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Activation dynamics study of trapped platelets using a lab-built optical tweezers micro-raman spectrometer</title>
-      <link>https://www.nature.com/articles/s41598-025-89029-6</link>
-      <description>No summary</description>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neuroprotective effects of melanins and melanin derivatives from Calvatia Craniiformis and Xylaria plebeja against Parkinsonian toxins</title>
-      <link>https://www.nature.com/articles/s41598-025-90557-4</link>
-      <description>No summary</description>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vacancies and sea urchin structure protect cobalt manganese spinel from anion poisoning in peroxymonosulfate activation</title>
-      <link>https://www.nature.com/articles/s41545-025-00444-8</link>
-      <description>No summary</description>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
