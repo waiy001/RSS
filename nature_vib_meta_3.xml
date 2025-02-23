@@ -6,876 +6,24 @@
     <description>Latest articles from Nature with both "vibration/vibrations" and "metamaterial/metamaterials" (first 3 pages)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 07:38:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 07:45:21 +0000</lastBuildDate>
     <item>
-      <title>Ultra-thin light-weight laser-induced-graphene (LIG) diffractive optics</title>
-      <link>https://www.nature.com/articles/s41377-023-01143-0</link>
-      <description>We present how direct-laser-writing can be utilized to fabricate ultra-thin light-weight planar diffractive optics with graphene as the base material. (Inset scale bar: 1 mm).</description>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Design, fabrication and assembly considerations for electronic systems made of fibre devices</title>
-      <link>https://www.nature.com/articles/s41578-023-00573-x</link>
-      <description>Integrating single-functional fibre devices into multifunctional systems can enable promising wearable applications. This Perspective article summarizes challenges and strategies for the design, fabrication and assembly of fibre electronic systems, highlighting specifications for real applications.</description>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asynchronous locking in metamaterials of fluids of light and sound</title>
-      <link>https://www.nature.com/articles/s41467-023-38788-9</link>
-      <description>Exciton-polariton condensates are hybrid systems with nonlinear interactions. Here the authors demonstrate metamaterials with inter-site polariton coupling and asynchronous locking of light fluids from neighbor sites at the energy detuning.</description>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Integrated metasurfaces for re-envisioning a near-future disruptive optical platform</title>
-      <link>https://www.nature.com/articles/s41377-023-01169-4</link>
-      <description>We organize integrated metasurfaces with conventional devices (LED, LC, MEMS, etc.), and their potential applications in VR/AR, LiDAR, and sensors.</description>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A second wave of topological phenomena in photonics and acoustics</title>
-      <link>https://www.nature.com/articles/s41586-023-06163-9</link>
-      <description>The current state of the art of topological phenomena in photonics and acoustics is reviewed and future research directions for valuable applications are discussed.</description>
-      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expanding chiral metamaterials for retrieving fingerprints via vibrational circular dichroism</title>
-      <link>https://www.nature.com/articles/s41377-023-01186-3</link>
-      <description>We demonstrate surface-enhanced vibrational circular dichroism spectroscopy for chiral mixture detection, enabled by MIR chiral metamaterial platform.</description>
-      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anomalous fractal scaling in two-dimensional electric networks</title>
-      <link>https://www.nature.com/articles/s42005-023-01266-1</link>
-      <description>Scaling theory governs much of the physics around us. Here, the authors present experimental evidence showcasing the breakdown of logarithmic scaling in electric circuits and the emergence of fractal-like patterns in impedance scaling relationships.</description>
-      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harnessing adaptive bistable stiffness of hair-cell-bundle structure for broadband vibration applications</title>
-      <link>https://www.nature.com/articles/s41598-023-37962-9</link>
+      <title>Editorial: Breaking the silence - the launch of npj Acoustics</title>
+      <link>https://www.nature.com/articles/s44384-025-00002-z</link>
       <description>No summary</description>
-      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Active self-assembly of piezoelectric biomolecular films via synergistic nanoconfinement and in-situ poling</title>
-      <link>https://www.nature.com/articles/s41467-023-39692-y</link>
-      <description>Piezoelectric biomaterials are limited by the challenges in domain orientation alignment and a weak piezoelectric effect. Here, Zhang et. al. present an active self-assembly strategy via nanoconfinement and in-situ poling, to obtain large-scale, high performance piezoelectric β-glycine nanocrystalline films.</description>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Topological solitonic macromolecules</title>
-      <link>https://www.nature.com/articles/s41467-023-40335-5</link>
-      <description>The formation of soliton macromolecules or metamaterial analogues of polymers with inter-soliton binding resembling strong covalent-like chemical bonds has not been considered so far. Zhao et al. experimentally create and theoretically, model soliton macromolecules, called “polyskyrmionomers”, introducing polymer-mimicking designs of topological chiral meta matter that promise technological utility in data storage and electro-optics.</description>
-      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Terahertz sensing of reduced graphene oxide nanosheets using sub-wavelength dipole cavities</title>
-      <link>https://www.nature.com/articles/s41598-023-39498-4</link>
+      <title>Research on the low-frequency band gap characteristics of longitudinal vibration of ship shafting based on bionic quasi-zero stiffness metamaterials</title>
+      <link>https://www.nature.com/articles/s41598-025-89986-y</link>
       <description>No summary</description>
-      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Model-predicted geometry variations to compensate material variability in the design of classical guitars</title>
-      <link>https://www.nature.com/articles/s41598-023-37943-y</link>
+      <title>Composite acoustic system for low-frequency sound absorption</title>
+      <link>https://www.nature.com/articles/s41598-025-89151-5</link>
       <description>No summary</description>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Non-reciprocal and non-Newtonian mechanical metamaterials</title>
-      <link>https://www.nature.com/articles/s41467-023-40493-6</link>
-      <description>In this work, authors demonstrate a model for non-reciprocal and non-Newtonian mechanical metamaterials by combining the concept of local resonances and fixing boundaries. Via computational models and impact experiments they show that stiffness substantially changes as a function of the loading velocity.</description>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tunable optical topological transitions of plasmon polaritons in WTe2 van der Waals films</title>
-      <link>https://www.nature.com/articles/s41377-023-01244-w</link>
-      <description>No summary</description>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dexterous electrical-driven soft robots with reconfigurable chiral-lattice foot design</title>
-      <link>https://www.nature.com/articles/s41467-023-40626-x</link>
-      <description>Animals use dexterous locomotion to hunt for food or flee from danger. Inspired by this strategy, Wang et al. design a soft robot, containing dielectric elastomer artificial muscles and reconfigurable chiral feet, which enables spontaneous change in movement direction in a controlled and reversible way.</description>
-      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Artificial dielectric beam-scanning prism for the terahertz region</title>
-      <link>https://www.nature.com/articles/s41598-023-41046-z</link>
-      <description>No summary</description>
-      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3D-printed PEDOT:PSS for soft robotics</title>
-      <link>https://www.nature.com/articles/s41578-023-00587-5</link>
-      <description>Combining poly(3,4-ethylenedioxythiophene):polystyrene sulfonate (PEDOT:PSS) with 3D-printing techniques enables the customization of compliant conductive materials for soft robotics, towards the goal of merging humans and robots. This Review discusses the fundamentals of 3D-printed PEDOT:PSS for soft robotics, from printable ink design and evaluation to printing strategies and promising soft robotic systems.</description>
-      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibrational circular dichroism unveils hidden clues</title>
-      <link>https://www.nature.com/articles/s41377-023-01239-7</link>
-      <description>No summary</description>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Highly sensitive and broadband meta-mechanoreceptor via mechanical frequency-division multiplexing</title>
-      <link>https://www.nature.com/articles/s41467-023-41222-9</link>
-      <description>There’s a trade-off between the sensitivity and bandwidth for mechanics guided sensor designs. Here, authors report a mechanical sensor comprised of piezoelectric resonators with near infinite effective piezoelectric coefficients, leading to highly sensitive and broadband micromotion sensing.</description>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Active acoustic field modulation of ultrasonic transducers with flexible composites</title>
-      <link>https://www.nature.com/articles/s42005-023-01361-3</link>
-      <description>The development of technologies to manipulate acoustic waves relies on acoustic lenses and ultrasonic arrays, but it is limited by low transmission efficiencies or bulky setups. The authors propose a flexible and efficient piezoelectric ultrasonic transducer that generates intricate ultrasound wave patterns and deviate from conventional approaches.</description>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Damping contribution of viscoelastic core on airborne sound insulation performance of finite constrained layer damping panels at low and middle frequencies</title>
-      <link>https://www.nature.com/articles/s41598-023-42391-9</link>
-      <description>No summary</description>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mechanical metamaterials and beyond</title>
-      <link>https://www.nature.com/articles/s41467-023-41679-8</link>
-      <description>Mechanical metamaterials are known for their unconventional mechanical properties. In this perspective, the authors give an overview of the current state of mechanical materials research and suggest a roadmap for next-generation active and responsive mechanical metamaterials.</description>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acoustic metamaterials based on polymer sheets: from material design to applications as sound insulators and vibration dampers</title>
-      <link>https://www.nature.com/articles/s41428-023-00842-0</link>
-      <description>For uniform and flat materials, heavier plates show higher sound insulation performance because of the mass law. Acoustic metamaterials with periodic resonance structures have attracted attention as ultra-lightweight sound insulators that can break the mass law limit. Recently, practical acoustic metamaterial sheets that allow high-throughput fabrication and single-step implementation on target objects have been developed based on polymer materials. In this Focus Review, the polymer-based material design, the control of acoustic functions based on polymer properties, and applications as sound insulators and vibration dampers are described.</description>
-      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Potential terahertz therapeutic strategy for the prevention or mitigation of Alzheimer’s disease pathology</title>
-      <link>https://www.nature.com/articles/s41377-023-01289-x</link>
-      <description>No summary</description>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A reprogrammable mechanical metamaterial with origami functional-group transformation and ring reconfiguration</title>
-      <link>https://www.nature.com/articles/s41467-023-42323-1</link>
-      <description>Programmability is a key property for multifunctional metamaterials, but it is limited by homo-element. Here, the authors show a mechanical metamaterials with heterogeneous elements, achieving various mechanical behaviours by functional group transformation and ring configuration.</description>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visualization analysis of research hotspots on structural topology optimization based on CiteSpace</title>
-      <link>https://www.nature.com/articles/s41598-023-45447-y</link>
-      <description>No summary</description>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple impact effects of helium-driven shocks on thin fiber-metal laminates</title>
-      <link>https://www.nature.com/articles/s41598-023-42861-0</link>
-      <description>No summary</description>
-      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Low-noise fluorescent detection of cardiac troponin I in human serum based on surface acoustic wave separation</title>
-      <link>https://www.nature.com/articles/s41378-023-00600-5</link>
-      <description>No summary</description>
-      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamic diagnosis of metamaterials through laser-induced vibrational signatures</title>
-      <link>https://www.nature.com/articles/s41586-023-06652-x</link>
-      <description>A high-throughput, non-contact framework is described that uses the laser-induced vibrational signatures of metamaterials to non-destructively quantify their omnidirectional elastic information, dynamic linear properties, damping properties and defects.</description>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Laser-induced vibrations probe microscale metamaterials without contacting them</title>
-      <link>https://www.nature.com/articles/d41586-023-03159-3</link>
-      <description>Advanced materials engineered at the microscale have the potential to achieve unparalleled mechanical performance under extreme conditions. A laser-based characterization method enables the fast measurement of extreme properties in these materials, by extracting them from the sample’s vibrational ‘fingerprint’, without touching or permanently deforming the structure.</description>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breakdown of conventional winding number calculation in one-dimensional lattices with interactions beyond nearest neighbors</title>
-      <link>https://www.nature.com/articles/s42005-023-01461-0</link>
-      <description>Topological insulators are bulk insulators with conducting zero-energy edge states conventionally predicted by topological indices, such as winding numbers in one-dimensional lattices. Here, the authors use the Jackiw-Rebbi theory to reveal that the number of topologically protected zero-energy states can be higher than the winding number.</description>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>High specificity THz metamaterial-based biosensor for label-free transcription factor detection in melanoma diagnostics</title>
-      <link>https://www.nature.com/articles/s41598-023-46876-5</link>
-      <description>No summary</description>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reinforcement learning optimisation for graded metamaterial design using a physical-based constraint on the state representation and action space</title>
-      <link>https://www.nature.com/articles/s41598-023-48927-3</link>
-      <description>No summary</description>
-      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inverse design of nonlinear mechanical metamaterials via video denoising diffusion models</title>
-      <link>https://www.nature.com/articles/s42256-023-00762-x</link>
-      <description>Machine learning models have been widely used in the inverse design of new materials, but typically only linear properties could be targeted. Bastek and Kochmann show that video diffusion generative models can produce the nonlinear deformation and stress response of cellular materials under large-scale compression.</description>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extreme light confinement and control in low-symmetry phonon-polaritonic crystals</title>
-      <link>https://www.nature.com/articles/s41578-023-00620-7</link>
-      <description>Broken symmetries at the nanoscale can greatly modify the emergent nanophotonic responses enabled by phonon polaritons. This Review discusses how lowering the degree of symmetry in natural and artificial materials gives rise to a wide spectrum of low-loss, directional, confined light–matter quasiparticles.</description>
-      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breaking symmetry creates polar auxeticity</title>
-      <link>https://www.nature.com/articles/s41563-023-01750-7</link>
-      <description>By forming a heterostructure interface, and by judicious choice of crystallographic orientation, piezoelectrics are developed that show expansion or contraction along all axes on application of an electric field.</description>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Folk arts-inspired twice-coagulated configuration-editable tough aerogels enabled by transformable gel precursors</title>
-      <link>https://www.nature.com/articles/s41467-023-44156-4</link>
-      <description>Aerogels attract considerable attention in various emerging fields in recent decades, but low density and weak mechanical performance make their configuration-editing capability challenging. Here the authors establish an efficient twice-coagulated strategy to fabricate configuration-editable tough aerogels enabled by transformable gel precursors.</description>
-      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Planar hyperbolic polaritons in 2D van der Waals materials</title>
-      <link>https://www.nature.com/articles/s41467-023-43992-8</link>
-      <description>In this Perspective, the authors illustrate the physics of hyperbolic polaritons in anisotropic 2D and 1D materials, proposing new potential material candidates, forward looking opportunities and technological applications.</description>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Direct laser-written optomechanical membranes in fiber Fabry-Perot cavities</title>
-      <link>https://www.nature.com/articles/s41467-023-44490-7</link>
-      <description>Authors showcase 3D direct laser writing to fabricate optically interfaced mechanical resonators. The membrane-type structures are placed inside fiber Fabry-Perot cavities to realize a miniaturized optical cavity. Further, the optomechanical properties reveal the coupling mechanism and a significant tuning of the mechanical resonator frequency.</description>
-      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Controlling the motion of gravitational spinners and waves in chiral waveguides</title>
-      <link>https://www.nature.com/articles/s41598-023-50052-0</link>
-      <description>No summary</description>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roadmapping the next generation of silicon photonics</title>
-      <link>https://www.nature.com/articles/s41467-024-44750-0</link>
-      <description>In order to complete the transition to the era of large-scale integration, silicon photonics will have to overcome several challenges. Here, the authors outline what these challenges are and what it will take to tackle them.</description>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Designing transparent piezoelectric metasurfaces for adaptive optics</title>
-      <link>https://www.nature.com/articles/s41467-024-45088-3</link>
-      <description>Most multi-degrees-of-freedom systems are composed of several piezoelectric stacks, leading to cumbersome and complicated structures. Here, the authors propose a piezo metasurface to achieve various types of high strains in a wide frequency range.</description>
-      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibrations and energy distribution in inhomogeneous rods with elastic and viscous boundary conditions</title>
-      <link>https://www.nature.com/articles/s41598-024-52860-4</link>
-      <description>No summary</description>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bilateral passive thermal management for dynamical temperature regulation</title>
-      <link>https://www.nature.com/articles/s41598-024-53433-1</link>
-      <description>No summary</description>
-      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spin resolved topological bulk state in acoustics</title>
-      <link>https://www.nature.com/articles/s41598-024-53226-6</link>
-      <description>No summary</description>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sustainable conversion of alkaline nitrate to ammonia at activities greater than 2 A cm−2</title>
-      <link>https://www.nature.com/articles/s41467-024-45534-2</link>
-      <description>Alkaline nitrate electroreduction to ammonia is restricted by insufficient H+ supply. Here, the authors propose a halogen-mediated H+ feeding strategy, by triggering dangling O-H water dissociation and fast *H desorption for *NO intermediate hydrogenation, to enhance the formation of ammonia.</description>
-      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diffusive kinks turn kirigami into machines</title>
-      <link>https://www.nature.com/articles/s41467-024-45602-7</link>
-      <description>Kinks define boundaries between distinct configurations of a material. Here, the authors reveal the emergence of propagating kinks in purely dissipative kirigami and show that such structures can shape-change into different textures depending on how fast they are stretched enabling basic mechanical tasks.</description>
-      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Giant electric field-induced second harmonic generation in polar skyrmions</title>
-      <link>https://www.nature.com/articles/s41467-024-45755-5</link>
-      <description>Electric modulation of second harmonic generation finds applications in integrated photonics. Here, authors introduce electric field-induced second harmonic generation by polar skyrmions in PbTiO3/SrTiO3 superlattices with giant modulation depth.</description>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vision-driven metasurfaces for perception enhancement</title>
-      <link>https://www.nature.com/articles/s41467-024-45296-x</link>
-      <description>Authors showcase a framework for visual perception enhancement system based on vision-driven metasurfaces. It can help humans obtain information in multiple frequency bands and allows the metasurface platform with more interesting functions.</description>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metamaterial-based passive analog processor for wireless vibration sensing</title>
-      <link>https://www.nature.com/articles/s44172-024-00190-8</link>
-      <description>Real-time, low-cost, and wireless mechanical vibration monitoring is necessary for industrial, environmental, and biomedical applications. Here, Dajun Zhang and colleagues report a passive,ss metamaterial-based device which substantially improves the sensitivity of wireless vibration measurement methods when attached to vibrating surfaces.</description>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultrasound generation in water via quasi-periodically snapping polymeric core–shell micro-bead excited with radiowaves</title>
-      <link>https://www.nature.com/articles/s41598-024-56614-0</link>
-      <description>No summary</description>
-      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asymmetric metamaterial sandwich structure with NIM characteristics for THz imaging application</title>
-      <link>https://www.nature.com/articles/s41598-024-56723-w</link>
-      <description>No summary</description>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Near-zero stiffness accelerometer with buckling of tunable electrothermal microbeams</title>
-      <link>https://www.nature.com/articles/s41378-024-00657-w</link>
-      <description>No summary</description>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acoustic emission of lattice structures under cycling loading relates process parameters with fatigue properties</title>
-      <link>https://www.nature.com/articles/s44172-024-00196-2</link>
-      <description>Lea Kollmannsperger and colleagues report the fatigue behaviour of additively manufactured lattice structures under cyclic loading, relating fatigue-induced properties to process characteristics using acoustic emission. The results can help to predict damage during operation through non-destructive testing.</description>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Optomechanical realization of the bosonic Kitaev chain</title>
-      <link>https://www.nature.com/articles/s41586-024-07174-w</link>
-      <description>We report the experimental realization of a bosonic Kitaev chain in a nano-optomechanical network.</description>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One-photon three-dimensional printed fused silica glass with sub-micron features</title>
-      <link>https://www.nature.com/articles/s41467-024-46929-x</link>
-      <description>3D-printed glass holds great potential. However, it is challenging to control both the dimension and the resolution of the printed material. Here, authors present a one-photon 3D printing approach to produce high-performance fused silica glass with sub-micron resolution and millimetric dimensions.</description>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A study of analyzing longitudinal dynamic behavior of a double-rod system with longitudinal nonlinear supports</title>
-      <link>https://www.nature.com/articles/s41598-024-58986-9</link>
-      <description>No summary</description>
-      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phononic switching of magnetization by the ultrafast Barnett effect</title>
-      <link>https://www.nature.com/articles/s41586-024-07200-x</link>
-      <description>Ultrafast light-induced driving of phonons at resonance in a substrate facilitates the permanent reversal of the magnetic state of a material mounted on it.</description>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Origami metamaterials for ultra-wideband and large-depth reflection modulation</title>
-      <link>https://www.nature.com/articles/s41467-024-46907-3</link>
-      <description>The researchers fuse metamaterials and origami technical to achieve ultra-wideband and large-depth reflection modulation. Flexible electronics amplify its lightweight, transparency, and cost-effectiveness, making it ideal for satellite communications.</description>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultrafast photoluminescence and multiscale light amplification in nanoplasmonic cavity glass</title>
-      <link>https://www.nature.com/articles/s41467-024-47539-3</link>
-      <description>This article presents a unique nanocomposite plasmonic-excitonic glass with extraordinary amplified optical properties: ultra-narrow photoluminescence (FWHM = 13 nm) and ultrashort photoluminescence lifetime (90 ps) at room temperature</description>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robust acoustic directional sensing enabled by synergy between resonator-based sensor and deep learning</title>
-      <link>https://www.nature.com/articles/s41598-024-60696-1</link>
-      <description>No summary</description>
-      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Radiative cooling and indoor light management enabled by a transparent and self-cleaning polymer-based metamaterial</title>
-      <link>https://www.nature.com/articles/s41467-024-48150-2</link>
-      <description>Transparent roofs offer a solution for harnessing natural light in sustainable buildings. Here, authors demonstrate a polymer-based metamaterial with micro-pyramid surface structures that diffuses sunlight while offering passive cooling and self-cleaning properties.</description>
-      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamically stable radiation pressure propulsion of flexible lightsails for interstellar exploration</title>
-      <link>https://www.nature.com/articles/s41467-024-47476-1</link>
-      <description>Ultrathin laser-driven lightsails represent a unique vision for interstellar space exploration. Here, the authors show how spinning flexible membranes can be both shape- and trajectory-stable with multiphysics structural and nanophotonic engineering.</description>
-      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Optimized multi-frequency nonlinear broadband piezoelectric energy harvester designs</title>
-      <link>https://www.nature.com/articles/s41598-024-61355-1</link>
-      <description>No summary</description>
-      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Droplet-based mechanical transducers modulated by the symmetry of wettability patterns</title>
-      <link>https://www.nature.com/articles/s41467-024-48538-0</link>
-      <description>Asymmetric mechanical transducers are pivotal in various applications; however, conventional methods demand continuous energy and intricate fabrication. Here, the authors demonstrate a droplet-based mechanical transducer utilizing wettability-patterned surfaces, enabling precise control of droplet dynamics.</description>
-      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A framework for small satellite deployable structures and how to deploy them reliably</title>
-      <link>https://www.nature.com/articles/s44172-024-00210-7</link>
-      <description>In a Review Article, Jonathan Sauder and colleagues develop a framework to categorize the variety of deployable structures and mechanisms available for operation on small satellites.</description>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Down-film as a new non-frame porous material for sound absorption</title>
-      <link>https://www.nature.com/articles/s41598-024-62526-w</link>
-      <description>No summary</description>
-      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Digital non-Foster-inspired electronics for broadband impedance matching</title>
-      <link>https://www.nature.com/articles/s41467-024-48861-6</link>
-      <description>Resonance-based systems such as electroacoustic transducers are often limited by narrow bandwidth. Here, authors report a digital non-Foster inspired circuit demonstrating significant bandwidth and power level enhancement with greater reconfigurability than conventional analog non-Foster approaches.</description>
-      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transparent radiative cooling cover window for flexible and foldable electronic displays</title>
-      <link>https://www.nature.com/articles/s41467-024-48840-x</link>
-      <description>In this work, authors synthesize transparent radiative cooling cover windows for flexible and foldable electronic devices. Besides demonstrated enhanced mechanical and moisture-impermeable properties, these mitigate temperature rise of devices under solar irradiation and improve overall thermal management.</description>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An autonomous design algorithm to experimentally realize three-dimensionally isotropic auxetic network structures without compromising density</title>
-      <link>https://www.nature.com/articles/s41524-024-01281-y</link>
-      <description>No summary</description>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Epsilon-near-zero regime for ultrafast opto-spintronics</title>
-      <link>https://www.nature.com/articles/s44306-024-00025-4</link>
-      <description>No summary</description>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acoustic metamaterials characterization via laser plasma sound sources</title>
-      <link>https://www.nature.com/articles/s43246-024-00529-w</link>
-      <description>Phononic crystals and acoustic metamaterials hold great promise in advancing technology and scientific understanding of materials. Here, the authors demonstrate a characterization method for acoustic meta-structures based on broadband acoustic pulses generated by laser-plasma sound sources.</description>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Injectable ultrasonic sensor for wireless monitoring of intracranial signals</title>
-      <link>https://www.nature.com/articles/s41586-024-07334-y</link>
-      <description>A bioresorbable, wireless hydrogel (metagel) sensor, encompassing both biodegradable and stimulus-responsive hydrogels for ultrasonic monitoring of intracranial signals, was implanted into intracranial space with a puncture needle and deformed in response to physiological environmental changes.</description>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Easy-to-actuate multi-compatible truss structures with prescribed reconfiguration</title>
-      <link>https://www.nature.com/articles/s41467-024-49210-3</link>
-      <description>Multi-stable structures are useful in soft robotics with fewer and lightweight actuators for rapid motion. Here, authors propose a full cycle design framework for morphing structures including multi-stability, stiffness design, minimum energy-path finding, and pulling actuation.</description>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A novel smart hybrid multimorph piezoelectric spherical shell cloak for broadband near-perfect underwater acoustic camouflage applications</title>
-      <link>https://www.nature.com/articles/s41598-024-63201-w</link>
-      <description>No summary</description>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Technology-forcing to reduce environmental noise pollution: a prospectus</title>
-      <link>https://www.nature.com/articles/s41370-024-00679-6</link>
-      <description>No summary</description>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A bioinspired surface tension-driven route toward programmed cellular ceramics</title>
-      <link>https://www.nature.com/articles/s41467-024-49345-3</link>
-      <description>Three-dimensional architecture engineering allows for higher performance ceramics with more diverse applications. Here, the authors report a simple and efficient manufacturing process for cellular ceramics in programmed cell-based 3D configurations.</description>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sol–gel derived ceramic nanoparticles as an alternative material for microstrip patch antenna in WLAN applications</title>
-      <link>https://www.nature.com/articles/s41598-024-63454-5</link>
-      <description>No summary</description>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tunable acoustic vortex generation by a compact rotating disk</title>
-      <link>https://www.nature.com/articles/s42005-024-01682-x</link>
-      <description>The tunability of acoustic vortices topological charge and working frequency is pivotal for efficient optical angular momentum generation, but its manipulation typically involves bulky setups. Here, the authors use aerodynamic dipole sources from a rotating disk to generate acoustic vortices with different topological charges in a compact setup.</description>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Terahertz phonon engineering with van der Waals heterostructures</title>
-      <link>https://www.nature.com/articles/s41586-024-07604-9</link>
-      <description>In an application of terahertz phonon engineering, terahertz phonons were generated, detected and manipulated through precise integration of atomically thin layers in van der Waals heterostructures.</description>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Origami engineering</title>
-      <link>https://www.nature.com/articles/s43586-024-00313-7</link>
-      <description>Origami engineering offers a conceptual framework for non-destructive and scale-independent abstractions for engineering applications. In this Primer, Misseroni et al. provide a comprehensive overview of the major principles and elements in origami engineering, including theoretical fundamentals, simulation tools, manufacturing techniques and testing protocols.</description>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Development of data-driven modeling method for nonlinear coupling components</title>
-      <link>https://www.nature.com/articles/s41598-024-65680-3</link>
-      <description>No summary</description>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emerging probing perspective of two-dimensional materials physics: terahertz emission spectroscopy</title>
-      <link>https://www.nature.com/articles/s41377-024-01486-2</link>
-      <description>No summary</description>
-      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An adjustable acoustic metamaterial cell using a magnetic membrane for tunable resonance</title>
-      <link>https://www.nature.com/articles/s41598-024-65819-2</link>
-      <description>No summary</description>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reversible two-way tuning of thermal conductivity in an end-linked star-shaped thermoset</title>
-      <link>https://www.nature.com/articles/s41467-024-49354-2</link>
-      <description>The need for reversible yet sizable thermal conductivity tuning in bulk materials impedes practical thermal switch design. Here, the authors report a scalable polymer which achieves a reversible 14 × tuning ratio via strain and temperature modulation.</description>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2D/2D coupled MOF/Fe composite metamaterials enable robust ultra–broadband microwave absorption</title>
-      <link>https://www.nature.com/articles/s41467-024-49762-4</link>
-      <description>Here the Authors showcase a microwave absorber design that combines semiconductive metal-organic frameworks with iron 2D layers, achieving ultra-broadband absorption in the whole 5 G frequencies and stable performance against various angles and polarizations.</description>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Broadening bandgaps in a multi-resonant piezoelectric metamaterial plate via bandgap merging phenomena</title>
-      <link>https://www.nature.com/articles/s41598-024-66849-6</link>
-      <description>No summary</description>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Electronic excitations at the plasmon–molecule interface</title>
-      <link>https://www.nature.com/articles/s41567-024-02537-6</link>
-      <description>Plasmonic excitations can enhance the interaction between a metal and molecules adsorbed onto its surface. This Review summarizes the different effects involved in this process and places them into a framework based on electron scattering.</description>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In-plane hyperbolic phonon polaritons: materials, properties, and nanophotonic devices</title>
-      <link>https://www.nature.com/articles/s44310-024-00019-4</link>
-      <description>No summary</description>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reconfigurable metamaterial processing units that solve arbitrary linear calculus equations</title>
-      <link>https://www.nature.com/articles/s41467-024-50483-x</link>
-      <description>A reconfigurable metamaterial processing unit that solves arbitrary linear calculus equations is proposed. With the merits of compactness, reconfigurability, and reusability, the proposed MPU provides a potential route for high speed computing.</description>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Polaritonic states trapped by topological defects</title>
-      <link>https://www.nature.com/articles/s41467-024-50666-6</link>
-      <description>Topological traps and guides for polaritons expand the potential for light-matter wave manipulation in ultrathin materials, facilitating photonic on-chip integration. Here the authors demonstrate a chiral-defect cavity in a planar metasurface that efficiently trap mid-IR phonon-polaritons in topological defects.</description>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ocean wave energy harvesting with high energy density and self-powered monitoring system</title>
-      <link>https://www.nature.com/articles/s41467-024-50926-5</link>
-      <description>Point-defect metamaterials have the property of concentrating vibration energy at the defect location. We design an environmental monitoring node based on this property, which can efficiently convert wave kinetic energy into electrical energy for real-time monitoring of the ocean environment.</description>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Machine learning enables the discovery of 2D Invar and anti-Invar monolayers</title>
-      <link>https://www.nature.com/articles/s41467-024-51379-6</link>
-      <description>Invar materials (characterized by a thermal expansion coefficient close to zero) have potential for thermal management applications, but their number is limited. Here, the authors report machine-learning-assisted high-throughput calculations to identify Invar and anti-Invar monolayers.</description>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nonlinear static and dynamic response of a metastructure exhibiting quasi-zero-stiffness characteristics for vibration control: an experimental validation</title>
-      <link>https://www.nature.com/articles/s41598-024-70126-x</link>
-      <description>No summary</description>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Temperature tunability of topological phase transitions and edge states in two-dimensional acoustic topological insulators</title>
-      <link>https://www.nature.com/articles/s41598-024-71021-1</link>
-      <description>No summary</description>
-      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating topological valley disclinations using multiple scattering and null-field theories</title>
-      <link>https://www.nature.com/articles/s43246-024-00618-w</link>
-      <description>Topological metamaterials are becoming increasingly interesting for their wave-confining capabilities, providing topologically robust guiding of light, sound and vibrations. Here, topological edge and disclination states in valley Hall sonic lattices are investigated via a non-commercial analytical approach combining the null-field method with multiple scattering techniques.</description>
-      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-power infrared switch with two-phase microfluidic flow and a 2D material thermal isolation layer</title>
-      <link>https://www.nature.com/articles/s41378-024-00761-x</link>
-      <description>No summary</description>
-      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Polarization management in silicon photonics</title>
-      <link>https://www.nature.com/articles/s44310-024-00033-6</link>
-      <description>No summary</description>
-      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sub-picosecond, strain-tunable, polarization-selective optical switching via anisotropic exciton dynamics in quasi-1D ZrSe3</title>
-      <link>https://www.nature.com/articles/s41377-024-01585-0</link>
-      <description>Strain control of quasi-1D ZrSe3 enables ultrafast, polarization-selective optical switching with enhanced selectivity and tunable switching energies.</description>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unprecedented mechanical wave energy absorption observed in multifunctional bioinspired architected metamaterials</title>
-      <link>https://www.nature.com/articles/s41427-024-00565-5</link>
-      <description>Noise and impact hazards are pervasive in engineering, necessitating materials capable of absorbing both sound and stress wave energy. Here, we present bioinspired metamaterials with exceptional sound-absorbing and mechanical properties using a weakly-coupled design strategy. These materials incorporate multi-layered resonators for superior acoustic performance and cambered cell walls for enhanced structural strength. They achieve an average absorption coefficient of 0.80 across the 1.0 to 6.0 kHz range, all within a sleek 21 mm thickness. Furthermore, the design transitions failure modes from catastrophic to progressive, resulting in a remarkable 558.4% increase in energy absorption compared to conventional designs.</description>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamic response of sandwich functionally graded nanoplate under thermal environments and elastic foundations using dynamic stiffness method</title>
-      <link>https://www.nature.com/articles/s41598-024-70210-2</link>
-      <description>No summary</description>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Automated discovery of reprogrammable nonlinear dynamic metamaterials</title>
-      <link>https://www.nature.com/articles/s41563-024-02008-6</link>
-      <description>A framework is presented to automate the design of flexible metamaterial structures that can execute desired nonlinear dynamic tasks and have reprogrammable functionality.</description>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Active encoding of flexural wave with non-diffractive Talbot effect</title>
-      <link>https://www.nature.com/articles/s41598-024-73189-y</link>
-      <description>No summary</description>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Composite metastructure with tunable ultra-wide low-frequency three-dimensional band gaps for vibration and noise control</title>
-      <link>https://www.nature.com/articles/s41598-024-73909-4</link>
-      <description>No summary</description>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Design and architecting of a broadband bullet-diamond shaped integrated frequency selective meta-surface absorber for aero-stealth platform</title>
-      <link>https://www.nature.com/articles/s41598-024-71559-0</link>
-      <description>No summary</description>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Separating, purifying and decoding elastic waves by mimicking a cochlea on a thin plate</title>
-      <link>https://www.nature.com/articles/s42005-024-01818-z</link>
-      <description>Cochlea is a high-resolution auditory transduction organ to distinguish sounds in both high sensitivity and broadband working frequency. The authors mimic a cochlea on a plate, which can separate, purify and decode complicated elastic waves in quite a compact way.</description>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-functional programmable active acoustic meta-device: acoustic switch, lens, and barrier</title>
-      <link>https://www.nature.com/articles/s41598-024-71737-0</link>
-      <description>No summary</description>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On-chip phonon-enhanced IR near-field detection of molecular vibrations</title>
-      <link>https://www.nature.com/articles/s41467-024-53182-9</link>
-      <description>Phonon polaritons can be harnessed for SEIRA spectroscopy. Here, the authors demonstrate a compact on-chip phononic SEIRA platform based on a h-BN/graphene/h-BN heterostructure atop a metal split-gate that serves both as a SEIRA substrate and as a room-temperature infrared detector.</description>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A digitally embroidered metamaterial biosensor for kinetic environments</title>
-      <link>https://www.nature.com/articles/s41928-024-01263-4</link>
-      <description>A textile metamaterial sensor can wirelessly measure biomarkers—such as heart rate and respiration—in vehicles and shows no accuracy degradation when operating in moving environments.</description>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bandgap formation mechanism in tacticity inspired elastic mechanical metastructures</title>
-      <link>https://www.nature.com/articles/s41598-024-75462-6</link>
-      <description>No summary</description>
-      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sustainable heat harvesting via thermal nonlinearity</title>
-      <link>https://www.nature.com/articles/s42254-024-00771-8</link>
-      <description>This Perspective surveys the role of thermal nonlinearity in figures of merit through a multiscale physical understanding to advance heat harvesting technologies beyond linear processes, focusing on ‘nonlinear heat harvesting’, which potentially contributes to sustainable energy transition and decarbonization goals.</description>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neo-Hookean modeling of nonlinear coupled behavior in circular plates supported by micro-pillars</title>
-      <link>https://www.nature.com/articles/s41598-024-76528-1</link>
-      <description>No summary</description>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metamaterial biosensors for driver monitoring</title>
-      <link>https://www.nature.com/articles/s41928-024-01266-1</link>
-      <description>Monitoring driver alertness could improve road safety, but the use of biosensors in moving vehicles is challenging. Now, a metamaterial biosensor has been designed that can be directly embroidered onto seat belts, enabling the contactless measurement of drivers’ vital signs. This biosensor shows reliable and consistent performance, even in challenging kinetic environments.</description>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tailoring smart hydrogels through manipulation of heterogeneous subdomains</title>
-      <link>https://www.nature.com/articles/s41467-024-53552-3</link>
-      <description>Replicating the cellular structures in soft tissue has promise in the design of soft materials. Here, the authors report a hydrogel system with cellular patterns in which strain-driven heterogeneous subdomains are induced, allowing local and global behaviour to be tuned.</description>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Overdamping of vibration resonances by liquid crystal elastomers</title>
-      <link>https://www.nature.com/articles/s41598-024-76952-3</link>
-      <description>No summary</description>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the study of solitary wave dynamics and interaction phenomena in the ultrasound imaging modelled by the fractional nonlinear system</title>
-      <link>https://www.nature.com/articles/s41598-024-75494-y</link>
-      <description>No summary</description>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bandgap characteristics of four component periodic pile barriers in passive vibration isolation</title>
-      <link>https://www.nature.com/articles/s41598-024-76735-w</link>
-      <description>No summary</description>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Creating new materials by turning failure on its head</title>
-      <link>https://www.nature.com/articles/d41586-024-03599-5</link>
-      <description>Usually, materials either are stiff or can absorb shocks or vibrations; they rarely achieve both. A fresh approach combines these seemingly incompatible properties in materials that are at once stiff, lightweight and shock-absorbent. This technique embraces the failure of the materials.</description>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Localized topological states beyond Fano resonances via counter-propagating wave mode conversion in piezoelectric microelectromechanical devices</title>
-      <link>https://www.nature.com/articles/s41467-024-53925-8</link>
-      <description>The authors introduce a MEMS device that leverages the destructive interference between two topological radiofrequency (RF) counter-propagating wave modes at a piezoelectric Aluminum Scandium Nitride (AlScN) Su-Schrieffer-Heeger (SSH) interface. This device offers enhanced sensing capabilities compared to conventional NEMS/MEMS, particularly for localized parameters such as the mass of a single cell.</description>
-      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visualizing the topological pentagon states of a giant C540 metamaterial</title>
-      <link>https://www.nature.com/articles/s41467-024-53819-9</link>
-      <description>Fullerenes possess unique electronic property influenced by their real space topology and gauge field. Here, the authors construct an acoustic C540 fullerene metamaterial, allowing observation of 3D topological pentagon states using sound waves, and offering new insights into classical wave manipulation.</description>
-      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A high-performance ultra-compact plasmonic metamaterial structure for optical THz absorption</title>
-      <link>https://www.nature.com/articles/s41598-024-77898-2</link>
-      <description>No summary</description>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model analysis and experiment study for effects of thermal viscous and fluid flow on ventilated acoustic metamaterials labyrinth</title>
-      <link>https://www.nature.com/articles/s41598-024-78454-8</link>
-      <description>No summary</description>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Broadband surface enhanced infrared absorption with multiple Fano resonance by metallic oblique-wire-bundle metamaterial absorbers</title>
-      <link>https://www.nature.com/articles/s41598-024-78633-7</link>
-      <description>No summary</description>
-      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the directionality of membrane coupled Helmholtz resonators under open air conditions</title>
-      <link>https://www.nature.com/articles/s41598-024-79568-9</link>
-      <description>No summary</description>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A novel gyroscope based on the slow surface acoustic wave in a phononic metamaterial</title>
-      <link>https://www.nature.com/articles/s41378-024-00787-1</link>
-      <description>No summary</description>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robust liquid crystal semi-interpenetrating polymer network with superior energy-dissipation performance</title>
-      <link>https://www.nature.com/articles/s41467-024-54233-x</link>
-      <description>The design of liquid crystal networks as energy dissipation materials achieving simultaneously good mechanical and energy dissipation properties is challenging. Here, the authors fabricate energy-dissipation liquid crystal semi-interpenetrating polymer networks consisting liquid crystalline polymers with synergistic properties.</description>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thermal imaging through hot emissive windows</title>
-      <link>https://www.nature.com/articles/s44172-024-00316-y</link>
-      <description>It is not currently possible for an infrared camera to see through a hot window. Now Ciril Samuel Prasad and colleagues report a metasurface-coated window which suppresses thermal emission towards an IR camera while being sufficiently transparent for thermal imaging.</description>
-      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metamaterial-based Artificial magnetic conductor for efficient breast cancer diagnosis using a low-cost antenna array</title>
-      <link>https://www.nature.com/articles/s41598-024-79666-8</link>
-      <description>No summary</description>
-      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biomimetic optoelectronics with nanomaterials for artificial vision</title>
-      <link>https://www.nature.com/articles/s41578-024-00750-6</link>
-      <description>Inspired by biological systems, artificial vision technologies have advanced considerably, particularly with the development of curved image sensors, which improve visual data capture, and neuromorphic optoelectronics, which enable efficient in-sensor processing. This Review provides a comprehensive discussion of current nanomaterial-based biomimetic optoelectronics.</description>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perspectives of chiral nanophotonics: from mechanisms to biomedical applications</title>
-      <link>https://www.nature.com/articles/s44310-024-00045-2</link>
-      <description>No summary</description>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mechanics of Drosophila wing deployment</title>
-      <link>https://www.nature.com/articles/s41467-024-54527-0</link>
-      <description>Upon emerging from their pupal case, insects swiftly deploy their wings from a compact origami-like structure to a fully extended blade. Here, authors use a combination of imaging and mechanical tests to model the kinematics and dynamics of wing deployment in Drosophila.</description>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heavy-boundary mode patterning and dynamics of topological phonons in polymer chains and supramolecular lattices on surfaces</title>
-      <link>https://www.nature.com/articles/s41467-024-54511-8</link>
-      <description>Topological phonon boundary modes (TBM) hold promises for advanced phononic applications. Here, the authors introduce the bulk-heavy boundary correspondence to pattern TBM in polymers and supramolecular assemblies under thermal fluctuations.</description>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bridging the digital–physical divide using haptic and wearable technologies</title>
-      <link>https://www.nature.com/articles/s41928-024-01325-7</link>
-      <description>This Review examines the development of haptic and wearable technologies that could be used to build a more realistic and immersive metaverse, exploring the potential applications of such technology and the ethical and technological challenges that the field faces.</description>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Effect of nickel and copper shells on mechanical properties of advanced lightweight TPU metamaterials during uniaxial compression</title>
-      <link>https://www.nature.com/articles/s41598-024-82317-7</link>
-      <description>No summary</description>
-      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multimaterial cryogenic printing of three-dimensional soft hydrogel machines</title>
-      <link>https://www.nature.com/articles/s41467-024-55323-6</link>
-      <description>Hydrogel-based machines have potential in a range of applications, but it can be challenging to prepare multimaterial devices with complex structures. Here, the authors report the development of a multimaterial cryogenic printing technique that can be used to prepare three-dimensional structures with geometries such as overhanging, thin-walled and hollow.</description>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hybrid electromagnetic and moisture energy harvesting enabled by ionic diode films</title>
-      <link>https://www.nature.com/articles/s41467-024-55030-2</link>
-      <description>Wireless energy-responsive systems are essential for intelligent devices. This study demonstrates an electromagnetic-moist coupling effect for energy harvesting and signal transmission using fabricated ionic diode films, showing improved performance and potential for practical applications.</description>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding the intrinsic piezoelectric anisotropy of tetragonal ABO3 perovskites through a high-throughput study</title>
-      <link>https://www.nature.com/articles/s41524-024-01496-z</link>
-      <description>No summary</description>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emergence of melt and glass states of halide perovskite semiconductors</title>
-      <link>https://www.nature.com/articles/s41578-024-00759-x</link>
-      <description>Crystalline metal halide perovskites have garnered substantial recent research attention given their outstanding semiconducting character, unprecedented tunability and wide-range application. This Perspective highlights the exciting prospects of extending this focus beyond long-range order — that is, to glassy and melt states.</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Optimization of parallel coiled cavities of different depths in microperforated panel sound absorbers</title>
-      <link>https://www.nature.com/articles/s41598-025-85171-3</link>
-      <description>No summary</description>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Electret integrated magnetic field sensor based on magnetostrictive polymer composite with nT resolution</title>
-      <link>https://www.nature.com/articles/s41598-024-85069-6</link>
-      <description>No summary</description>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>All-angle unidirectional flat-band acoustic metasurfaces</title>
-      <link>https://www.nature.com/articles/s41467-025-55937-4</link>
-      <description>Flat bands have empowered novel phenomena such as canalization, high-collimation and low-loss propagation. Here, the authors propose the concept of symmetry broken moiré systems, which overcomes the limitations of fixed flat bands, enabling multiple and unidirectional canalizations.</description>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reverse design of broadband sound absorption structure based on deep learning method</title>
-      <link>https://www.nature.com/articles/s41598-025-86077-w</link>
-      <description>No summary</description>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Highly sensitive split ring resonator-based sensor for quality monitoring of edible oils</title>
-      <link>https://www.nature.com/articles/s41598-025-85800-x</link>
-      <description>No summary</description>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-objective design of multi-material truss lattices utilizing graph neural networks</title>
-      <link>https://www.nature.com/articles/s41598-025-86812-3</link>
-      <description>No summary</description>
-      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On quantifying dynamic behavior of architected metal/polymer TPMS/lattices-based interpenetrating phase composites</title>
-      <link>https://www.nature.com/articles/s41598-024-84303-5</link>
-      <description>No summary</description>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Machine learning optimized design of THz piezoelectric perovskite-based biosensor for the detection of formalin in aqueous environments</title>
@@ -890,22 +38,874 @@
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Composite acoustic system for low-frequency sound absorption</title>
-      <link>https://www.nature.com/articles/s41598-025-89151-5</link>
+      <title>On quantifying dynamic behavior of architected metal/polymer TPMS/lattices-based interpenetrating phase composites</title>
+      <link>https://www.nature.com/articles/s41598-024-84303-5</link>
       <description>No summary</description>
-      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Editorial: Breaking the silence - the launch of npj Acoustics</title>
-      <link>https://www.nature.com/articles/s44384-025-00002-z</link>
+      <title>Multi-objective design of multi-material truss lattices utilizing graph neural networks</title>
+      <link>https://www.nature.com/articles/s41598-025-86812-3</link>
       <description>No summary</description>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Research on the low-frequency band gap characteristics of longitudinal vibration of ship shafting based on bionic quasi-zero stiffness metamaterials</title>
-      <link>https://www.nature.com/articles/s41598-025-89986-y</link>
+      <title>Highly sensitive split ring resonator-based sensor for quality monitoring of edible oils</title>
+      <link>https://www.nature.com/articles/s41598-025-85800-x</link>
       <description>No summary</description>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>All-angle unidirectional flat-band acoustic metasurfaces</title>
+      <link>https://www.nature.com/articles/s41467-025-55937-4</link>
+      <description>Flat bands have empowered novel phenomena such as canalization, high-collimation and low-loss propagation. Here, the authors propose the concept of symmetry broken moiré systems, which overcomes the limitations of fixed flat bands, enabling multiple and unidirectional canalizations.</description>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reverse design of broadband sound absorption structure based on deep learning method</title>
+      <link>https://www.nature.com/articles/s41598-025-86077-w</link>
+      <description>No summary</description>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electret integrated magnetic field sensor based on magnetostrictive polymer composite with nT resolution</title>
+      <link>https://www.nature.com/articles/s41598-024-85069-6</link>
+      <description>No summary</description>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emergence of melt and glass states of halide perovskite semiconductors</title>
+      <link>https://www.nature.com/articles/s41578-024-00759-x</link>
+      <description>Crystalline metal halide perovskites have garnered substantial recent research attention given their outstanding semiconducting character, unprecedented tunability and wide-range application. This Perspective highlights the exciting prospects of extending this focus beyond long-range order — that is, to glassy and melt states.</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimization of parallel coiled cavities of different depths in microperforated panel sound absorbers</title>
+      <link>https://www.nature.com/articles/s41598-025-85171-3</link>
+      <description>No summary</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Understanding the intrinsic piezoelectric anisotropy of tetragonal ABO3 perovskites through a high-throughput study</title>
+      <link>https://www.nature.com/articles/s41524-024-01496-z</link>
+      <description>No summary</description>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multimaterial cryogenic printing of three-dimensional soft hydrogel machines</title>
+      <link>https://www.nature.com/articles/s41467-024-55323-6</link>
+      <description>Hydrogel-based machines have potential in a range of applications, but it can be challenging to prepare multimaterial devices with complex structures. Here, the authors report the development of a multimaterial cryogenic printing technique that can be used to prepare three-dimensional structures with geometries such as overhanging, thin-walled and hollow.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hybrid electromagnetic and moisture energy harvesting enabled by ionic diode films</title>
+      <link>https://www.nature.com/articles/s41467-024-55030-2</link>
+      <description>Wireless energy-responsive systems are essential for intelligent devices. This study demonstrates an electromagnetic-moist coupling effect for energy harvesting and signal transmission using fabricated ionic diode films, showing improved performance and potential for practical applications.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effect of nickel and copper shells on mechanical properties of advanced lightweight TPU metamaterials during uniaxial compression</title>
+      <link>https://www.nature.com/articles/s41598-024-82317-7</link>
+      <description>No summary</description>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bridging the digital–physical divide using haptic and wearable technologies</title>
+      <link>https://www.nature.com/articles/s41928-024-01325-7</link>
+      <description>This Review examines the development of haptic and wearable technologies that could be used to build a more realistic and immersive metaverse, exploring the potential applications of such technology and the ethical and technological challenges that the field faces.</description>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mechanics of Drosophila wing deployment</title>
+      <link>https://www.nature.com/articles/s41467-024-54527-0</link>
+      <description>Upon emerging from their pupal case, insects swiftly deploy their wings from a compact origami-like structure to a fully extended blade. Here, authors use a combination of imaging and mechanical tests to model the kinematics and dynamics of wing deployment in Drosophila.</description>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heavy-boundary mode patterning and dynamics of topological phonons in polymer chains and supramolecular lattices on surfaces</title>
+      <link>https://www.nature.com/articles/s41467-024-54511-8</link>
+      <description>Topological phonon boundary modes (TBM) hold promises for advanced phononic applications. Here, the authors introduce the bulk-heavy boundary correspondence to pattern TBM in polymers and supramolecular assemblies under thermal fluctuations.</description>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perspectives of chiral nanophotonics: from mechanisms to biomedical applications</title>
+      <link>https://www.nature.com/articles/s44310-024-00045-2</link>
+      <description>No summary</description>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biomimetic optoelectronics with nanomaterials for artificial vision</title>
+      <link>https://www.nature.com/articles/s41578-024-00750-6</link>
+      <description>Inspired by biological systems, artificial vision technologies have advanced considerably, particularly with the development of curved image sensors, which improve visual data capture, and neuromorphic optoelectronics, which enable efficient in-sensor processing. This Review provides a comprehensive discussion of current nanomaterial-based biomimetic optoelectronics.</description>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thermal imaging through hot emissive windows</title>
+      <link>https://www.nature.com/articles/s44172-024-00316-y</link>
+      <description>It is not currently possible for an infrared camera to see through a hot window. Now Ciril Samuel Prasad and colleagues report a metasurface-coated window which suppresses thermal emission towards an IR camera while being sufficiently transparent for thermal imaging.</description>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metamaterial-based Artificial magnetic conductor for efficient breast cancer diagnosis using a low-cost antenna array</title>
+      <link>https://www.nature.com/articles/s41598-024-79666-8</link>
+      <description>No summary</description>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robust liquid crystal semi-interpenetrating polymer network with superior energy-dissipation performance</title>
+      <link>https://www.nature.com/articles/s41467-024-54233-x</link>
+      <description>The design of liquid crystal networks as energy dissipation materials achieving simultaneously good mechanical and energy dissipation properties is challenging. Here, the authors fabricate energy-dissipation liquid crystal semi-interpenetrating polymer networks consisting liquid crystalline polymers with synergistic properties.</description>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A novel gyroscope based on the slow surface acoustic wave in a phononic metamaterial</title>
+      <link>https://www.nature.com/articles/s41378-024-00787-1</link>
+      <description>No summary</description>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On the directionality of membrane coupled Helmholtz resonators under open air conditions</title>
+      <link>https://www.nature.com/articles/s41598-024-79568-9</link>
+      <description>No summary</description>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broadband surface enhanced infrared absorption with multiple Fano resonance by metallic oblique-wire-bundle metamaterial absorbers</title>
+      <link>https://www.nature.com/articles/s41598-024-78633-7</link>
+      <description>No summary</description>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A high-performance ultra-compact plasmonic metamaterial structure for optical THz absorption</title>
+      <link>https://www.nature.com/articles/s41598-024-77898-2</link>
+      <description>No summary</description>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model analysis and experiment study for effects of thermal viscous and fluid flow on ventilated acoustic metamaterials labyrinth</title>
+      <link>https://www.nature.com/articles/s41598-024-78454-8</link>
+      <description>No summary</description>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Localized topological states beyond Fano resonances via counter-propagating wave mode conversion in piezoelectric microelectromechanical devices</title>
+      <link>https://www.nature.com/articles/s41467-024-53925-8</link>
+      <description>The authors introduce a MEMS device that leverages the destructive interference between two topological radiofrequency (RF) counter-propagating wave modes at a piezoelectric Aluminum Scandium Nitride (AlScN) Su-Schrieffer-Heeger (SSH) interface. This device offers enhanced sensing capabilities compared to conventional NEMS/MEMS, particularly for localized parameters such as the mass of a single cell.</description>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visualizing the topological pentagon states of a giant C540 metamaterial</title>
+      <link>https://www.nature.com/articles/s41467-024-53819-9</link>
+      <description>Fullerenes possess unique electronic property influenced by their real space topology and gauge field. Here, the authors construct an acoustic C540 fullerene metamaterial, allowing observation of 3D topological pentagon states using sound waves, and offering new insights into classical wave manipulation.</description>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creating new materials by turning failure on its head</title>
+      <link>https://www.nature.com/articles/d41586-024-03599-5</link>
+      <description>Usually, materials either are stiff or can absorb shocks or vibrations; they rarely achieve both. A fresh approach combines these seemingly incompatible properties in materials that are at once stiff, lightweight and shock-absorbent. This technique embraces the failure of the materials.</description>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bandgap characteristics of four component periodic pile barriers in passive vibration isolation</title>
+      <link>https://www.nature.com/articles/s41598-024-76735-w</link>
+      <description>No summary</description>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On the study of solitary wave dynamics and interaction phenomena in the ultrasound imaging modelled by the fractional nonlinear system</title>
+      <link>https://www.nature.com/articles/s41598-024-75494-y</link>
+      <description>No summary</description>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Overdamping of vibration resonances by liquid crystal elastomers</title>
+      <link>https://www.nature.com/articles/s41598-024-76952-3</link>
+      <description>No summary</description>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tailoring smart hydrogels through manipulation of heterogeneous subdomains</title>
+      <link>https://www.nature.com/articles/s41467-024-53552-3</link>
+      <description>Replicating the cellular structures in soft tissue has promise in the design of soft materials. Here, the authors report a hydrogel system with cellular patterns in which strain-driven heterogeneous subdomains are induced, allowing local and global behaviour to be tuned.</description>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neo-Hookean modeling of nonlinear coupled behavior in circular plates supported by micro-pillars</title>
+      <link>https://www.nature.com/articles/s41598-024-76528-1</link>
+      <description>No summary</description>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metamaterial biosensors for driver monitoring</title>
+      <link>https://www.nature.com/articles/s41928-024-01266-1</link>
+      <description>Monitoring driver alertness could improve road safety, but the use of biosensors in moving vehicles is challenging. Now, a metamaterial biosensor has been designed that can be directly embroidered onto seat belts, enabling the contactless measurement of drivers’ vital signs. This biosensor shows reliable and consistent performance, even in challenging kinetic environments.</description>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sustainable heat harvesting via thermal nonlinearity</title>
+      <link>https://www.nature.com/articles/s42254-024-00771-8</link>
+      <description>This Perspective surveys the role of thermal nonlinearity in figures of merit through a multiscale physical understanding to advance heat harvesting technologies beyond linear processes, focusing on ‘nonlinear heat harvesting’, which potentially contributes to sustainable energy transition and decarbonization goals.</description>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bandgap formation mechanism in tacticity inspired elastic mechanical metastructures</title>
+      <link>https://www.nature.com/articles/s41598-024-75462-6</link>
+      <description>No summary</description>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A digitally embroidered metamaterial biosensor for kinetic environments</title>
+      <link>https://www.nature.com/articles/s41928-024-01263-4</link>
+      <description>A textile metamaterial sensor can wirelessly measure biomarkers—such as heart rate and respiration—in vehicles and shows no accuracy degradation when operating in moving environments.</description>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On-chip phonon-enhanced IR near-field detection of molecular vibrations</title>
+      <link>https://www.nature.com/articles/s41467-024-53182-9</link>
+      <description>Phonon polaritons can be harnessed for SEIRA spectroscopy. Here, the authors demonstrate a compact on-chip phononic SEIRA platform based on a h-BN/graphene/h-BN heterostructure atop a metal split-gate that serves both as a SEIRA substrate and as a room-temperature infrared detector.</description>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-functional programmable active acoustic meta-device: acoustic switch, lens, and barrier</title>
+      <link>https://www.nature.com/articles/s41598-024-71737-0</link>
+      <description>No summary</description>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Separating, purifying and decoding elastic waves by mimicking a cochlea on a thin plate</title>
+      <link>https://www.nature.com/articles/s42005-024-01818-z</link>
+      <description>Cochlea is a high-resolution auditory transduction organ to distinguish sounds in both high sensitivity and broadband working frequency. The authors mimic a cochlea on a plate, which can separate, purify and decode complicated elastic waves in quite a compact way.</description>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Design and architecting of a broadband bullet-diamond shaped integrated frequency selective meta-surface absorber for aero-stealth platform</title>
+      <link>https://www.nature.com/articles/s41598-024-71559-0</link>
+      <description>No summary</description>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Composite metastructure with tunable ultra-wide low-frequency three-dimensional band gaps for vibration and noise control</title>
+      <link>https://www.nature.com/articles/s41598-024-73909-4</link>
+      <description>No summary</description>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active encoding of flexural wave with non-diffractive Talbot effect</title>
+      <link>https://www.nature.com/articles/s41598-024-73189-y</link>
+      <description>No summary</description>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated discovery of reprogrammable nonlinear dynamic metamaterials</title>
+      <link>https://www.nature.com/articles/s41563-024-02008-6</link>
+      <description>A framework is presented to automate the design of flexible metamaterial structures that can execute desired nonlinear dynamic tasks and have reprogrammable functionality.</description>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic response of sandwich functionally graded nanoplate under thermal environments and elastic foundations using dynamic stiffness method</title>
+      <link>https://www.nature.com/articles/s41598-024-70210-2</link>
+      <description>No summary</description>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unprecedented mechanical wave energy absorption observed in multifunctional bioinspired architected metamaterials</title>
+      <link>https://www.nature.com/articles/s41427-024-00565-5</link>
+      <description>Noise and impact hazards are pervasive in engineering, necessitating materials capable of absorbing both sound and stress wave energy. Here, we present bioinspired metamaterials with exceptional sound-absorbing and mechanical properties using a weakly-coupled design strategy. These materials incorporate multi-layered resonators for superior acoustic performance and cambered cell walls for enhanced structural strength. They achieve an average absorption coefficient of 0.80 across the 1.0 to 6.0 kHz range, all within a sleek 21 mm thickness. Furthermore, the design transitions failure modes from catastrophic to progressive, resulting in a remarkable 558.4% increase in energy absorption compared to conventional designs.</description>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sub-picosecond, strain-tunable, polarization-selective optical switching via anisotropic exciton dynamics in quasi-1D ZrSe3</title>
+      <link>https://www.nature.com/articles/s41377-024-01585-0</link>
+      <description>Strain control of quasi-1D ZrSe3 enables ultrafast, polarization-selective optical switching with enhanced selectivity and tunable switching energies.</description>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-power infrared switch with two-phase microfluidic flow and a 2D material thermal isolation layer</title>
+      <link>https://www.nature.com/articles/s41378-024-00761-x</link>
+      <description>No summary</description>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polarization management in silicon photonics</title>
+      <link>https://www.nature.com/articles/s44310-024-00033-6</link>
+      <description>No summary</description>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating topological valley disclinations using multiple scattering and null-field theories</title>
+      <link>https://www.nature.com/articles/s43246-024-00618-w</link>
+      <description>Topological metamaterials are becoming increasingly interesting for their wave-confining capabilities, providing topologically robust guiding of light, sound and vibrations. Here, topological edge and disclination states in valley Hall sonic lattices are investigated via a non-commercial analytical approach combining the null-field method with multiple scattering techniques.</description>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Temperature tunability of topological phase transitions and edge states in two-dimensional acoustic topological insulators</title>
+      <link>https://www.nature.com/articles/s41598-024-71021-1</link>
+      <description>No summary</description>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nonlinear static and dynamic response of a metastructure exhibiting quasi-zero-stiffness characteristics for vibration control: an experimental validation</title>
+      <link>https://www.nature.com/articles/s41598-024-70126-x</link>
+      <description>No summary</description>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Machine learning enables the discovery of 2D Invar and anti-Invar monolayers</title>
+      <link>https://www.nature.com/articles/s41467-024-51379-6</link>
+      <description>Invar materials (characterized by a thermal expansion coefficient close to zero) have potential for thermal management applications, but their number is limited. Here, the authors report machine-learning-assisted high-throughput calculations to identify Invar and anti-Invar monolayers.</description>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ocean wave energy harvesting with high energy density and self-powered monitoring system</title>
+      <link>https://www.nature.com/articles/s41467-024-50926-5</link>
+      <description>Point-defect metamaterials have the property of concentrating vibration energy at the defect location. We design an environmental monitoring node based on this property, which can efficiently convert wave kinetic energy into electrical energy for real-time monitoring of the ocean environment.</description>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polaritonic states trapped by topological defects</title>
+      <link>https://www.nature.com/articles/s41467-024-50666-6</link>
+      <description>Topological traps and guides for polaritons expand the potential for light-matter wave manipulation in ultrathin materials, facilitating photonic on-chip integration. Here the authors demonstrate a chiral-defect cavity in a planar metasurface that efficiently trap mid-IR phonon-polaritons in topological defects.</description>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reconfigurable metamaterial processing units that solve arbitrary linear calculus equations</title>
+      <link>https://www.nature.com/articles/s41467-024-50483-x</link>
+      <description>A reconfigurable metamaterial processing unit that solves arbitrary linear calculus equations is proposed. With the merits of compactness, reconfigurability, and reusability, the proposed MPU provides a potential route for high speed computing.</description>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In-plane hyperbolic phonon polaritons: materials, properties, and nanophotonic devices</title>
+      <link>https://www.nature.com/articles/s44310-024-00019-4</link>
+      <description>No summary</description>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electronic excitations at the plasmon–molecule interface</title>
+      <link>https://www.nature.com/articles/s41567-024-02537-6</link>
+      <description>Plasmonic excitations can enhance the interaction between a metal and molecules adsorbed onto its surface. This Review summarizes the different effects involved in this process and places them into a framework based on electron scattering.</description>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broadening bandgaps in a multi-resonant piezoelectric metamaterial plate via bandgap merging phenomena</title>
+      <link>https://www.nature.com/articles/s41598-024-66849-6</link>
+      <description>No summary</description>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2D/2D coupled MOF/Fe composite metamaterials enable robust ultra–broadband microwave absorption</title>
+      <link>https://www.nature.com/articles/s41467-024-49762-4</link>
+      <description>Here the Authors showcase a microwave absorber design that combines semiconductive metal-organic frameworks with iron 2D layers, achieving ultra-broadband absorption in the whole 5 G frequencies and stable performance against various angles and polarizations.</description>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reversible two-way tuning of thermal conductivity in an end-linked star-shaped thermoset</title>
+      <link>https://www.nature.com/articles/s41467-024-49354-2</link>
+      <description>The need for reversible yet sizable thermal conductivity tuning in bulk materials impedes practical thermal switch design. Here, the authors report a scalable polymer which achieves a reversible 14 × tuning ratio via strain and temperature modulation.</description>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An adjustable acoustic metamaterial cell using a magnetic membrane for tunable resonance</title>
+      <link>https://www.nature.com/articles/s41598-024-65819-2</link>
+      <description>No summary</description>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emerging probing perspective of two-dimensional materials physics: terahertz emission spectroscopy</title>
+      <link>https://www.nature.com/articles/s41377-024-01486-2</link>
+      <description>No summary</description>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Development of data-driven modeling method for nonlinear coupling components</title>
+      <link>https://www.nature.com/articles/s41598-024-65680-3</link>
+      <description>No summary</description>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terahertz phonon engineering with van der Waals heterostructures</title>
+      <link>https://www.nature.com/articles/s41586-024-07604-9</link>
+      <description>In an application of terahertz phonon engineering, terahertz phonons were generated, detected and manipulated through precise integration of atomically thin layers in van der Waals heterostructures.</description>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Origami engineering</title>
+      <link>https://www.nature.com/articles/s43586-024-00313-7</link>
+      <description>Origami engineering offers a conceptual framework for non-destructive and scale-independent abstractions for engineering applications. In this Primer, Misseroni et al. provide a comprehensive overview of the major principles and elements in origami engineering, including theoretical fundamentals, simulation tools, manufacturing techniques and testing protocols.</description>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sol–gel derived ceramic nanoparticles as an alternative material for microstrip patch antenna in WLAN applications</title>
+      <link>https://www.nature.com/articles/s41598-024-63454-5</link>
+      <description>No summary</description>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tunable acoustic vortex generation by a compact rotating disk</title>
+      <link>https://www.nature.com/articles/s42005-024-01682-x</link>
+      <description>The tunability of acoustic vortices topological charge and working frequency is pivotal for efficient optical angular momentum generation, but its manipulation typically involves bulky setups. Here, the authors use aerodynamic dipole sources from a rotating disk to generate acoustic vortices with different topological charges in a compact setup.</description>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A bioinspired surface tension-driven route toward programmed cellular ceramics</title>
+      <link>https://www.nature.com/articles/s41467-024-49345-3</link>
+      <description>Three-dimensional architecture engineering allows for higher performance ceramics with more diverse applications. Here, the authors report a simple and efficient manufacturing process for cellular ceramics in programmed cell-based 3D configurations.</description>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Technology-forcing to reduce environmental noise pollution: a prospectus</title>
+      <link>https://www.nature.com/articles/s41370-024-00679-6</link>
+      <description>No summary</description>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Easy-to-actuate multi-compatible truss structures with prescribed reconfiguration</title>
+      <link>https://www.nature.com/articles/s41467-024-49210-3</link>
+      <description>Multi-stable structures are useful in soft robotics with fewer and lightweight actuators for rapid motion. Here, authors propose a full cycle design framework for morphing structures including multi-stability, stiffness design, minimum energy-path finding, and pulling actuation.</description>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A novel smart hybrid multimorph piezoelectric spherical shell cloak for broadband near-perfect underwater acoustic camouflage applications</title>
+      <link>https://www.nature.com/articles/s41598-024-63201-w</link>
+      <description>No summary</description>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Injectable ultrasonic sensor for wireless monitoring of intracranial signals</title>
+      <link>https://www.nature.com/articles/s41586-024-07334-y</link>
+      <description>A bioresorbable, wireless hydrogel (metagel) sensor, encompassing both biodegradable and stimulus-responsive hydrogels for ultrasonic monitoring of intracranial signals, was implanted into intracranial space with a puncture needle and deformed in response to physiological environmental changes.</description>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acoustic metamaterials characterization via laser plasma sound sources</title>
+      <link>https://www.nature.com/articles/s43246-024-00529-w</link>
+      <description>Phononic crystals and acoustic metamaterials hold great promise in advancing technology and scientific understanding of materials. Here, the authors demonstrate a characterization method for acoustic meta-structures based on broadband acoustic pulses generated by laser-plasma sound sources.</description>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Epsilon-near-zero regime for ultrafast opto-spintronics</title>
+      <link>https://www.nature.com/articles/s44306-024-00025-4</link>
+      <description>No summary</description>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An autonomous design algorithm to experimentally realize three-dimensionally isotropic auxetic network structures without compromising density</title>
+      <link>https://www.nature.com/articles/s41524-024-01281-y</link>
+      <description>No summary</description>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transparent radiative cooling cover window for flexible and foldable electronic displays</title>
+      <link>https://www.nature.com/articles/s41467-024-48840-x</link>
+      <description>In this work, authors synthesize transparent radiative cooling cover windows for flexible and foldable electronic devices. Besides demonstrated enhanced mechanical and moisture-impermeable properties, these mitigate temperature rise of devices under solar irradiation and improve overall thermal management.</description>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Down-film as a new non-frame porous material for sound absorption</title>
+      <link>https://www.nature.com/articles/s41598-024-62526-w</link>
+      <description>No summary</description>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital non-Foster-inspired electronics for broadband impedance matching</title>
+      <link>https://www.nature.com/articles/s41467-024-48861-6</link>
+      <description>Resonance-based systems such as electroacoustic transducers are often limited by narrow bandwidth. Here, authors report a digital non-Foster inspired circuit demonstrating significant bandwidth and power level enhancement with greater reconfigurability than conventional analog non-Foster approaches.</description>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A framework for small satellite deployable structures and how to deploy them reliably</title>
+      <link>https://www.nature.com/articles/s44172-024-00210-7</link>
+      <description>In a Review Article, Jonathan Sauder and colleagues develop a framework to categorize the variety of deployable structures and mechanisms available for operation on small satellites.</description>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimized multi-frequency nonlinear broadband piezoelectric energy harvester designs</title>
+      <link>https://www.nature.com/articles/s41598-024-61355-1</link>
+      <description>No summary</description>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Droplet-based mechanical transducers modulated by the symmetry of wettability patterns</title>
+      <link>https://www.nature.com/articles/s41467-024-48538-0</link>
+      <description>Asymmetric mechanical transducers are pivotal in various applications; however, conventional methods demand continuous energy and intricate fabrication. Here, the authors demonstrate a droplet-based mechanical transducer utilizing wettability-patterned surfaces, enabling precise control of droplet dynamics.</description>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamically stable radiation pressure propulsion of flexible lightsails for interstellar exploration</title>
+      <link>https://www.nature.com/articles/s41467-024-47476-1</link>
+      <description>Ultrathin laser-driven lightsails represent a unique vision for interstellar space exploration. Here, the authors show how spinning flexible membranes can be both shape- and trajectory-stable with multiphysics structural and nanophotonic engineering.</description>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Radiative cooling and indoor light management enabled by a transparent and self-cleaning polymer-based metamaterial</title>
+      <link>https://www.nature.com/articles/s41467-024-48150-2</link>
+      <description>Transparent roofs offer a solution for harnessing natural light in sustainable buildings. Here, authors demonstrate a polymer-based metamaterial with micro-pyramid surface structures that diffuses sunlight while offering passive cooling and self-cleaning properties.</description>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Robust acoustic directional sensing enabled by synergy between resonator-based sensor and deep learning</title>
+      <link>https://www.nature.com/articles/s41598-024-60696-1</link>
+      <description>No summary</description>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultrafast photoluminescence and multiscale light amplification in nanoplasmonic cavity glass</title>
+      <link>https://www.nature.com/articles/s41467-024-47539-3</link>
+      <description>This article presents a unique nanocomposite plasmonic-excitonic glass with extraordinary amplified optical properties: ultra-narrow photoluminescence (FWHM = 13 nm) and ultrashort photoluminescence lifetime (90 ps) at room temperature</description>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Origami metamaterials for ultra-wideband and large-depth reflection modulation</title>
+      <link>https://www.nature.com/articles/s41467-024-46907-3</link>
+      <description>The researchers fuse metamaterials and origami technical to achieve ultra-wideband and large-depth reflection modulation. Flexible electronics amplify its lightweight, transparency, and cost-effectiveness, making it ideal for satellite communications.</description>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phononic switching of magnetization by the ultrafast Barnett effect</title>
+      <link>https://www.nature.com/articles/s41586-024-07200-x</link>
+      <description>Ultrafast light-induced driving of phonons at resonance in a substrate facilitates the permanent reversal of the magnetic state of a material mounted on it.</description>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A study of analyzing longitudinal dynamic behavior of a double-rod system with longitudinal nonlinear supports</title>
+      <link>https://www.nature.com/articles/s41598-024-58986-9</link>
+      <description>No summary</description>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optomechanical realization of the bosonic Kitaev chain</title>
+      <link>https://www.nature.com/articles/s41586-024-07174-w</link>
+      <description>We report the experimental realization of a bosonic Kitaev chain in a nano-optomechanical network.</description>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One-photon three-dimensional printed fused silica glass with sub-micron features</title>
+      <link>https://www.nature.com/articles/s41467-024-46929-x</link>
+      <description>3D-printed glass holds great potential. However, it is challenging to control both the dimension and the resolution of the printed material. Here, authors present a one-photon 3D printing approach to produce high-performance fused silica glass with sub-micron resolution and millimetric dimensions.</description>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Near-zero stiffness accelerometer with buckling of tunable electrothermal microbeams</title>
+      <link>https://www.nature.com/articles/s41378-024-00657-w</link>
+      <description>No summary</description>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acoustic emission of lattice structures under cycling loading relates process parameters with fatigue properties</title>
+      <link>https://www.nature.com/articles/s44172-024-00196-2</link>
+      <description>Lea Kollmannsperger and colleagues report the fatigue behaviour of additively manufactured lattice structures under cyclic loading, relating fatigue-induced properties to process characteristics using acoustic emission. The results can help to predict damage during operation through non-destructive testing.</description>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asymmetric metamaterial sandwich structure with NIM characteristics for THz imaging application</title>
+      <link>https://www.nature.com/articles/s41598-024-56723-w</link>
+      <description>No summary</description>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultrasound generation in water via quasi-periodically snapping polymeric core–shell micro-bead excited with radiowaves</title>
+      <link>https://www.nature.com/articles/s41598-024-56614-0</link>
+      <description>No summary</description>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metamaterial-based passive analog processor for wireless vibration sensing</title>
+      <link>https://www.nature.com/articles/s44172-024-00190-8</link>
+      <description>Real-time, low-cost, and wireless mechanical vibration monitoring is necessary for industrial, environmental, and biomedical applications. Here, Dajun Zhang and colleagues report a passive,ss metamaterial-based device which substantially improves the sensitivity of wireless vibration measurement methods when attached to vibrating surfaces.</description>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vision-driven metasurfaces for perception enhancement</title>
+      <link>https://www.nature.com/articles/s41467-024-45296-x</link>
+      <description>Authors showcase a framework for visual perception enhancement system based on vision-driven metasurfaces. It can help humans obtain information in multiple frequency bands and allows the metasurface platform with more interesting functions.</description>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giant electric field-induced second harmonic generation in polar skyrmions</title>
+      <link>https://www.nature.com/articles/s41467-024-45755-5</link>
+      <description>Electric modulation of second harmonic generation finds applications in integrated photonics. Here, authors introduce electric field-induced second harmonic generation by polar skyrmions in PbTiO3/SrTiO3 superlattices with giant modulation depth.</description>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sustainable conversion of alkaline nitrate to ammonia at activities greater than 2 A cm−2</title>
+      <link>https://www.nature.com/articles/s41467-024-45534-2</link>
+      <description>Alkaline nitrate electroreduction to ammonia is restricted by insufficient H+ supply. Here, the authors propose a halogen-mediated H+ feeding strategy, by triggering dangling O-H water dissociation and fast *H desorption for *NO intermediate hydrogenation, to enhance the formation of ammonia.</description>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diffusive kinks turn kirigami into machines</title>
+      <link>https://www.nature.com/articles/s41467-024-45602-7</link>
+      <description>Kinks define boundaries between distinct configurations of a material. Here, the authors reveal the emergence of propagating kinks in purely dissipative kirigami and show that such structures can shape-change into different textures depending on how fast they are stretched enabling basic mechanical tasks.</description>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spin resolved topological bulk state in acoustics</title>
+      <link>https://www.nature.com/articles/s41598-024-53226-6</link>
+      <description>No summary</description>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bilateral passive thermal management for dynamical temperature regulation</title>
+      <link>https://www.nature.com/articles/s41598-024-53433-1</link>
+      <description>No summary</description>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vibrations and energy distribution in inhomogeneous rods with elastic and viscous boundary conditions</title>
+      <link>https://www.nature.com/articles/s41598-024-52860-4</link>
+      <description>No summary</description>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designing transparent piezoelectric metasurfaces for adaptive optics</title>
+      <link>https://www.nature.com/articles/s41467-024-45088-3</link>
+      <description>Most multi-degrees-of-freedom systems are composed of several piezoelectric stacks, leading to cumbersome and complicated structures. Here, the authors propose a piezo metasurface to achieve various types of high strains in a wide frequency range.</description>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roadmapping the next generation of silicon photonics</title>
+      <link>https://www.nature.com/articles/s41467-024-44750-0</link>
+      <description>In order to complete the transition to the era of large-scale integration, silicon photonics will have to overcome several challenges. Here, the authors outline what these challenges are and what it will take to tackle them.</description>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Controlling the motion of gravitational spinners and waves in chiral waveguides</title>
+      <link>https://www.nature.com/articles/s41598-023-50052-0</link>
+      <description>No summary</description>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Direct laser-written optomechanical membranes in fiber Fabry-Perot cavities</title>
+      <link>https://www.nature.com/articles/s41467-023-44490-7</link>
+      <description>Authors showcase 3D direct laser writing to fabricate optically interfaced mechanical resonators. The membrane-type structures are placed inside fiber Fabry-Perot cavities to realize a miniaturized optical cavity. Further, the optomechanical properties reveal the coupling mechanism and a significant tuning of the mechanical resonator frequency.</description>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Planar hyperbolic polaritons in 2D van der Waals materials</title>
+      <link>https://www.nature.com/articles/s41467-023-43992-8</link>
+      <description>In this Perspective, the authors illustrate the physics of hyperbolic polaritons in anisotropic 2D and 1D materials, proposing new potential material candidates, forward looking opportunities and technological applications.</description>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Folk arts-inspired twice-coagulated configuration-editable tough aerogels enabled by transformable gel precursors</title>
+      <link>https://www.nature.com/articles/s41467-023-44156-4</link>
+      <description>Aerogels attract considerable attention in various emerging fields in recent decades, but low density and weak mechanical performance make their configuration-editing capability challenging. Here the authors establish an efficient twice-coagulated strategy to fabricate configuration-editable tough aerogels enabled by transformable gel precursors.</description>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Breaking symmetry creates polar auxeticity</title>
+      <link>https://www.nature.com/articles/s41563-023-01750-7</link>
+      <description>By forming a heterostructure interface, and by judicious choice of crystallographic orientation, piezoelectrics are developed that show expansion or contraction along all axes on application of an electric field.</description>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Extreme light confinement and control in low-symmetry phonon-polaritonic crystals</title>
+      <link>https://www.nature.com/articles/s41578-023-00620-7</link>
+      <description>Broken symmetries at the nanoscale can greatly modify the emergent nanophotonic responses enabled by phonon polaritons. This Review discusses how lowering the degree of symmetry in natural and artificial materials gives rise to a wide spectrum of low-loss, directional, confined light–matter quasiparticles.</description>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inverse design of nonlinear mechanical metamaterials via video denoising diffusion models</title>
+      <link>https://www.nature.com/articles/s42256-023-00762-x</link>
+      <description>Machine learning models have been widely used in the inverse design of new materials, but typically only linear properties could be targeted. Bastek and Kochmann show that video diffusion generative models can produce the nonlinear deformation and stress response of cellular materials under large-scale compression.</description>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reinforcement learning optimisation for graded metamaterial design using a physical-based constraint on the state representation and action space</title>
+      <link>https://www.nature.com/articles/s41598-023-48927-3</link>
+      <description>No summary</description>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>High specificity THz metamaterial-based biosensor for label-free transcription factor detection in melanoma diagnostics</title>
+      <link>https://www.nature.com/articles/s41598-023-46876-5</link>
+      <description>No summary</description>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Breakdown of conventional winding number calculation in one-dimensional lattices with interactions beyond nearest neighbors</title>
+      <link>https://www.nature.com/articles/s42005-023-01461-0</link>
+      <description>Topological insulators are bulk insulators with conducting zero-energy edge states conventionally predicted by topological indices, such as winding numbers in one-dimensional lattices. Here, the authors use the Jackiw-Rebbi theory to reveal that the number of topologically protected zero-energy states can be higher than the winding number.</description>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic diagnosis of metamaterials through laser-induced vibrational signatures</title>
+      <link>https://www.nature.com/articles/s41586-023-06652-x</link>
+      <description>A high-throughput, non-contact framework is described that uses the laser-induced vibrational signatures of metamaterials to non-destructively quantify their omnidirectional elastic information, dynamic linear properties, damping properties and defects.</description>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Laser-induced vibrations probe microscale metamaterials without contacting them</title>
+      <link>https://www.nature.com/articles/d41586-023-03159-3</link>
+      <description>Advanced materials engineered at the microscale have the potential to achieve unparalleled mechanical performance under extreme conditions. A laser-based characterization method enables the fast measurement of extreme properties in these materials, by extracting them from the sample’s vibrational ‘fingerprint’, without touching or permanently deforming the structure.</description>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple impact effects of helium-driven shocks on thin fiber-metal laminates</title>
+      <link>https://www.nature.com/articles/s41598-023-42861-0</link>
+      <description>No summary</description>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Low-noise fluorescent detection of cardiac troponin I in human serum based on surface acoustic wave separation</title>
+      <link>https://www.nature.com/articles/s41378-023-00600-5</link>
+      <description>No summary</description>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visualization analysis of research hotspots on structural topology optimization based on CiteSpace</title>
+      <link>https://www.nature.com/articles/s41598-023-45447-y</link>
+      <description>No summary</description>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A reprogrammable mechanical metamaterial with origami functional-group transformation and ring reconfiguration</title>
+      <link>https://www.nature.com/articles/s41467-023-42323-1</link>
+      <description>Programmability is a key property for multifunctional metamaterials, but it is limited by homo-element. Here, the authors show a mechanical metamaterials with heterogeneous elements, achieving various mechanical behaviours by functional group transformation and ring configuration.</description>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Potential terahertz therapeutic strategy for the prevention or mitigation of Alzheimer’s disease pathology</title>
+      <link>https://www.nature.com/articles/s41377-023-01289-x</link>
+      <description>No summary</description>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acoustic metamaterials based on polymer sheets: from material design to applications as sound insulators and vibration dampers</title>
+      <link>https://www.nature.com/articles/s41428-023-00842-0</link>
+      <description>For uniform and flat materials, heavier plates show higher sound insulation performance because of the mass law. Acoustic metamaterials with periodic resonance structures have attracted attention as ultra-lightweight sound insulators that can break the mass law limit. Recently, practical acoustic metamaterial sheets that allow high-throughput fabrication and single-step implementation on target objects have been developed based on polymer materials. In this Focus Review, the polymer-based material design, the control of acoustic functions based on polymer properties, and applications as sound insulators and vibration dampers are described.</description>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mechanical metamaterials and beyond</title>
+      <link>https://www.nature.com/articles/s41467-023-41679-8</link>
+      <description>Mechanical metamaterials are known for their unconventional mechanical properties. In this perspective, the authors give an overview of the current state of mechanical materials research and suggest a roadmap for next-generation active and responsive mechanical metamaterials.</description>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Damping contribution of viscoelastic core on airborne sound insulation performance of finite constrained layer damping panels at low and middle frequencies</title>
+      <link>https://www.nature.com/articles/s41598-023-42391-9</link>
+      <description>No summary</description>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active acoustic field modulation of ultrasonic transducers with flexible composites</title>
+      <link>https://www.nature.com/articles/s42005-023-01361-3</link>
+      <description>The development of technologies to manipulate acoustic waves relies on acoustic lenses and ultrasonic arrays, but it is limited by low transmission efficiencies or bulky setups. The authors propose a flexible and efficient piezoelectric ultrasonic transducer that generates intricate ultrasound wave patterns and deviate from conventional approaches.</description>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Highly sensitive and broadband meta-mechanoreceptor via mechanical frequency-division multiplexing</title>
+      <link>https://www.nature.com/articles/s41467-023-41222-9</link>
+      <description>There’s a trade-off between the sensitivity and bandwidth for mechanics guided sensor designs. Here, authors report a mechanical sensor comprised of piezoelectric resonators with near infinite effective piezoelectric coefficients, leading to highly sensitive and broadband micromotion sensing.</description>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vibrational circular dichroism unveils hidden clues</title>
+      <link>https://www.nature.com/articles/s41377-023-01239-7</link>
+      <description>No summary</description>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D-printed PEDOT:PSS for soft robotics</title>
+      <link>https://www.nature.com/articles/s41578-023-00587-5</link>
+      <description>Combining poly(3,4-ethylenedioxythiophene):polystyrene sulfonate (PEDOT:PSS) with 3D-printing techniques enables the customization of compliant conductive materials for soft robotics, towards the goal of merging humans and robots. This Review discusses the fundamentals of 3D-printed PEDOT:PSS for soft robotics, from printable ink design and evaluation to printing strategies and promising soft robotic systems.</description>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artificial dielectric beam-scanning prism for the terahertz region</title>
+      <link>https://www.nature.com/articles/s41598-023-41046-z</link>
+      <description>No summary</description>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dexterous electrical-driven soft robots with reconfigurable chiral-lattice foot design</title>
+      <link>https://www.nature.com/articles/s41467-023-40626-x</link>
+      <description>Animals use dexterous locomotion to hunt for food or flee from danger. Inspired by this strategy, Wang et al. design a soft robot, containing dielectric elastomer artificial muscles and reconfigurable chiral feet, which enables spontaneous change in movement direction in a controlled and reversible way.</description>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tunable optical topological transitions of plasmon polaritons in WTe2 van der Waals films</title>
+      <link>https://www.nature.com/articles/s41377-023-01244-w</link>
+      <description>No summary</description>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-reciprocal and non-Newtonian mechanical metamaterials</title>
+      <link>https://www.nature.com/articles/s41467-023-40493-6</link>
+      <description>In this work, authors demonstrate a model for non-reciprocal and non-Newtonian mechanical metamaterials by combining the concept of local resonances and fixing boundaries. Via computational models and impact experiments they show that stiffness substantially changes as a function of the loading velocity.</description>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model-predicted geometry variations to compensate material variability in the design of classical guitars</title>
+      <link>https://www.nature.com/articles/s41598-023-37943-y</link>
+      <description>No summary</description>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terahertz sensing of reduced graphene oxide nanosheets using sub-wavelength dipole cavities</title>
+      <link>https://www.nature.com/articles/s41598-023-39498-4</link>
+      <description>No summary</description>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topological solitonic macromolecules</title>
+      <link>https://www.nature.com/articles/s41467-023-40335-5</link>
+      <description>The formation of soliton macromolecules or metamaterial analogues of polymers with inter-soliton binding resembling strong covalent-like chemical bonds has not been considered so far. Zhao et al. experimentally create and theoretically, model soliton macromolecules, called “polyskyrmionomers”, introducing polymer-mimicking designs of topological chiral meta matter that promise technological utility in data storage and electro-optics.</description>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Active self-assembly of piezoelectric biomolecular films via synergistic nanoconfinement and in-situ poling</title>
+      <link>https://www.nature.com/articles/s41467-023-39692-y</link>
+      <description>Piezoelectric biomaterials are limited by the challenges in domain orientation alignment and a weak piezoelectric effect. Here, Zhang et. al. present an active self-assembly strategy via nanoconfinement and in-situ poling, to obtain large-scale, high performance piezoelectric β-glycine nanocrystalline films.</description>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harnessing adaptive bistable stiffness of hair-cell-bundle structure for broadband vibration applications</title>
+      <link>https://www.nature.com/articles/s41598-023-37962-9</link>
+      <description>No summary</description>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anomalous fractal scaling in two-dimensional electric networks</title>
+      <link>https://www.nature.com/articles/s42005-023-01266-1</link>
+      <description>Scaling theory governs much of the physics around us. Here, the authors present experimental evidence showcasing the breakdown of logarithmic scaling in electric circuits and the emergence of fractal-like patterns in impedance scaling relationships.</description>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding chiral metamaterials for retrieving fingerprints via vibrational circular dichroism</title>
+      <link>https://www.nature.com/articles/s41377-023-01186-3</link>
+      <description>We demonstrate surface-enhanced vibrational circular dichroism spectroscopy for chiral mixture detection, enabled by MIR chiral metamaterial platform.</description>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A second wave of topological phenomena in photonics and acoustics</title>
+      <link>https://www.nature.com/articles/s41586-023-06163-9</link>
+      <description>The current state of the art of topological phenomena in photonics and acoustics is reviewed and future research directions for valuable applications are discussed.</description>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Integrated metasurfaces for re-envisioning a near-future disruptive optical platform</title>
+      <link>https://www.nature.com/articles/s41377-023-01169-4</link>
+      <description>We organize integrated metasurfaces with conventional devices (LED, LC, MEMS, etc.), and their potential applications in VR/AR, LiDAR, and sensors.</description>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Design, fabrication and assembly considerations for electronic systems made of fibre devices</title>
+      <link>https://www.nature.com/articles/s41578-023-00573-x</link>
+      <description>Integrating single-functional fibre devices into multifunctional systems can enable promising wearable applications. This Perspective article summarizes challenges and strategies for the design, fabrication and assembly of fibre electronic systems, highlighting specifications for real applications.</description>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asynchronous locking in metamaterials of fluids of light and sound</title>
+      <link>https://www.nature.com/articles/s41467-023-38788-9</link>
+      <description>Exciton-polariton condensates are hybrid systems with nonlinear interactions. Here the authors demonstrate metamaterials with inter-site polariton coupling and asynchronous locking of light fluids from neighbor sites at the energy detuning.</description>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultra-thin light-weight laser-induced-graphene (LIG) diffractive optics</title>
+      <link>https://www.nature.com/articles/s41377-023-01143-0</link>
+      <description>We present how direct-laser-writing can be utilized to fabricate ultra-thin light-weight planar diffractive optics with graphene as the base material. (Inset scale bar: 1 mm).</description>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
