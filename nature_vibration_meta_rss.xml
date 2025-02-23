@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Nature Vibration and Metamaterial RSS</title>
+    <link>https://www.nature.com/search?q=%28%22vibration%22+OR+%22vibrations%22%29+AND+%28%22metamaterial%22+OR+%22metamaterials%22%29&amp;amp;order=date_desc</link>
+    <description>Latest vibration and meta articles from Nature</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sun, 23 Feb 2025 06:22:33 +0000</lastBuildDate>
+    <item>
+      <title>Randomized resonant metamaterials for single-sensor identification of elastic vibrations</title>
+      <link>https://www.nature.com/articles/s41467-020-15950-1</link>
+      <description>Designing efficient and flexible metamaterial with uncorrelated transmissions for spatial vibration encoding and identification remains a challenge. Here, the authors propose a randomized resonant metamaterial with randomly coupled local resonators for single-sensor identification of elastic vibrations.</description>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research on the low-frequency band gap characteristics of longitudinal vibration of ship shafting based on bionic quasi-zero stiffness metamaterials</title>
+      <link>https://www.nature.com/articles/s41598-025-89986-y</link>
+      <description>No summary</description>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polarization bandgaps and fluid-like elasticity in fully solid elastic metamaterials</title>
+      <link>https://www.nature.com/articles/ncomms13536</link>
+      <description>Controlling elastic waves in medium is essential to many applications in mechanical to earthquake engineering. Ma et al. demonstrate selective suppression of different vibrational modes in a three-dimensional rod-shape structure, which shows fluid-like elasticity with only longitudinal waves propagating.</description>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three-dimensional resonating metamaterials for low-frequency vibration attenuation</title>
+      <link>https://www.nature.com/articles/s41598-019-47644-0</link>
+      <description>No summary</description>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-reciprocal and non-Newtonian mechanical metamaterials</title>
+      <link>https://www.nature.com/articles/s41467-023-40493-6</link>
+      <description>In this work, authors demonstrate a model for non-reciprocal and non-Newtonian mechanical metamaterials by combining the concept of local resonances and fixing boundaries. Via computational models and impact experiments they show that stiffness substantially changes as a function of the loading velocity.</description>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ocean wave energy harvesting with high energy density and self-powered monitoring system</title>
+      <link>https://www.nature.com/articles/s41467-024-50926-5</link>
+      <description>Point-defect metamaterials have the property of concentrating vibration energy at the defect location. We design an environmental monitoring node based on this property, which can efficiently convert wave kinetic energy into electrical energy for real-time monitoring of the ocean environment.</description>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reconfigurable metamaterial processing units that solve arbitrary linear calculus equations</title>
+      <link>https://www.nature.com/articles/s41467-024-50483-x</link>
+      <description>A reconfigurable metamaterial processing unit that solves arbitrary linear calculus equations is proposed. With the merits of compactness, reconfigurability, and reusability, the proposed MPU provides a potential route for high speed computing.</description>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Low frequency 3D ultra-wide vibration attenuation via elastic metamaterial</title>
+      <link>https://www.nature.com/articles/s41598-019-44507-6</link>
+      <description>No summary</description>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metamaterials for simultaneous acoustic and elastic bandgaps</title>
+      <link>https://www.nature.com/articles/s41598-021-94053-3</link>
+      <description>No summary</description>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Origami metamaterials for ultra-wideband and large-depth reflection modulation</title>
+      <link>https://www.nature.com/articles/s41467-024-46907-3</link>
+      <description>The researchers fuse metamaterials and origami technical to achieve ultra-wideband and large-depth reflection modulation. Flexible electronics amplify its lightweight, transparency, and cost-effectiveness, making it ideal for satellite communications.</description>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broadening bandgaps in a multi-resonant piezoelectric metamaterial plate via bandgap merging phenomena</title>
+      <link>https://www.nature.com/articles/s41598-024-66849-6</link>
+      <description>No summary</description>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Laser-induced vibrations probe microscale metamaterials without contacting them</title>
+      <link>https://www.nature.com/articles/d41586-023-03159-3</link>
+      <description>Advanced materials engineered at the microscale have the potential to achieve unparalleled mechanical performance under extreme conditions. A laser-based characterization method enables the fast measurement of extreme properties in these materials, by extracting them from the sample’s vibrational ‘fingerprint’, without touching or permanently deforming the structure.</description>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A reprogrammable mechanical metamaterial with origami functional-group transformation and ring reconfiguration</title>
+      <link>https://www.nature.com/articles/s41467-023-42323-1</link>
+      <description>Programmability is a key property for multifunctional metamaterials, but it is limited by homo-element. Here, the authors show a mechanical metamaterials with heterogeneous elements, achieving various mechanical behaviours by functional group transformation and ring configuration.</description>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-reciprocal robotic metamaterials</title>
+      <link>https://www.nature.com/articles/s41467-019-12599-3</link>
+      <description>Here, the authors demonstrate a robotic metamaterial implemented through a combination of actuators, sensors and local controllers. They show that this active metamaterial can exhibit tunable linear non-reciprocal dynamic characteristics, with a very large and broadband non-reciprocal gain.</description>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2D/2D coupled MOF/Fe composite metamaterials enable robust ultra–broadband microwave absorption</title>
+      <link>https://www.nature.com/articles/s41467-024-49762-4</link>
+      <description>Here the Authors showcase a microwave absorber design that combines semiconductive metal-organic frameworks with iron 2D layers, achieving ultra-broadband absorption in the whole 5 G frequencies and stable performance against various angles and polarizations.</description>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic diagnosis of metamaterials through laser-induced vibrational signatures</title>
+      <link>https://www.nature.com/articles/s41586-023-06652-x</link>
+      <description>A high-throughput, non-contact framework is described that uses the laser-induced vibrational signatures of metamaterials to non-destructively quantify their omnidirectional elastic information, dynamic linear properties, damping properties and defects.</description>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metamaterial-based passive analog processor for wireless vibration sensing</title>
+      <link>https://www.nature.com/articles/s44172-024-00190-8</link>
+      <description>Real-time, low-cost, and wireless mechanical vibration monitoring is necessary for industrial, environmental, and biomedical applications. Here, Dajun Zhang and colleagues report a passive,ss metamaterial-based device which substantially improves the sensitivity of wireless vibration measurement methods when attached to vibrating surfaces.</description>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broadband Lamb Wave Trapping in Cellular Metamaterial Plates with Multiple Local Resonances</title>
+      <link>https://www.nature.com/articles/srep09376</link>
+      <description>No summary</description>
+      <pubDate>Fri, 20 Mar 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mechanical metamaterials and beyond</title>
+      <link>https://www.nature.com/articles/s41467-023-41679-8</link>
+      <description>Mechanical metamaterials are known for their unconventional mechanical properties. In this perspective, the authors give an overview of the current state of mechanical materials research and suggest a roadmap for next-generation active and responsive mechanical metamaterials.</description>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Highly tunable low frequency metamaterial cavity for vibration localization</title>
+      <link>https://www.nature.com/articles/s41598-022-13453-1</link>
+      <description>No summary</description>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tunable Superconducting Cavity using Superconducting Quantum Interference Device Metamaterials</title>
+      <link>https://www.nature.com/articles/s41598-019-40891-1</link>
+      <description>No summary</description>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elastic metamaterials for independent realization of negativity in density and stiffness</title>
+      <link>https://www.nature.com/articles/srep23630</link>
+      <description>No summary</description>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reinforcement learning optimisation for graded metamaterial design using a physical-based constraint on the state representation and action space</title>
+      <link>https://www.nature.com/articles/s41598-023-48927-3</link>
+      <description>No summary</description>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designing perturbative metamaterials from discrete models</title>
+      <link>https://www.nature.com/articles/s41563-017-0003-3</link>
+      <description>A perturbative method is proposed for the systematic design of mechanical metamaterials, where each element of the discrete model is associated with individual geometric features of the metamaterial, through the weak interaction between the unit cells.</description>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visualizing the topological pentagon states of a giant C540 metamaterial</title>
+      <link>https://www.nature.com/articles/s41467-024-53819-9</link>
+      <description>Fullerenes possess unique electronic property influenced by their real space topology and gauge field. Here, the authors construct an acoustic C540 fullerene metamaterial, allowing observation of 3D topological pentagon states using sound waves, and offering new insights into classical wave manipulation.</description>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated discovery of reprogrammable nonlinear dynamic metamaterials</title>
+      <link>https://www.nature.com/articles/s41563-024-02008-6</link>
+      <description>A framework is presented to automate the design of flexible metamaterial structures that can execute desired nonlinear dynamic tasks and have reprogrammable functionality.</description>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conical Refraction of Elastic Waves by Anisotropic Metamaterials and Application for Parallel Translation of Elastic Waves</title>
+      <link>https://www.nature.com/articles/s41598-017-10691-6</link>
+      <description>No summary</description>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wave attenuation and trapping in 3D printed cantilever-in-mass metamaterials with spatially correlated variability</title>
+      <link>https://www.nature.com/articles/s41598-019-41999-0</link>
+      <description>No summary</description>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhanced flexural wave sensing by adaptive gradient-index metamaterials</title>
+      <link>https://www.nature.com/articles/srep35048</link>
+      <description>No summary</description>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broadband surface enhanced infrared absorption with multiple Fano resonance by metallic oblique-wire-bundle metamaterial absorbers</title>
+      <link>https://www.nature.com/articles/s41598-024-78633-7</link>
+      <description>No summary</description>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quasi-static stop band with flexural metamaterial having zero rotational stiffness</title>
+      <link>https://www.nature.com/articles/srep33410</link>
+      <description>No summary</description>
+      <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acoustic metamaterials based on polymer sheets: from material design to applications as sound insulators and vibration dampers</title>
+      <link>https://www.nature.com/articles/s41428-023-00842-0</link>
+      <description>For uniform and flat materials, heavier plates show higher sound insulation performance because of the mass law. Acoustic metamaterials with periodic resonance structures have attracted attention as ultra-lightweight sound insulators that can break the mass law limit. Recently, practical acoustic metamaterial sheets that allow high-throughput fabrication and single-step implementation on target objects have been developed based on polymer materials. In this Focus Review, the polymer-based material design, the control of acoustic functions based on polymer properties, and applications as sound insulators and vibration dampers are described.</description>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fano-resonant asymmetric metamaterials for ultrasensitive spectroscopy and identification of molecular monolayers</title>
+      <link>https://www.nature.com/articles/nmat3161</link>
+      <description>Plasmonic nanostructures are known to be an attractive platform for highly sensitive molecular sensors, although they often lack specificity. A plasmonic device with a sharp optical resonance tuned to biomolecules selectively captured on the surface of the device now offers a versatile yet highly specific platform for molecular sensing.</description>
+      <pubDate>Sun, 13 Nov 2011 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An adjustable acoustic metamaterial cell using a magnetic membrane for tunable resonance</title>
+      <link>https://www.nature.com/articles/s41598-024-65819-2</link>
+      <description>No summary</description>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crystalline metamaterials for topological properties at subwavelength scales</title>
+      <link>https://www.nature.com/articles/ncomms16023</link>
+      <description>Existing classical wave analogues of topological insulator are physically wavelength scaled, limiting potential applications. Here, Yveset al. show complex topological crystalline properties in spatially ordered metamaterials with deep subwavelength resonant elements on specific lattices.</description>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dark acoustic metamaterials as super absorbers for low-frequency sound</title>
+      <link>https://www.nature.com/articles/ncomms1758</link>
+      <description>Metamaterials can be used to alter the transmission of light or sound, with their tailored structures permitting control over their optical or acoustic properties. Meiet al. present a thin-film acoustic metamaterial that provides efficient absorption of sound over a broad range of wavelengths.</description>
+      <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cross-Polarized Surface-Enhanced Infrared Spectroscopy by Fano-Resonant Asymmetric Metamaterials</title>
+      <link>https://www.nature.com/articles/s41598-017-03545-8</link>
+      <description>No summary</description>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Controlling sound with acoustic metamaterials</title>
+      <link>https://www.nature.com/articles/natrevmats20161</link>
+      <description>Acoustic metamaterials can be used manipulate sound waves with a high degree of control. Their applications include acoustic imaging and cloaking. This Review outlines the designs and properties of these materials, discussing transformation acoustics theory, anisotropic materials and active acoustic metamaterials.</description>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mass Separation by Metamaterials</title>
+      <link>https://www.nature.com/articles/srep21971</link>
+      <description>No summary</description>
+      <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graphite-oxide hybrid multi-degree of freedom resonator metamaterial for broadband sound absorption</title>
+      <link>https://www.nature.com/articles/s41598-022-14415-3</link>
+      <description>No summary</description>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A design strategy to match the band gap of periodic and aperiodic metamaterials</title>
+      <link>https://www.nature.com/articles/s41598-020-73299-3</link>
+      <description>No summary</description>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inverse Doppler Effects in Broadband Acoustic Metamaterials</title>
+      <link>https://www.nature.com/articles/srep32388</link>
+      <description>No summary</description>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerical investigation of band gaps in 3D printed cantilever-in-mass metamaterials</title>
+      <link>https://www.nature.com/articles/srep28314</link>
+      <description>No summary</description>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Study of Abnormal Group Velocities in Flexural Metamaterials</title>
+      <link>https://www.nature.com/articles/s41598-019-50146-8</link>
+      <description>No summary</description>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enantiomeric switching of chiral metamaterial for terahertz polarization modulation employing vertically deformable MEMS spirals</title>
+      <link>https://www.nature.com/articles/ncomms9422</link>
+      <description>Spectroscopy in the terahertz range requires polarization modulation. Here, Kan et al.demonstrate a chirality switchable metamaterial for polarization modulation employing deformable spirals. A polarization rotation as high as 28° is achieved, providing a practical and compact polarization modulator for the terahertz range.</description>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultrathin acoustic metamaterial as super absorber for broadband low-frequency underwater sound</title>
+      <link>https://www.nature.com/articles/s41598-023-34993-0</link>
+      <description>No summary</description>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broadband single-phase hyperbolic elastic metamaterials for super-resolution imaging</title>
+      <link>https://www.nature.com/articles/s41598-018-20579-8</link>
+      <description>No summary</description>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metamaterial foundation for seismic wave attenuation for low and wide frequency band</title>
+      <link>https://www.nature.com/articles/s41598-023-27678-1</link>
+      <description>No summary</description>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transparent radiative cooling cover window for flexible and foldable electronic displays</title>
+      <link>https://www.nature.com/articles/s41467-024-48840-x</link>
+      <description>In this work, authors synthesize transparent radiative cooling cover windows for flexible and foldable electronic devices. Besides demonstrated enhanced mechanical and moisture-impermeable properties, these mitigate temperature rise of devices under solar irradiation and improve overall thermal management.</description>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Integrating microsystems with metamaterials towards metadevices</title>
+      <link>https://www.nature.com/articles/s41378-018-0042-1</link>
+      <description>No summary</description>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
