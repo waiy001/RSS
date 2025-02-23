@@ -6,7 +6,7 @@
     <description>Latest vibration and meta articles from Nature</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 06:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 06:53:06 +0000</lastBuildDate>
     <item>
       <title>Randomized resonant metamaterials for single-sensor identification of elastic vibrations</title>
       <link>https://www.nature.com/articles/s41467-020-15950-1</link>
