@@ -7,20 +7,20 @@ import time
 import os
 
 def generate_rss():
-    url = "https://www.nature.com/search?q=vibration&order=date_desc"
-    response = requests.get(url)
+    url = "https://www.nature.com/search?q=%28%22vibration%22+OR+%22vibrations%22%29+AND+%28%22metamaterial%22+OR+%22metamaterials%22%29&amp;order=date_desc"
+    response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'})
     soup = bs(response.text, 'html.parser')
 
     fg = FeedGenerator()
-    fg.title('Nature Vibration RSS')
+    fg.title('Nature Vibration and Metamaterial RSS')
     fg.link(href=url, rel='alternate')
-    fg.description('Latest vibration articles from Nature')
+    fg.description('Latest vibration and meta articles from Nature')
 
     # 抓取所有文章，并按日期升序排序（新文章在前面）
     articles = soup.select('article')  # 根据 Nature 页面调整选择器
     articles = list(reversed(articles))  # 反转顺序，新文章在前
 
-    for article in articles[:54]:  # 限制 54 个 <item>
+    for article in articles:  # 遍历每篇文章
         fe = fg.add_entry()
         title = article.select_one('h3.c-card__title a')  # 更新标题选择器
         link = article.select_one('h3.c-card__title a')  # 更新链接选择器
@@ -50,13 +50,13 @@ def generate_rss():
             fe.author({'name': author_list})
 
     # 自定义输出带换行符的 XML
-    with open('nature_vibration_rss.xml', 'w', encoding='utf-8') as f:
+    with open('nature_vibration_meta_rss.xml', 'w', encoding='utf-8') as f:
         f.write(fg.rss_str(pretty=True).decode('utf-8'))  # 使用 pretty=True 格式化输出
     print("RSS 文件已生成！")
     # 上传到 GitHub Pages（手动或用 Git 脚本）
     # 示例：用 os.system 调用 git 命令（需配置 Git 和 GitHub）
-    os.system("git add nature_vibration_rss.xml")
-    os.system('git commit -m "Update nature_vibration_rss.xml with latest changes"')  # 使用双引号
+    os.system("git add nature_vibration_meta_rss.xml")
+    os.system('git commit -m "Update nature_vibration_meta_rss.xml with latest changes"')  # 使用双引号
     os.system("git push origin main")  # 假设主分支为 main
     print("RSS 文件已更新到 GitHub Pages")
 
