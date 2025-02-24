@@ -20,9 +20,10 @@ def generate_rss():
         articles = soup.select('article')
         if not articles:  # 如果页面无文章，提前跳出（理论上 page=3 仍可能有内容）
             break
-        articles = list(reversed(articles))  # 反转顺序，新文章在前
         all_articles.extend(articles)
         time.sleep(2)
+    # 按日期降序排序（新文章在前）
+    all_articles.sort(key=lambda x: datetime.strptime(x.select_one('time')['datetime'], '%Y-%m-%d'), reverse=False)
 
     fg = FeedGenerator()
     fg.title('Nature Vibration Metamaterials RSS')
@@ -58,12 +59,12 @@ def generate_rss():
             fe.author({'name': author_list})
 
     # 自定义输出带换行符的 XML
-    with open('nature_vibration_metamaterials_rss.xml', 'w', encoding='utf-8') as f:
+    with open('nature_vib_meta_3.xml', 'w', encoding='utf-8') as f:
         f.write(fg.rss_str(pretty=True).decode('utf-8'))  # 使用 pretty=True 格式化输出
     print("Nature Vibration Metamaterials RSS 文件已生成！")
     # 上传到 GitHub Pages（手动或用 Git 脚本）
-    os.system("git add nature_vibration_metamaterials_rss.xml")
-    os.system('git commit -m "Update nature_vibration_metamaterials_rss.xml with latest changes (first 3 pages)"')
+    os.system("git add nature_vib_meta_3.xml")
+    os.system('git commit -m "Update nature_vib_meta_3.xml with latest changes (first 3 pages)"')
     os.system("git push origin main")  # 假设主分支为 main
     print("Nature Vibration Metamaterials RSS 文件已更新到 GitHub Pages")
 

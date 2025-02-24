@@ -20,7 +20,7 @@ def generate_rss():
     articles = soup.select('article')  # 根据 Nature 页面调整选择器
    # 移除反转逻辑，使用按日期降序排序（新文章在前）
     # 按日期降序排序（新文章在前）
-    articles.sort(key=lambda x: datetime.strptime(x.select_one('time')['datetime'], '%Y-%m-%d'), reverse=True)
+    articles.sort(key=lambda x: datetime.strptime(x.select_one('time')['datetime'], '%Y-%m-%d'), reverse=False)
 
     for article in articles:  # 遍历每篇文章
         fe = fg.add_entry()
