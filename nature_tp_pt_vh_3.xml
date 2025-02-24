@@ -1,0 +1,1367 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Nature Topological Phononic Multi-Discipline RSS</title>
+    <link>https://www.nature.com/search?q=%28%22topological%22+OR+%22phononic%22+OR+%22Valley+Hall%22%29+-%28%22metamaterials%22+OR+%22metamaterial%22+OR+%22metasurface%22+OR+%22metasurfaces%22%29&amp;article_type=research%2C+reviews&amp;subject=chemistry&amp;order=date_desc&amp;date_range=2023-2025&amp;journal=lsa%2Cnature%2Cnchem%2Cncomms%2Cnatelectron%2Cnmat%2Cnnano%2Cnphoton%2Cnphys%2Cnatrevphys%2Cnpjacoustics%2Cnpjqi%2Csrep&amp;article_type=research%2C+reviews&amp;page=1</link>
+    <description>Latest topological and phononic articles from Nature across chemistry, engineering, materials-science, nanoscience-and-technology, optics-and-photonics, physics (first 3 pages per subject, 2023-2025, research and reviews)</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 24 Feb 2025 09:49:03 +0000</lastBuildDate>
+    <item>
+      <title>Evaluating the slope behavior for geophysical flow prediction with advanced machine learning combinations</title>
+      <link>https://www.nature.com/articles/s41598-025-90882-8</link>
+      <description>No summary</description>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transport and thermoelectric properties of bernal stacked bilayer graphene due to lattice vibrations and magnetic field</title>
+      <link>https://www.nature.com/articles/s41598-025-91336-x</link>
+      <description>No summary</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thermal biasing for lattice symmetry breaking and topological edge state imaging</title>
+      <link>https://www.nature.com/articles/s41467-025-57194-x</link>
+      <description>Thermal biasing can break the lattice symmetry of twisted bilayer graphene, allowing high resolution thermoelectric imaging of its topological edge states above room temperature without applying strong electric or magnetic fields to the system.</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polymorphic relaxor phase and defect dipole polarization co-reinforced capacitor energy storage in temperature-monitorable high-entropy ferroelectrics</title>
+      <link>https://www.nature.com/articles/s41467-025-57139-4</link>
+      <description>The authors construct a nanostructure consisting of defect dipole polarization and polymorphic relaxor phases. The high-entropy ceramic achieves an energy density of 11.23 J cm−3, an efficiency of 90.87%, along with temperature sensing feature.</description>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Low lying excited states quantum entanglement and continuous quantum phase transitions</title>
+      <link>https://www.nature.com/articles/s41598-025-90248-0</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generalized angle–orbital angular momentum Talbot effect and modulo mode sorting</title>
+      <link>https://www.nature.com/articles/s41566-025-01622-3</link>
+      <description>The generalized self-imaging, or generalized Talbot, effect is demonstrated in the azimuthal angle and orbital angular momentum (OAM) domains, providing both a universal strategy for fully arbitrary control of the angular petal numbers or OAM mode spacing and a general method for the realization of efficient OAM mode sorters.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Magnetic Bloch states at integer flux quanta induced by super-moiré potential in graphene aligned with twisted boron nitride</title>
+      <link>https://www.nature.com/articles/s41467-025-57111-2</link>
+      <description>Twisted van der Waals structures have shown many emerging physical properties, but uniform moiré wavelengths are usually &lt; 50 nm due to structural relaxation. Here, the authors report the fabrication of super-moiré structures based on graphene/twisted boron nitride, showing a homogeneous moiré wavelength up to 63.2 nm resulting in Brown-Zak oscillations at integer magnetic flux quanta.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Engineering anisotropic electrodynamics at the graphene/CrSBr interface</title>
+      <link>https://www.nature.com/articles/s41467-025-56804-y</link>
+      <description>The authors demonstrate a graphene/CrSBr heterostructure exhibiting anisotropic surface plasmon polariton (SPP) propagation in the mid-infrared and terahertz range. Charge transfer at the interface directs SPPs along the quasi-1D chains that compose each CrSBr layer, with propagation lengths varying by an order of magnitude between the two in-plane crystallographic axes.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graphene rolls with tunable chirality</title>
+      <link>https://www.nature.com/articles/s41563-025-02127-8</link>
+      <description>A wax-aided immersion methodology is developed to yield graphene rolls with tunable chiral angles; these graphene rolls exhibit promising chiral electronic properties beyond those of other carbon allotropes.</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptive evolution and early diversification of photonic nanomaterials in marine diatoms</title>
+      <link>https://www.nature.com/articles/s41598-024-82209-w</link>
+      <description>No summary</description>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Characterization and potential usage of selected eggshell species</title>
+      <link>https://www.nature.com/articles/s41598-025-87786-y</link>
+      <description>No summary</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Current induced electromechanical strain in thin antipolar Ag2Se semiconductor</title>
+      <link>https://www.nature.com/articles/s41467-025-57057-5</link>
+      <description>By an alteration of dipoles and a phase transition, the authors find a giant electromechanical strain triggered by the electric current in thin antipolar Ag2Se semiconductor. The strain has inherent flexibility and conductivity.</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topologically cloaked magnetic colloidal transport</title>
+      <link>https://www.nature.com/articles/s41467-025-57004-4</link>
+      <description>Cloaking is a technique for rendering obstacles undetectable, previously applied to waves and now extended to particles. Here using a time-periodic magnetic field, authors report that paramagnetic colloidal particles are guided around cloaked regions in a deformed magnetic lattice, resuming motion as if the distortion were nonexistent.</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Side dominance and eye patches obscuring half of the visual field do not affect walking kinematics</title>
+      <link>https://www.nature.com/articles/s41598-025-90936-x</link>
+      <description>No summary</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moiré two-dimensional covalent organic framework superlattices</title>
+      <link>https://www.nature.com/articles/s41557-025-01748-5</link>
+      <description>On-surface synthesis of two-dimensional polymers is a useful strategy for designing the lattice, orbital and spin symmetries of materials, but controlling their layer stacking remains challenging. Now, a method to synthesize bilayer two-dimensional covalent organic frameworks at a liquid–substrate interface through monomer condensation has been developed; large-area moiré superlattices emerge from the twisted bilayer stacking.</description>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global modules robustly emerge from local interactions and smooth gradients</title>
+      <link>https://www.nature.com/articles/s41586-024-08541-3</link>
+      <description>The principle of peak selection is described, by which local interactions and smooth gradients drive self-organization of discrete global modules.</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interferometric single-shot parity measurement in InAs–Al hybrid devices</title>
+      <link>https://www.nature.com/articles/s41586-024-08445-2</link>
+      <description>A device architecture based on indium arsenide–aluminium heterostructures with a gate-defined superconducting nanowire allows single-shot interferometric measurement of fermion parity and demonstrates an assignment error probability of 1%.</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parafermions in moiré minibands</title>
+      <link>https://www.nature.com/articles/s41467-025-57035-x</link>
+      <description>Parafermions hold promise as building blocks for topological quantum computers but have remained experimentally elusive. Here, the authors employ numerical calculations to demonstrate that parafermion excitations can emerge in partially filled moiré minibands of twisted multilayer graphene systems.</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topology shapes dynamics of higher-order networks</title>
+      <link>https://www.nature.com/articles/s41567-024-02757-w</link>
+      <description>Higher-order interactions reveal new aspects of the interplay between topology and dynamics in complex systems. This Perspective describes the emerging field of higher-order topological dynamics and discusses the open research questions in the area.</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Controlling Coulomb correlations and fine structure of quasi-one-dimensional excitons by magnetic order</title>
+      <link>https://www.nature.com/articles/s41563-025-02120-1</link>
+      <description>The antiferromagnetic-to-paramagnetic phase transition in a two-dimensional semiconducting magnet, CrSBr, induces an exciton confinement transition from a strongly bound quasi-one-dimensional state to a weakly bound interlayer-delocalized state.</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discovering chemistry to creep rupture equations in Alloy 617 with machine learning</title>
+      <link>https://www.nature.com/articles/s41598-025-89743-1</link>
+      <description>No summary</description>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Massive Dirac magnons in the three-dimensional honeycomb magnetic oxide \(\hbox {FeTiO}_3\)</title>
+      <link>https://www.nature.com/articles/s41598-025-90478-2</link>
+      <description>No summary</description>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topological transition on a conformal manifold for the quantum Ising model with a longer range interaction</title>
+      <link>https://www.nature.com/articles/s41598-025-89901-5</link>
+      <description>No summary</description>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Towards the quantized anomalous Hall effect in AlOx-capped MnBi2Te4</title>
+      <link>https://www.nature.com/articles/s41467-025-57039-7</link>
+      <description>The challenges in reliably reproducing the quantum anomalous Hall effect have emerged as a major bottleneck for MnBi2Te4. Here, the authors develop a fabrication method to address this, paving the way for the fabrication of high-quality dissipationless topological transport devices.</description>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic analysis of a novel 3D chaotic map with two internal frequencies</title>
+      <link>https://www.nature.com/articles/s41598-025-90596-x</link>
+      <description>No summary</description>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IR thermography &amp; NN models for damaged component thickness detection</title>
+      <link>https://www.nature.com/articles/s41598-025-90041-z</link>
+      <description>No summary</description>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Theory of correlated insulators and superconductor at ν = 1 in twisted WSe2</title>
+      <link>https://www.nature.com/articles/s41467-025-56816-8</link>
+      <description>Recently, superconductivity intertwined with an insulating phase at a commensurate band-filling was discovered in twisted bilayer WSe2. Here, the authors theoretically propose that the observed insulating state may be a quantum spin-liquid Mott insulator with electron fractionalization, separated from the superconductor via a quantum phase transition.</description>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compact and reciprocal probe-signal-integrated rotational Doppler velocimetry with fiber-sculpted light</title>
+      <link>https://www.nature.com/articles/s41377-025-01747-8</link>
+      <description>No summary</description>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptative two-phase thermal circulation system for complex-shaped electronic device cooling</title>
+      <link>https://www.nature.com/articles/s41467-025-56960-1</link>
+      <description>Thermal management in compact electrical devices is challenging due to limited space and complex geometries. Here, the authors present a flexible heat pipe that conforms to arbitrary shapes without space constraints, achieving an ultra-high thermal conductivity of 11,363 W/m·K.</description>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coulomb interactions and migrating Dirac cones imaged by local quantum oscillations in twisted graphene</title>
+      <link>https://www.nature.com/articles/s41567-025-02786-z</link>
+      <description>Our understanding of the phase diagram of twisted graphene structures is incomplete. Now, twisted trilayer graphene is examined using a technique that locally images quantum oscillations and shows that a nematic semimetal is favoured at low density.</description>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coarse-graining network flow through statistical physics and machine learning</title>
+      <link>https://www.nature.com/articles/s41467-025-56034-2</link>
+      <description>Information dynamics are key in complex systems. The authors apply graph neural networks to group components for coarse-graining networks, reducing computational complexity. Their approach preserves information flow under compression, being effective for large networks.</description>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Highly porous metal-organic framework glass design and application for gas separation membranes</title>
+      <link>https://www.nature.com/articles/s41467-025-56295-x</link>
+      <description>Here authors demonstrate a strategy of enhancing the porosity of MOF glasses through topological engineering. Unlike the production of inorganic porous glasses by leaching, the pore structures in MOF glasses were controlled by using a highly porous topology of the crystalline precursor.</description>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solvent-free fabrication of ultrathin two-dimensional metal oxides/sulfides in a fixed interlayer by geometric confinement</title>
+      <link>https://www.nature.com/articles/s41467-025-56912-9</link>
+      <description>The pursuit of a versatile and efficient method to precisely tailor ultrathin 2D frameworks remains challenge. Herein, a series of ultrathin 2D metal oxide and sulfides with the thickness of ~1 nm were created through a confined interlayer growth strategy in combination with melt infiltration.</description>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On computing extended graph energies and their thermodynamic properties for benzenoid hydrocarbons</title>
+      <link>https://www.nature.com/articles/s41598-025-89909-x</link>
+      <description>No summary</description>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A dynamic cobweb resistance network solution based on a structured zeroing neural network and its applications</title>
+      <link>https://www.nature.com/articles/s41598-025-89471-6</link>
+      <description>No summary</description>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The influence of frequency and temperature on the AC-conductivity in \(\text {TlInTe}_2\) semiconductor single crystal</title>
+      <link>https://www.nature.com/articles/s41598-025-87788-w</link>
+      <description>No summary</description>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fully addressable designer superstructures assembled from one single modular DNA origami</title>
+      <link>https://www.nature.com/articles/s41467-025-56846-2</link>
+      <description>Methods for creating large DNA assemblies with low cost and enhanced structural control are of interest. Here, the authors report moDON (modular DNA origami nanostructure) that combines two approaches to modularity resulting in tens of thousands of different monomers and superstructures, constructed at biological time scales and minimal cost.</description>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Holographic tomographic volumetric additive manufacturing</title>
+      <link>https://www.nature.com/articles/s41467-025-56852-4</link>
+      <description>The authors demonstrate a holographic light engine enabling volumetric 3D printing with high precision and flexibility. Enhanced light projection efficiency and speckle noise mitigation enable rapid fabrication of millimetric objects, including soft cell-laden hydrogels, with 31 µm resolution.</description>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spin-dependent thermoelectric properties of a hybrid ferromagnetic metal/quantum dot/topological insulator junction</title>
+      <link>https://www.nature.com/articles/s41598-025-87931-7</link>
+      <description>No summary</description>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polarization-controlled chiral transport</title>
+      <link>https://www.nature.com/articles/s41377-025-01762-9</link>
+      <description>No summary</description>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontier molecular orbital weighted model based networks for revealing organic delayed fluorescence efficiency</title>
+      <link>https://www.nature.com/articles/s41377-024-01713-w</link>
+      <description>An electronic structure-infused deep-learning neural network based on frontier molecular orbitals representation is constructed to predict the emission efficiencies of thermally activated delayed fluorescence (TADF) emitters.</description>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A quantum dot in germanium proximitized by a superconductor</title>
+      <link>https://www.nature.com/articles/s41563-024-02095-5</link>
+      <description>The authors achieve gate-controlled proximitization of a quantum dot in a planar germanium heterostructure, an isotopically purifiable group IV material. A patterned Pt germanosilicide superconductor is introduced via a thermally activated reaction.</description>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Concrete crack detection using ridgelet neural network optimized by advanced human evolutionary optimization</title>
+      <link>https://www.nature.com/articles/s41598-025-89250-3</link>
+      <description>No summary</description>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A primary quantum current standard based on the Josephson and the quantum Hall effects</title>
+      <link>https://www.nature.com/articles/s41467-025-56413-9</link>
+      <description>Realizing the ampere, the unit of electrical current, involves controlling a flow of elementary charges with high accuracy. Here, the authors present the generation of sizeable currents at quantized values with relative uncertainties below 10−8.</description>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stepwise amplification of circularly polarized luminescence in indium-based metal halides by regulating their structural dimension</title>
+      <link>https://www.nature.com/articles/s41467-025-56394-9</link>
+      <description>Designing efficient circularly polarized light sources requires a balance between the photoluminescence quantum yield and the luminescence dissymmetry factor. Here, the authors develop indium-based chiral metal halides with efficient CPL characteristics by modulating their structural dimensions.</description>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observation of anti-PT-symmetry and higher-order exceptional point PT-symmetry in ternary systems for single-mode operation</title>
+      <link>https://www.nature.com/articles/s41598-025-85623-w</link>
+      <description>No summary</description>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modeling and estimation of physiochemical properties of cancer drugs using entropy measures</title>
+      <link>https://www.nature.com/articles/s41598-025-87755-5</link>
+      <description>No summary</description>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three-dimensional mapping of the altermagnetic spin splitting in CrSb</title>
+      <link>https://www.nature.com/articles/s41467-025-56647-7</link>
+      <description>Altermagnets combine the rapid dynamics and zero magnetization of collinear antiferromagnets with the spin-splitting of ferromagnets, making them an idea platform for both fundamental research and applications. Here, Yang, Li and coauthors map the large altermagnetic spin-splitting in CrSb located near the Fermi level.</description>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observation of anomalously large Nernst effects in conducting polymers</title>
+      <link>https://www.nature.com/articles/s41467-025-55976-x</link>
+      <description>The Nernst effect of transverse thermoelectric flow is usually small in less ordered systems with low charge mobility. Here, the authors show that conjugated polymers defy this expectation with Nernst effects orders of magnitude larger than predicted.</description>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Room-temperature anisotropic in-plane spin dynamics in graphene induced by PdSe2 proximity</title>
+      <link>https://www.nature.com/articles/s41563-024-02109-2</link>
+      <description>Pentagonal PdSe2 induces anisotropic, gate-tunable spin–orbit coupling in graphene, enabling a tenfold modulation of in-plane spin lifetimes at room temperature and providing opportunities to control spin dynamics in van der Waals materials.</description>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topology controls flow patterns in active double emulsions</title>
+      <link>https://www.nature.com/articles/s41467-025-56236-8</link>
+      <description>Active emulsions and liquid crystalline shells offer a unique framework for exploring topological matter due to their complex morphologies and dynamic properties. Here the authors report how activity generates diverse nonequilibrium states, from defect-free motile states to complex topologically active configurations, providing insights into controlled flow and topology in active systems.</description>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electro-optic cavities for in-situ measurement of cavity fields</title>
+      <link>https://www.nature.com/articles/s41377-024-01685-x</link>
+      <description>We design, implement, and model electro-optic cavities (EOCs) to unlock time-domain measurements of intra-cavity fields. Furthermore, we decode avoided crossings in continuously tunable EOCs, enabling switchable light-matter coupling in the future.</description>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Efficiently regulating the electrochromic behavior of naphthalene-diimide-based zirconium-organic frameworks through linker installation</title>
+      <link>https://www.nature.com/articles/s41467-024-55473-7</link>
+      <description>Redox-active MOFs have demonstrated advantages in the field of electrochromism but controlling and modulating the electrochromic behaviors in specific MOFs remains a challenge. Here, the authors design a redox-active Zr-MOF with coordination unsaturated pockets which exhibits reversible electrochromic behavior.</description>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quadrupolar excitons in MoSe2 bilayers</title>
+      <link>https://www.nature.com/articles/s41467-025-56586-3</link>
+      <description>Quadrupolar excitons — a superposition of two dipolar excitons with anti-aligned dipole moments — are of great interest for applications in quantum simulations and for the investigation of many-body physics. Here, the authors demonstrate the emergence of quadrupolar excitons in natural MoSe2 homobilayers, whose energy shifts quadratically in electric field.</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Demonstration of two qubit entangling gates in a 2D ring resonator based coupler architecture</title>
+      <link>https://www.nature.com/articles/s41598-025-87410-z</link>
+      <description>No summary</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thermalization and criticality on an analogue–digital quantum simulator</title>
+      <link>https://www.nature.com/articles/s41586-024-08460-3</link>
+      <description>A hybrid analogue–digital quantum simulator is used to demonstrate beyond-classical performance in benchmarking experiments and to study thermalization phenomena in an XY quantum magnet, including the breakdown of Kibble–Zurek scaling predictions and signatures of the Kosterlitz–Thouless phase transition.</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flat-band enhanced antiferromagnetic fluctuations and superconductivity in pressurized CsCr3Sb5</title>
+      <link>https://www.nature.com/articles/s41467-025-56582-7</link>
+      <description>The authors theoretically investigate the spin fluctuations and superconducting instabilities in the kagome phase of CsCr3Sb5 under high pressure. They find that incipient flat bands play a role in enhancing antiferromagnetic fluctuations, which in turn mediate the competing s-wave and d-wave superconducting ordering.</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Short and long-range magnetic ordering and emergent topological transition in (Mn1−xNix)2P2S6</title>
+      <link>https://www.nature.com/articles/s41598-025-88586-0</link>
+      <description>No summary</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topological water-wave structures manipulating particles</title>
+      <link>https://www.nature.com/articles/s41586-024-08384-y</link>
+      <description>Interfering water waves can be tailored to realize topological structures, namely wave vortices, skyrmions and polarization Möbius strips, that can be used to manipulate particles floating on the water surface.</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deep empirical neural network for optical phase retrieval over a scattering medium</title>
+      <link>https://www.nature.com/articles/s41467-025-56522-5</link>
+      <description>Tu et al. demonstrate that the unique integration of a convolutional neural network with an empirical model measured for an optical scattering system can unscramble the scattering and see through the opaque medium in an untrained fashion, featured as a deep empirical neural network.</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Superfluid stiffness of magic-angle twisted bilayer graphene</title>
+      <link>https://www.nature.com/articles/s41586-024-08494-7</link>
+      <description>Research on superconductivity in magic-angle twisted bilayer graphene reveals unconventional behaviour, an anisotropic gap and a significant role of quantum geometry, using combined d.c. transport and microwave measurements, suggesting new insights into superconductivity mechanisms.</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polytype switching by super-lubricant van der Waals cavity arrays</title>
+      <link>https://www.nature.com/articles/s41586-024-08380-2</link>
+      <description>By etching cavities into a thin lubricant spacer and encapsulating it with functional flakes, electric and mechanical switching of single-crystal, van der Waals stacking configurations is demonstrated.</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A modified energy management strategy for PV/diesel hybrid system to reduce diesel consumption based on artificial protozoa optimizer</title>
+      <link>https://www.nature.com/articles/s41598-025-87716-y</link>
+      <description>No summary</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Structural edge damage detection based on wavelet transform and immune genetic algorithm</title>
+      <link>https://www.nature.com/articles/s41598-025-87712-2</link>
+      <description>No summary</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimization and modeling of sulfur removal from liquid fuel using carbon-based adsorbents through synergistic application of RSM and machine learning</title>
+      <link>https://www.nature.com/articles/s41598-025-88434-1</link>
+      <description>No summary</description>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maximizing temperature sensitivity in a one-dimensional photonic crystal thermal sensor</title>
+      <link>https://www.nature.com/articles/s41598-024-82889-4</link>
+      <description>No summary</description>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spin-torque-driven gigahertz magnetization dynamics in the non-collinear antiferromagnet Mn3Sn</title>
+      <link>https://www.nature.com/articles/s41565-025-01859-7</link>
+      <description>An optically induced spin current pulse induces gigahertz magnetization dynamics in Mn3Sn with a spin coherence length of approximately 15 nm, which is longer than in ferromagnets.</description>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schizophrenia recognition based on three-dimensional adaptive graph convolutional neural network</title>
+      <link>https://www.nature.com/articles/s41598-024-84497-8</link>
+      <description>No summary</description>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Programmable quantum circuits in a large-scale photonic waveguide array</title>
+      <link>https://www.nature.com/articles/s41534-024-00934-6</link>
+      <description>No summary</description>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using computer modeling to find new LRRK2 inhibitors for parkinson’s disease</title>
+      <link>https://www.nature.com/articles/s41598-025-86926-8</link>
+      <description>No summary</description>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Studying the impact of chitosan salicylaldehyde/schiff base/CuFe2O4 in PC3 cells via theoretical studies and inhibition of PI3K/AKT/mTOR signalling</title>
+      <link>https://www.nature.com/articles/s41598-025-86096-7</link>
+      <description>No summary</description>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A spatiotemporal distribution prediction model for electric vehicles charging load in transportation power coupled network</title>
+      <link>https://www.nature.com/articles/s41598-025-88607-y</link>
+      <description>No summary</description>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On QSPR analysis of pulmonary cancer drugs using python-driven topological modeling</title>
+      <link>https://www.nature.com/articles/s41598-025-88419-0</link>
+      <description>No summary</description>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Degeneracy-breaking and long-lived multimode microwave electromechanical systems enabled by cubic silicon-carbide membrane crystals</title>
+      <link>https://www.nature.com/articles/s41467-025-56497-3</link>
+      <description>Coherent electrical manipulation of long-lived, multimode mechanical resonators is crucial for several applications. Here the authors report the integration of a high quality cubic SiC-membrane mechanical resonator with a 3D microwave cavity, enabling long-lived phononic memory and tunable light slowing.</description>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transformer-generated atomic embeddings to enhance prediction accuracy of crystal properties with machine learning</title>
+      <link>https://www.nature.com/articles/s41467-025-56481-x</link>
+      <description>Atomic representations are crucial for building reliable and transferable machine learning models. Here, the authors propose transformer-based universal atomic embeddings to enhance the prediction accuracy of crystal properties.</description>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sub-nanometer depth resolution and single dopant visualization achieved by tilt-coupled multislice electron ptychography</title>
+      <link>https://www.nature.com/articles/s41467-025-56499-1</link>
+      <description>The authors implement a computational strategy that couples electron diffraction datasets from a few small-angle projections to more than triple the depth resolution to sub-nanometers and improve dopant detection in bulk crystals.</description>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topological linking determines elasticity in limited valence networks</title>
+      <link>https://www.nature.com/articles/s41563-024-02091-9</link>
+      <description>Experiments and simulations of DNA nanostar hydrogels reveal that microscopic topology determines macroscale elasticity in amorphous networks.</description>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GATFELPA integrates graph attention networks and enhanced label propagation for robust community detection</title>
+      <link>https://www.nature.com/articles/s41598-024-84962-4</link>
+      <description>No summary</description>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tailored topotactic chemistry unlocks heterostructures of magnetic intercalation compounds</title>
+      <link>https://www.nature.com/articles/s41467-025-56467-9</link>
+      <description>Synthesis of heterostructures of magnetic intercalation compounds in transition metal dichalcogenides (TMDs) via directed topotactic reactions enables the creation of multi-component magnetic architectures, overcoming limitations of crystallographic incommensurability</description>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stable quantum droplets with high-order vorticity in zero-order Bessel lattice</title>
+      <link>https://www.nature.com/articles/s41598-025-87088-3</link>
+      <description>No summary</description>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A superconducting nanowire two-photon coincidence counter with combinatorial time logic and amplitude multiplexing</title>
+      <link>https://www.nature.com/articles/s41566-024-01613-w</link>
+      <description>A superconducting nanowire two-photon coincidence counter is demonstrated with topological optimization of delay-time series. Using a hybrid time–amplitude multiplexing strategy, all 152 potential single- and two-photon events are resolved in a 16-pixel configuration.</description>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Direct radiation pressure measurements for lightsail membranes</title>
+      <link>https://www.nature.com/articles/s41566-024-01605-w</link>
+      <description>Simultaneous measurements of the optical force and power exerted by a collimated laser beam on a 50-nm-thick silicon nitride lightsail membrane suspended by compliant micromechanical springs quantify the radiation pressure, enabling further multiphysics studies of radiation pressure forces on macroscopic objects.</description>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coherent harmonic generation of magnons in spin textures</title>
+      <link>https://www.nature.com/articles/s41467-025-56558-7</link>
+      <description>Recently, significant progress has been made in higher harmonic generation of spin waves in magnetic materials, but it remains challenging to probe the coherence. Here, Lan, Liu et al observe the higher-harmonic spin-wave generation induced by static edge spin textures in a soft ferromagnetic film, and probe the coherence of higher harmonic generation.</description>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coalescence of multiple topological orders in quasi-one-dimensional bismuth halide chains</title>
+      <link>https://www.nature.com/articles/s41467-025-56593-4</link>
+      <description>The authors find multiple topological transitions and a composite topological phase by two mutually exclusive topological orders, strong topological order and high-order topological order, in a quasi-1D system.</description>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-rerouting sensor network for electronic skin resilient to severe damage</title>
+      <link>https://www.nature.com/articles/s41467-025-56596-1</link>
+      <description>Severe damage to electronic skins typically requires extensive sensor arrays to restore communication pathways. Here, the authors present a cost-effective and efficient sensor network architecture that autonomously re-routes signals after damage, enabling rapid data readout with minimal power consumption.</description>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Time-resolved momentum microscopy with fs-XUV photons at high repetition rates with flexible energy and time resolution</title>
+      <link>https://www.nature.com/articles/s41598-025-86660-1</link>
+      <description>No summary</description>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Light-driven dancing of nematic colloids in fractional skyrmions and bimerons</title>
+      <link>https://www.nature.com/articles/s41467-025-56263-5</link>
+      <description>Skyrmions and fractional skyrmions are promising for spintronics applications but are challenging to create, observe, and manipulate, with a limited understanding of their impact on colloid dynamics. Here authors demonstrate the creation and light-actuated transformation of skyrmion textures in nematic liquid crystals, enabling colloidal assemblies and dynamic behaviors.</description>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transition from the topological to the chaotic in the nonlinear Su–Schrieffer–Heeger model</title>
+      <link>https://www.nature.com/articles/s41467-024-55237-3</link>
+      <description>Nonlinear topological insulators are investigated from the viewpoint of dynamical systems. Strong nonlinearity induces spatially chaotic modes, which break the conventional notion of topology - the bulk-edge correspondence between topological invariants and localized modes.</description>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Powertrain configuration design for two mode power split hybrid electric vehicle</title>
+      <link>https://www.nature.com/articles/s41598-025-87378-w</link>
+      <description>No summary</description>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Re-locative guided search optimized self-sparse attention enabled deep learning decoder for quantum error correction</title>
+      <link>https://www.nature.com/articles/s41598-025-87782-2</link>
+      <description>No summary</description>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comparative study of degree, neighborhood and reverse degree based indices for drugs used in lung cancer treatment through QSPR analysis</title>
+      <link>https://www.nature.com/articles/s41598-025-88044-x</link>
+      <description>No summary</description>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The formation of a nuclear-spin dark state in silicon</title>
+      <link>https://www.nature.com/articles/s41567-024-02773-w</link>
+      <description>Electron qubits in solid-state systems often couple to nuclear spins in the surrounding material, causing decoherence. Now, nuclear spins in silicon have been put into a dark state, which could improve qubit coherence for quantum applications.</description>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Correlated spin-wave generation and domain-wall oscillation in a topologically textured magnetic film</title>
+      <link>https://www.nature.com/articles/s41563-024-02085-7</link>
+      <description>A laser-free ultrafast Lorentz electron microscope has been developed, integrating a microwave-based electron pulser to achieve high spatiotemporal imaging of spin-wave dynamics in a topologically textured thin-film permalloy.</description>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phonon-limited electronic transport through first principles</title>
+      <link>https://www.nature.com/articles/s42254-024-00795-0</link>
+      <description>A better understanding of electronic transport in semiconductors is essential for both fundamental and applied physics, as it directly affects key material properties such as the conductivity and thermoelectric quantities. This Technical Review explores different frameworks and computational tools available for computing these properties of semiconductors.</description>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cryogenic in-memory computing using magnetic topological insulators</title>
+      <link>https://www.nature.com/articles/s41563-024-02088-4</link>
+      <description>Material implementation of machine learning algorithms for advanced computing at cryogenic temperature remains rare. Here, the authors report a cryogenic in-memory computing platform using chiral edge states of magnetic topological insulators.</description>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thermophysical analysis of time-dependent magnetized Casson hybrid nanofluid flow (Cu + GO/Kerosene Oil) using Darcy-Forchheimer and thermal radiative models for industrial cooling applications</title>
+      <link>https://www.nature.com/articles/s41598-025-87743-9</link>
+      <description>No summary</description>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fast single atom imaging for optical lattice arrays</title>
+      <link>https://www.nature.com/articles/s41467-025-56305-y</link>
+      <description>High-resolution imaging is essential for quantum simulation and computation in optical lattices and tweezers. Here, authors achieve fast 2.4-microsecond single-atom imaging with 99.4% fidelity and demonstrate number-resolved imaging without parity projection, advancing quantum readout capabilities.</description>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thermoelectric properties of a quantum dot attached to normal metal and topological superconductor</title>
+      <link>https://www.nature.com/articles/s41598-024-84770-w</link>
+      <description>No summary</description>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mechanical force-induced interlayer sliding in interfacial ferroelectrics</title>
+      <link>https://www.nature.com/articles/s41467-025-56073-9</link>
+      <description>Manipulation of controllable polarization evolutions is a big challenge. The authors fabricate the irregular moirés, identifying three distinct types of moiré domains with different patterns, modulating them by external mechanical force disturbing.</description>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bearing characteristics and continuous–discontinuous numerical analysis of a pressure grouting pile in a calcareous sand foundation</title>
+      <link>https://www.nature.com/articles/s41598-025-86996-8</link>
+      <description>No summary</description>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Triplet-ground-state nonalternant nanographene with high stability and long spin lifetimes</title>
+      <link>https://www.nature.com/articles/s41467-024-54276-0</link>
+      <description>While high-spin carbon-based polyradicals exhibit significant potential for applications in quantum information storage and sensing, their application is hampered by limited structural diversity and chemical instability. Here, the authors report the synthesis and isolation of a stable nonalternant nanographene with a triplet ground state.</description>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Time-hidden magnetic order in a multi-orbital Mott insulator</title>
+      <link>https://www.nature.com/articles/s41567-024-02752-1</link>
+      <description>Searches for metastable states with properties not found in thermal equilibrium have been restricted to either ultrafast or slow timescales. A metastable state in an intermediate time window has now been identified in a photo-doped Mott insulator.</description>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Direct observation of chiral edge current at zero magnetic field in a magnetic topological insulator</title>
+      <link>https://www.nature.com/articles/s41467-025-56326-7</link>
+      <description>Quantized edge current is the hallmark of topological phenomena in condensed matter physics. Here, the authors use advanced scanning techniques to image the chiral edge current distribution in the antiferromagnetic topological material MnBi2Te4.</description>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Droplets impact on sparse microgrooved non-wetting surfaces</title>
+      <link>https://www.nature.com/articles/s41598-025-87294-z</link>
+      <description>No summary</description>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multicooperation of Turtle-inspired amphibious spherical robots</title>
+      <link>https://www.nature.com/articles/s41598-025-85423-2</link>
+      <description>No summary</description>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ion bridging enables high-voltage polyether electrolytes for quasi-solid-state batteries</title>
+      <link>https://www.nature.com/articles/s41467-025-56324-9</link>
+      <description>The application of polyether electrolytes for Li-ion batteries is limited by their poor oxidative stability. Here, authors report an ion-bridging approach to extend their oxidation potential by stabilizing lone pairs of ethereal oxygen through Zn2+−O coordination.</description>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Probing and manipulating the Mexican hat-shaped valence band of In2Se3</title>
+      <link>https://www.nature.com/articles/s41467-025-56139-8</link>
+      <description>Inverted Mexican hat valence band is a desirable feature of van der Waal materials as it can yield new phases and functionalities, but it has been observed in only a few materials. Here the authors use experiments and calculations to reveal this feature in the van der Waals ferroelectric semiconductor In2Se3.</description>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthesis of a semimetallic Weyl ferromagnet with point Fermi surface</title>
+      <link>https://www.nature.com/articles/s41586-024-08330-y</link>
+      <description>Van der Waals (Cr,Bi)2Te3, synthesized by non-equilibrium molecular beam epitaxy, is characterized by magnetotransport measurements and shown to be a semimetallic Weyl ferromagnet, with Fermi surface composed of two Weyl points and no irrelevant electronic states.</description>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Double-sided van der Waals epitaxy of topological insulators across an atomically thin membrane</title>
+      <link>https://www.nature.com/articles/s41563-024-02079-5</link>
+      <description>Double-sided epitaxy of van der Waals materials through atomic membranes is demonstrated, enabling electrons to resonantly tunnel between aligned topological insulator surfaces with the conservation of energy, momentum and spin helicity.</description>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quasi-static and dynamic compression behavior of stacked pyramidal lattice structures with I-beam struts</title>
+      <link>https://www.nature.com/articles/s41598-024-84507-9</link>
+      <description>No summary</description>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Programmable simulations of molecules and materials with reconfigurable quantum processors</title>
+      <link>https://www.nature.com/articles/s41567-024-02738-z</link>
+      <description>Quantum simulations of chemistry and materials are challenging due to the complexity of correlated systems. A framework based on reconfigurable qubit architectures and digital–analogue simulations provides a hardware-efficient path forwards.</description>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Liquid crystal torons in Poiseuille-like flows</title>
+      <link>https://www.nature.com/articles/s41598-024-83294-7</link>
+      <description>No summary</description>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analysis of the defect mode features in an asymmetric and symmetric acoustic system using expansion chambers</title>
+      <link>https://www.nature.com/articles/s41598-024-85002-x</link>
+      <description>No summary</description>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthesis of pillar-layered metal–organic frameworks with variable backbones through sequence control</title>
+      <link>https://www.nature.com/articles/s41557-024-01717-4</link>
+      <description>The tailoring of reticular materials is key for enhancing the complexity and diversity of their structure and function. Now, a series of isomeric pillar-layered metal–organic frameworks with tunable topologies have been prepared through altering the layer stacking, which enables variability on the backbone structure, pillar spatial arrangements and pore structure.</description>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Explicit relation between thin film chromatography and column chromatography conditions from statistics and machine learning</title>
+      <link>https://www.nature.com/articles/s41467-025-56136-x</link>
+      <description>The selection of experimental conditions for column chromatography is usually determined by experience. Here, authors have discovered explicit relation between thin layer chromatography and column chromatography through statistics and deep learning.</description>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>High transmission in 120-degree sharp bends of inversion-symmetric and inversion-asymmetric photonic crystal waveguides</title>
+      <link>https://www.nature.com/articles/s41467-025-56020-8</link>
+      <description>The study explores high transmission in 120-degree bends of photonic crystal waveguides. It reveals that high bend-transmission is primarily influenced by domain-wall configurations and is independent of inversion symmetry (valley-photonic effect).</description>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schlieren texture and topography induced confinement in an organic exciton-polariton laser</title>
+      <link>https://www.nature.com/articles/s41467-025-55875-1</link>
+      <description>Organic exciton-polaritons represent an attractive platform for quantum devices. Here, authors show how introducing Schlieren texturing and a rough intra-cavity topography in a liquid crystalline polymer enables strong in-plane confinement of polaritons and drastically improved lasing.</description>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Excavating trajectory planning of electric shovel based on dynamic excavating volume prediction</title>
+      <link>https://www.nature.com/articles/s41598-025-86050-7</link>
+      <description>No summary</description>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aggregation control of anionic pentamethine cyanine enabling excitation wavelength selective NIR-II fluorescence imaging-guided photodynamic therapy</title>
+      <link>https://www.nature.com/articles/s41467-024-55429-x</link>
+      <description>Near-infrared-II fluorescence imaging-guided photodynamic therapy is hindered by the undesired aggregation of photosensitizers and the competition between fluorescence emission and reactive oxygen species generation. Here, the authors report an anionic pentamethine-based photosensitizer enabling excitation wavelength-selective fluorescence imaging-guided photodynamic therapy.</description>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coupling between topological edge state and defect mode-based biosensor using phononic crystal</title>
+      <link>https://www.nature.com/articles/s41598-025-85195-9</link>
+      <description>No summary</description>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dipolar wavevector interference induces a polar skyrmion lattice in strained BiFeO3 films</title>
+      <link>https://www.nature.com/articles/s41565-024-01845-5</link>
+      <description>In ultrathin BiFeO3 films on LaAlO3, compressive strain of the substrate induces a polar skyrmion lattice with nanometre periodicity.</description>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A simplified computational liver perfusion model, with applications to organ preservation</title>
+      <link>https://www.nature.com/articles/s41598-025-85170-4</link>
+      <description>No summary</description>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spontaneous curvature in two-dimensional van der Waals heterostructures</title>
+      <link>https://www.nature.com/articles/s41467-025-56055-x</link>
+      <description>Lattice mismatch in 2D van der Waals heterostructures induces lattice reconstruction to optimize the stacking. Here, the authors show how this introduces curving of different heterobilayers from deep-learning-assisted molecular dynamics simulations.</description>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observation of momentum-gap topology of light at temporal interfaces in a time-synthetic lattice</title>
+      <link>https://www.nature.com/articles/s41467-025-56021-7</link>
+      <description>Here, the authors report the experimental observation of k-gap topology in a large-scale optical temporal synthetic lattice, manifesting as temporal topological boundary states.</description>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ferroelectricity with concomitant Coulomb screening in van der Waals heterostructures</title>
+      <link>https://www.nature.com/articles/s41565-024-01846-4</link>
+      <description>Sliding ferroelectricity with finite conductance can yield ferroelectric hysteresis with concomitant Coulomb screening in monolayer graphene containing van der Waals heterostructures of various compositions.</description>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pressure treatment enables white-light emission in Zn-IPA MOF via asymmetrical metal-ligand chelate coordination</title>
+      <link>https://www.nature.com/articles/s41467-025-55978-9</link>
+      <description>Pressure-treatment can alter the optical properties of metal-organic frameworks. Here the authors induce amorphization in Zn-IPA that remains after decompression and enables efficient white-light emission through narrowing the singlet-triplet gap.</description>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intervalence plasmons in boron-doped diamond</title>
+      <link>https://www.nature.com/articles/s41467-024-55353-0</link>
+      <description>Doping diamond with boron is well known to change its electronic structure. Here, the authors reveal low-energy collective excitations in boron-doped diamond, which originate from intervalence band transitions.</description>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Verdazyl radical polymers for advanced organic spintronics</title>
+      <link>https://www.nature.com/articles/s41467-025-56056-w</link>
+      <description>While many semiconducting materials have been extensively explored for spintronic applications, issues regarding device performance, materials stability, and efficient spin current generation at room temperature persist. Here, the authors show that a nonconjugated radical polymer is an exceptional spin transport medium.</description>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Resolving and routing magnetic polymorphs in a 2D layered antiferromagnet</title>
+      <link>https://www.nature.com/articles/s41563-024-02074-w</link>
+      <description>The authors report on their observation of magnetic polymorphs in CrSBr using phase-sensitive second harmonic generation.</description>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A kurtosis-ESPRIT algorithm for RealTime stability assessment in droop controlled microgrids</title>
+      <link>https://www.nature.com/articles/s41598-024-84675-8</link>
+      <description>No summary</description>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantitative analysis on the optical kerr impact and third harmonic generation in beltrami-shaped curved graphene</title>
+      <link>https://www.nature.com/articles/s41598-025-85303-9</link>
+      <description>No summary</description>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A python approach for prediction of physicochemical properties of anti-arrhythmia drugs using topological descriptors</title>
+      <link>https://www.nature.com/articles/s41598-025-85352-0</link>
+      <description>No summary</description>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designer topological-single-atom catalysts with site-specific selectivity</title>
+      <link>https://www.nature.com/articles/s41467-025-55838-6</link>
+      <description>Designing catalysts with uniform, site-specific selectivity and activity is a significant challenge. This study introduces design principles for topological-single-atom catalysts that utilize electronic shielding to protect surfaces and control reaction pathways, achieving high selectivity without compromising activity.</description>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chiral exceptional point enhanced active tuning and nonreciprocity in micro-resonators</title>
+      <link>https://www.nature.com/articles/s41377-024-01686-w</link>
+      <description>CMOS wafer scale manufactured chiral exceptional point non-Hermitian modulators were demonstrated through AIM photonics. This enables GHz-speed asymmetric electro-optic modulation with 17 dB contrast using CMOS-compatible voltages.</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research on health monitoring of concrete structure based on G-S-G</title>
+      <link>https://www.nature.com/articles/s41598-024-84830-1</link>
+      <description>No summary</description>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observing non-Hermiticity induced chirality breaking in a synthetic Hall ladder</title>
+      <link>https://www.nature.com/articles/s41377-024-01700-1</link>
+      <description>The non-Hermiticity of gain/loss can break the chiral currents in a Hall ladder, resulting in antichiral currents where currents on both legs co-propagate in the same direction.</description>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Computational microscopy with coherent diffractive imaging and ptychography</title>
+      <link>https://www.nature.com/articles/s41586-024-08278-z</link>
+      <description>This review highlights transformative advancements in computational microscopy, encompassing coherent diffractive imaging and ptychography, which unify microscopy and crystallography to achieve unparalleled resolution, precision, and large fields of view, enabling diverse applications and driving breakthroughs across multidisciplinary sciences.</description>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spin polarization detection via chirality-induced tunnelling currents in indium selenide</title>
+      <link>https://www.nature.com/articles/s41563-024-02067-9</link>
+      <description>Light chirality and electron spin interactions and the dependence of tunnelling photocurrent on the magnetic field are studied in indium selenide, exploiting its non-symmetric response to circularly polarized light to electrically detect chirality.</description>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How frictional ruptures and earthquakes nucleate and evolve</title>
+      <link>https://www.nature.com/articles/s41586-024-08287-y</link>
+      <description>Experimental and theoretical evidence shows that incorporating finite interface widths extends fracture mechanics to include crack (and earthquake) nucleation; slow steady creep occurring at a well-defined stress threshold.</description>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic supramolecular snub cubes</title>
+      <link>https://www.nature.com/articles/s41586-024-08266-3</link>
+      <description>Left- and right-handed snub cubes show photocontrollable elasticity and hardness, in addition to the ability to encapsulate different small molecules in distinct compartments simultaneously, with potential applications in the development of advanced biomimetic materials.</description>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Janus graphene nanoribbons with localized states on a single zigzag edge</title>
+      <link>https://www.nature.com/articles/s41586-024-08296-x</link>
+      <description>Janus graphene nanoribbons with localized states on a single zigzag edge are fabricated by introducing a topological defect array of benzene motifs on the opposite zigzag edge, to break the structural symmetry.</description>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The q-RASPR approach for predicting the property and fate of persistent organic pollutants</title>
+      <link>https://www.nature.com/articles/s41598-024-84778-2</link>
+      <description>No summary</description>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthesis of three-dimensional covalent organic frameworks through a symmetry reduction strategy</title>
+      <link>https://www.nature.com/articles/s41557-024-01715-6</link>
+      <description>Three-dimensional covalent organic frameworks hold great potential for diverse applications, but their structural diversity is constrained by the synthetic approaches available. Now it is shown that ‘eight-connected’ building blocks with reduced symmetry enable the synthesis of such frameworks with rare topologies and enhanced gas adsorption performance.</description>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Role of topological indices in predictive modeling and ranking of drugs treating eye disorders</title>
+      <link>https://www.nature.com/articles/s41598-024-81482-z</link>
+      <description>No summary</description>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nonlinear valley selection rules and all-optical probe of broken time-reversal symmetry in monolayer WSe2</title>
+      <link>https://www.nature.com/articles/s41566-024-01591-z</link>
+      <description>The feasibility of using second-harmonic generation to measure the broken time-reversal symmetry and valley polarization in monolayer WSe2 is presented, simplifying the process of probing valleys on ultrafast timescales without perturbing the system.</description>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuromorphic weighted sums with magnetic skyrmions</title>
+      <link>https://www.nature.com/articles/s41928-024-01303-z</link>
+      <description>Weighted sum operations can be performed in a compact, biologically inspired manner by using the non-volatile and particle-like characteristics of magnetic skyrmions that make them easily countable and summable.</description>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unifying spatiotemporal and frequential attention for traffic prediction</title>
+      <link>https://www.nature.com/articles/s41598-024-82759-z</link>
+      <description>No summary</description>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assessment of the potential and application of Be12O12 nanocage for removal of ciprofloxacin from water employing density functional theory</title>
+      <link>https://www.nature.com/articles/s41598-025-85155-3</link>
+      <description>No summary</description>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating Seidel energies and thermodynamic properties of benzenoid hydrocarbons through regression models</title>
+      <link>https://www.nature.com/articles/s41598-025-85449-6</link>
+      <description>No summary</description>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unsupervised self-organising map classification of Raman spectra from prostate cell lines uncovers substratified prostate cancer disease states</title>
+      <link>https://www.nature.com/articles/s41598-024-83708-6</link>
+      <description>No summary</description>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Effect of magnetized water on the fundamental grouting properties of cement grout under varying magnetization conditions</title>
+      <link>https://www.nature.com/articles/s41598-024-84928-6</link>
+      <description>No summary</description>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deciphering antioxidant interactions via data mining and RDKit</title>
+      <link>https://www.nature.com/articles/s41598-024-77948-9</link>
+      <description>No summary</description>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Self-induced optical non-reciprocity</title>
+      <link>https://www.nature.com/articles/s41377-024-01692-y</link>
+      <description>No summary</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spectral optimization of supercontinuum shaping using metaheuristic algorithms, a comparative study</title>
+      <link>https://www.nature.com/articles/s41598-024-84567-x</link>
+      <description>No summary</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creation of a stable vector vortex beam with dual fractional orbital angular momentum</title>
+      <link>https://www.nature.com/articles/s41598-024-84298-z</link>
+      <description>No summary</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hetero-integrated perovskite/Si3N4 on-chip photonic system</title>
+      <link>https://www.nature.com/articles/s41566-024-01603-y</link>
+      <description>Hybrid hetero-integration of dual-functional perovskite diodes and a photonic neural network for computing tasks are demonstrated on a near-infrared monolithic on-chip photonic system based on a perovskite/silicon nitride platform, exemplifying the extension of perovskite device applications.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silicon photonic MEMS switches based on split waveguide crossings</title>
+      <link>https://www.nature.com/articles/s41467-024-55528-9</link>
+      <description>This work proposes a unique mechanism of manipulating the mode propagation for photonic switching with a brand-new split waveguide crossing, demonstrating great potential for the applications in a wide spectrum of scenarios.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring the structure and properties of \(\alpha\)-sheet based bilayer borophenes</title>
+      <link>https://www.nature.com/articles/s41598-024-82972-w</link>
+      <description>No summary</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Momentum tunnelling between nanoscale liquid flows</title>
+      <link>https://www.nature.com/articles/s41565-024-01842-8</link>
+      <description>A liquid flow can cross a solid wall, at odds with classical hydrodynamics, thanks to couplings between the liquid’s fluctuations and the electronic excitations of the solid inducing a momentum tunnelling.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimal design of tilt integral derivative controller for a boost converter based on swarm-inspired algorithms</title>
+      <link>https://www.nature.com/articles/s41598-024-84088-7</link>
+      <description>No summary</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum machine learning for Lyapunov-stabilized computation offloading in next-generation MEC networks</title>
+      <link>https://www.nature.com/articles/s41598-024-84441-w</link>
+      <description>No summary</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Predicting noncoding RNA and disease associations using multigraph contrastive learning</title>
+      <link>https://www.nature.com/articles/s41598-024-81862-5</link>
+      <description>No summary</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Computational insights into spin-polarized density functional theory applied to actinide-based perovskites XBkO₃ (X = Sr, Ra, Pb)</title>
+      <link>https://www.nature.com/articles/s41598-024-81887-w</link>
+      <description>No summary</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2.5-dimensional covalent organic frameworks</title>
+      <link>https://www.nature.com/articles/s41467-024-55729-2</link>
+      <description>Covalent organic frameworks (COFs) have wide applications but are difficult to enhance crystallinity. Here, the authors show COFs with 2.5-dimensional skeletons. The COFs attain planar shapes useful for applications, large crystal sizes of above 0.1 mm, and better CO2 separation properties over previous organic porous materials.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Magnetochiral charge pumping due to charge trapping and skin effect in chirality-induced spin selectivity</title>
+      <link>https://www.nature.com/articles/s41467-024-55433-1</link>
+      <description>Some chiral molecules can produce a giant spin polarization, a feature termed chirality-induced spin selectivity. The origin of this has been hotly debated. In this theory work, Zhao, Zhang and coauthors propose that the origin of the effect lies in charge trapping induced barrier modification, termed magnetochiral charge pumping.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artificial molecular communication network based on DNA nanostructures recognition</title>
+      <link>https://www.nature.com/articles/s41467-024-55527-w</link>
+      <description>Artificial simulated communication networks use biological and chemical molecules as information carriers to realize information transmission, but their design is challenging. Here, the authors report a DNA nanostructure recognition-based artificial molecular communication network, in which rectangular DNA origami nanostructures serve as nodes and their recognition as edges, and use it to construct various communication network topologies.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Endowing single-crystal polymers with circularly polarized luminescence</title>
+      <link>https://www.nature.com/articles/s41467-024-55181-2</link>
+      <description>Single-crystal polymers with circularly polarized luminescence are interesting materials, but challenging to prepare. Here, the authors report a single-crystal-to-single-crystal topochemical photopolymerisation to form polyionic polymer crystals with circularly polarized luminescence.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reversible multivalent carrier redox exceeding intercalation capacity boundary</title>
+      <link>https://www.nature.com/articles/s41467-024-55386-5</link>
+      <description>Aqueous batteries with multivalent-ion storage chemistry offer higher theoretical capacity than monovalent-ion. Here, authors report divalent copper intercalation into vanadium disulfide with additional copper redox that provides higher capacity than intercalation transition metal redox alone.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An aperiodic chiral tiling by topological molecular self-assembly</title>
+      <link>https://www.nature.com/articles/s41467-024-55405-5</link>
+      <description>Aperiodic tessellation is an important concept not only in art and mathematics, but also in materials science. Here the authors report on aperiodic tiling through two-dimensional molecular self-assembly on a surface involving dynamic chirality.</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-Abelian lattice gauge fields in photonic synthetic frequency dimensions</title>
+      <link>https://www.nature.com/articles/s41586-024-08259-2</link>
+      <description>Non-Abelian lattice gauge fields in photonic synthetic frequency dimensions can be used to study lattice physics in a scalable and programmable way.</description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Portable astronomical observation system based on large-aperture concentric-ring metalens</title>
+      <link>https://www.nature.com/articles/s41377-024-01656-2</link>
+      <description>No summary</description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metrology with a twist: probing and sensing with vortex light</title>
+      <link>https://www.nature.com/articles/s41377-024-01665-1</link>
+      <description>AI algorithms analyzes the OAM spectrum and intensity patterns of twisted light as it propagates through a turbulent medium, enabling the detection of the key features of the medium.</description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enhanced sensitivity via non-Hermitian topology</title>
+      <link>https://www.nature.com/articles/s41377-024-01667-z</link>
+      <description>No summary</description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Distinguishing local isomorphism classes in quasicrystals by high-order harmonic spectroscopy</title>
+      <link>https://www.nature.com/articles/s41467-024-55205-x</link>
+      <description>Quasicrystals (QCs) belonging to different local isomorphism classes (LICs) are notoriously challenging to distinguish with electron diffraction. Here the authors demonstrate that high-order harmonics generated from vertical illumination by a laser beam can efficiently provide such distinction, paving the way to all-optical characterizations of QCs and disorder in solids.</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic control of 2D non-Hermitian photonic corner skin modes in synthetic dimensions</title>
+      <link>https://www.nature.com/articles/s41467-024-55236-4</link>
+      <description>Dynamic control of light flow in 2D synthetic landscapes is emerging as a valuable tool for the development of light-based technologies. Here the authors harness time-dependent non-Hermitian Hamiltonians to demonstrate dynamic control over the skin effect.</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observation of non-Hermitian boundary induced hybrid skin-topological effect excited by synthetic complex frequencies</title>
+      <link>https://www.nature.com/articles/s41467-024-55218-6</link>
+      <description>Hybrid skin-topological effect (HSTE) is a new phenomenon involving the interplay between non-Hermitian skin effects and topological edge states. Here, the authors highlight the key role of boundary configurations and experimentally observe HSTE states using synthetic complex frequencies.</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electronic ferroelectricity in monolayer graphene moiré superlattices</title>
+      <link>https://www.nature.com/articles/s41467-024-55281-z</link>
+      <description>Monolayer graphene, with its highly centrosymmetric hexagonal lattice, is typically not considered ferroelectric. Here, the authors observe ferroelectricity in monolayer graphene by introducing asymmetric moiré superlattices, where polarization arises from electron-hole dipoles.</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orientation-selective spin-polarized edge states in monolayer NiI2</title>
+      <link>https://www.nature.com/articles/s41467-024-55372-x</link>
+      <description>Spin-polarized edge states in two-dimensional materials hold promise for spintronics and quantum computing applications. Here, the authors reveal the orientation-selective spin-polarized edge states along the Ni-terminated edges in monolayer NiI2 islands.</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A density-based MS disease diagnosis model using the capuchin search algorithm and an ensemble of deep neural networks</title>
+      <link>https://www.nature.com/articles/s41598-024-82395-7</link>
+      <description>No summary</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Design of integrated radar and communication system based on solvable chaotic signal</title>
+      <link>https://www.nature.com/articles/s41598-024-80956-4</link>
+      <description>No summary</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A two-level resolution neural network with enhanced interpretability for freeway traffic forecasting</title>
+      <link>https://www.nature.com/articles/s41598-024-78148-1</link>
+      <description>No summary</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Engineered crystalline polymers for effective contaminant removal from water</title>
+      <link>https://www.nature.com/articles/s41598-024-83192-y</link>
+      <description>No summary</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recycling e-waste into gold-loaded covalent organic framework catalysts for terminal alkyne carboxylation</title>
+      <link>https://www.nature.com/articles/s41467-024-55156-3</link>
+      <description>The rising demand for gold requires innovative methods for its recovery from e-waste. Here, the authors describe tetrazine-linked covalent organic frameworks loaded with recovered gold from mixed metal e-waste which serve as efficient, reusable catalysts for CO2 carboxylation of alkynes.</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topological transformation of microbial proteins into iron single-atom sites for selective hydrogen peroxide electrosynthesis</title>
+      <link>https://www.nature.com/articles/s41467-024-55041-z</link>
+      <description>Single-atom catalysts hold great potential for the electrochemical oxygen reduction reaction in hydrogen peroxide production. Here, the authors report Fe single-atom catalysts derived from microbial protein precursors, which enhance both the selectivity and activity for hydrogen peroxide production.</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phononic modulation of spin-lattice relaxation in molecular qubit frameworks</title>
+      <link>https://www.nature.com/articles/s41467-024-54989-2</link>
+      <description>Recently, metal-organic framework materials have emerged as a promising platform for realizing molecular qubits. Here the authors study the role of phonons in spin relaxation within molecular qubit frameworks and show that hydrogen-bonded networks and their deuteration facilitate spin relaxation.</description>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A novel concept of an acoustic ultrasound wearable for early detection of implant failure</title>
+      <link>https://www.nature.com/articles/s41598-024-82743-7</link>
+      <description>No summary</description>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detectability of mix-valued logical control networks based on a Luenberger-like observer approach</title>
+      <link>https://www.nature.com/articles/s41598-024-82083-6</link>
+      <description>No summary</description>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topology synthesis of coupled inductor based four port DC-DC converter for multi-input PV-battery application with autonomous mode selection</title>
+      <link>https://www.nature.com/articles/s41598-024-81219-y</link>
+      <description>No summary</description>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Molecular insights on the solvent screening for the benzene extraction from fuels using ionic liquids via QSPR method</title>
+      <link>https://www.nature.com/articles/s41598-024-79639-x</link>
+      <description>No summary</description>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On analysis of phthalocyanine network through statistical method</title>
+      <link>https://www.nature.com/articles/s41598-024-82819-4</link>
+      <description>No summary</description>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Controlling interactions between high-frequency phonons and single quantum systems using phononic crystals</title>
+      <link>https://www.nature.com/articles/s41567-024-02697-5</link>
+      <description>The phonon density of states in diamond is engineered using phononic crystals to suppress single-phonon processes that induce decoherence in individual quantum emitters.</description>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nanoscale imaging and control of altermagnetism in MnTe</title>
+      <link>https://www.nature.com/articles/s41586-024-08234-x</link>
+      <description>Nanoscale imaging and control of altermagnetism in manganese telluride is achieved, paving the way for the experimental realization of the theoretically predicted field of altermagnetism.</description>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artificial fingerprints engraved through block-copolymers as nanoscale physical unclonable functions for authentication and identification</title>
+      <link>https://www.nature.com/articles/s41467-024-54492-8</link>
+      <description>Physical unclonable functions have been proposed to overcome limitations of current anti-counterfeiting technologies. Here, the authors report the development of nanoscale artificial fingerprints as physical unclonable functions for secure authentication and identification.</description>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated discovery of experimental designs in super-resolution microscopy with XLuminA</title>
+      <link>https://www.nature.com/articles/s41467-024-54696-y</link>
+      <description>Researchers have developed XLuminA, an AI framework for the automated discovery of super-resolution microscopy techniques. With 10,000x faster optimization than traditional methods, it discovers unexplored designs breaking the diffraction limit.</description>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compass-model physics on the hyperhoneycomb lattice in the extreme spin-orbit regime</title>
+      <link>https://www.nature.com/articles/s41467-024-53345-8</link>
+      <description>Two-dimensional honeycomb lattices of magnetic ions with strong spin-orbit coupling can host a rich variety of magnetic phases, including Kitaev quantum spin liquids. Here, Okuma et al succeeded in synthesising powders and single crystals of β-Na2PrO3, with Praseodymium ions with very strong spin-orbit coupling arranged in a three-dimensional hyperhoneycomb lattice.</description>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ohm’s law lost and regained: observation and impact of transmission and velocity zeros</title>
+      <link>https://www.nature.com/articles/s41467-024-54012-8</link>
+      <description>Here the researchers demonstrate and capture all eigenvalue spectra by measuring microwave transmission in random waveguides, uncovering insights into conductance dips as the number of channels increased and thereby advance our understanding of mesoscopic transport.</description>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observation of perovskite topological valley exciton-polaritons at room temperature</title>
+      <link>https://www.nature.com/articles/s41467-024-54658-4</link>
+      <description>Achieving propagating topological exciton polaritons at room temperature is challenging. Here, the authors demonstrate room-temperature valley-polarized topological polaritons with valley-dependent propagation in a perovskite lattice formed by two mutually inverted honeycomb lattices with a bearded interface.</description>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Engineering the electron localization of metal sites on nanosheets assembled periodic macropores for CO2 photoreduction</title>
+      <link>https://www.nature.com/articles/s41467-024-54988-3</link>
+      <description>Efficient photocatalytic conversion of CO2 into syngas is a promising but challenging technology. Here, the authors report a phase transformation method to produce Co sites with tunable electron localization on multi-dimensional architecture framework that can improve the syngas evolution kinetics.</description>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Low-valence platinum single atoms in sulfur-containing covalent organic frameworks for photocatalytic hydrogen evolution</title>
+      <link>https://www.nature.com/articles/s41467-024-54959-8</link>
+      <description>A sulfur-rich covalent organic framework with low-valence Pt single atom sites is reported for photocatalytic hydrogen evolution. The material was stable under reaction conditions due to reduced hydrogen desorption barriers and enhanced charge separation.</description>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polarization entanglement enabled by orthogonally stacked van der Waals NbOCl2 crystals</title>
+      <link>https://www.nature.com/articles/s41467-024-54876-w</link>
+      <description>Van der Waals NbOCl2 crystal is a candidate platform for subwavelength thin film photon-pair sources. Here, the authors demonstrate generation of polarization entangled states from a two-layer stack of orthogonally oriented van der Waals crystal.</description>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Research on prediction of high energy microseismic events in rock burst mines based on BP neural network</title>
+      <link>https://www.nature.com/articles/s41598-024-81614-5</link>
+      <description>No summary</description>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stress-eliminated liquid-phase fabrication of colloidal films above the critical crack thickness</title>
+      <link>https://www.nature.com/articles/s41467-024-54412-w</link>
+      <description>There is a critical crack thickness in the production of thin films. Here, the authors utilize the surface tension of the liquid to eliminate the stresses within the film and produce ceramic layers with a controllable thickness and shape.</description>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3D geological fine modeling and dynamic updating method of fault slope in open-pit coal mine</title>
+      <link>https://www.nature.com/articles/s41598-024-81872-3</link>
+      <description>No summary</description>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthesis, characterization, quantum chemical modelling, molecular docking, in silico and in vitro assessment of 3-(2-bromo-5-fluorophenyl))-1-(thiophen-2-yl)prop-2-en-1-one</title>
+      <link>https://www.nature.com/articles/s41598-024-79747-8</link>
+      <description>No summary</description>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lightweight design of excavator working device based on automatically generated surrogate model</title>
+      <link>https://www.nature.com/articles/s41598-024-80882-5</link>
+      <description>No summary</description>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hyperspectral anomaly detection via low-rank and sparse decomposition with cluster subspace accumulation</title>
+      <link>https://www.nature.com/articles/s41598-024-80137-3</link>
+      <description>No summary</description>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estimation of multicomponent reactions’ yields from networks of mechanistic steps</title>
+      <link>https://www.nature.com/articles/s41467-024-54550-1</link>
+      <description>The ability to predict the yields of organic reactions is of tremendous value for synthetic chemistry, limiting the number of unproductive experiments. Here, the authors describe estimation of yields of complex, multicomponent reactions (MCRs) based on the modeled networks of mechanistic steps spanning both the main reaction pathway as well as immediate and downstream side reactions.</description>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polarization and reflectance are linked to climate, size and mechanistic constraints in a group of scarab beetles</title>
+      <link>https://www.nature.com/articles/s41598-024-80325-1</link>
+      <description>No summary</description>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optical pumping of electronic quantum Hall states with vortex light</title>
+      <link>https://www.nature.com/articles/s41566-024-01565-1</link>
+      <description>Orbital angular momentum transfer from optical vortex beams to electronic quantum Hall states is reported in a graphene sheet, showing a robust contribution to the radial photocurrent that depends on the vorticity of light.</description>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Influence of Klein edges on Phononic and electronic transport in circular graphene devices</title>
+      <link>https://www.nature.com/articles/s41598-024-80746-y</link>
+      <description>No summary</description>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Computational study of thin films made from the ferroelectric materials with Paul Painlevé approach and expansion and variational methods</title>
+      <link>https://www.nature.com/articles/s41598-024-80259-8</link>
+      <description>No summary</description>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Theoretical study on the prediction of optical properties and thermal stability of fullerene nanoribbons</title>
+      <link>https://www.nature.com/articles/s41598-024-80338-w</link>
+      <description>No summary</description>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topological protection of optical skyrmions through complex media</title>
+      <link>https://www.nature.com/articles/s41377-024-01659-z</link>
+      <description>No summary</description>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plasmonic enhanced OLED efficiency upon silver-polyoxometalate core-shell nanoparticle integration into the hole injection/transport layer</title>
+      <link>https://www.nature.com/articles/s41598-024-79977-w</link>
+      <description>No summary</description>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Topological orbital angular momentum extraction and twofold protection of vortex transport</title>
+      <link>https://www.nature.com/articles/s41566-024-01564-2</link>
+      <description>Topological protection in disclination lattices that relies on non-trivial winding in momentum space and real space is used to confine and guide vortices that feature arbitrary high-order charges. This approach could help in the development of orbital angular momentum-based photonic devices.</description>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Switchable topological polar states in epitaxial BaTiO3 nanoislands on silicon</title>
+      <link>https://www.nature.com/articles/s41467-024-54285-z</link>
+      <description>Epitaxial BaTiO3 ultra scaled nanoislands (30−60 nm) on Si exhibit an electrically switchable topological center down-convergent polar pattern. The peculiar island shape induces a lateral swirling component, which confers chirality to the polar domains.</description>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exfoliation and optical properties of S = 1 triangular lattice antiferromagnet NiGa2S4</title>
+      <link>https://www.nature.com/articles/s41598-024-77804-w</link>
+      <description>No summary</description>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experimental realization of on-chip few-photon control around exceptional points</title>
+      <link>https://www.nature.com/articles/s41467-024-54199-w</link>
+      <description>The authors observe an exceptional point and the corresponding phase transition in a superconducting non-Hermitian circuit. They find non-reciprocal microwave transmission can be achieved within the broken symmetry phase in the few-photon regime.</description>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suppression of symmetry-breaking correlated insulators in a rhombohedral trilayer graphene superlattice</title>
+      <link>https://www.nature.com/articles/s41467-024-54200-6</link>
+      <description>In moiré superlattices of rhombohedral trilayer graphene aligned on boron nitride, heating may counterintuitively promote spin–valley polarization, transforming metallic ground states into insulators at high temperatures, which deepens the understanding of isospin flavor polarization in correlated electronic systems.</description>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fluorescence from a single-molecule probe directly attached to a plasmonic STM tip</title>
+      <link>https://www.nature.com/articles/s41467-024-53707-2</link>
+      <description>Scanning tunneling microscopy (STM) gives access to the atomic-scale properties of matter. Here, the authors showcase the fluorescent functionalization of an STM tip using a single molecule in direct metal contact, permitting the local electrostatic and -dynamic environment to be probed.</description>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thermal stability and coalescence dynamics of exsolved metal nanoparticles at charged perovskite surfaces</title>
+      <link>https://www.nature.com/articles/s41467-024-54008-4</link>
+      <description>Exsolved metal nanoparticles are widely believed to exhibit an exceptional robustness against coarsening. Here, the authors demonstrate that the coarsening behavior depends on the surface defect chemistry of the respective oxide support as well as the oxophilicity of the exsolved metal.</description>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spin-Hall conductivity and optical characteristics of noncentrosymmetric quantum spin Hall insulators: the case of PbBiI</title>
+      <link>https://www.nature.com/articles/s41598-024-77403-9</link>
+      <description>No summary</description>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>High topological charge lasing in quasicrystals</title>
+      <link>https://www.nature.com/articles/s41467-024-53952-5</link>
+      <description>Improving information storage with light is necessary for the development of photonic technologies in communications and quantum optics. Here the authors demonstrate lasing from bound states in the continuum with topological charges as high as −5, 7, −17 and 19.</description>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optomechanical motions of gold dimer’s spin, rotation and revolution manipulated by bessel beam</title>
+      <link>https://www.nature.com/articles/s41598-024-77413-7</link>
+      <description>No summary</description>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energy-efficient computing at cryogenic temperatures</title>
+      <link>https://www.nature.com/articles/s41928-024-01278-x</link>
+      <description>This Perspective examines the performance advantages and challenges of operating complementary metal–oxide–semiconductor (CMOS) devices at cryogenic temperatures.</description>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fractional quantum Hall phases in high-mobility n-type molybdenum disulfide transistors</title>
+      <link>https://www.nature.com/articles/s41928-024-01274-1</link>
+      <description>Ohmic contacts to n-type molybdenum disulfide can be created over a temperature range from millikelvins to 300 K using a window-contacted technique, which leads to evidence for fractional quantum Hall states at filling fractions of 4/5 and 2/5 in the lowest Landau levels of bilayer molybdenum disulfide devices.</description>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
