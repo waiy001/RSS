@@ -10,7 +10,7 @@ import certifi
 def generate_rss():
     # 定义学科列表
     subjects = ['chemistry', 'engineering', 'materials-science', 'nanoscience-and-technology', 'optics-and-photonics', 'physics']
-    base_url_template = "https://www.nature.com/search?q=%28%22metamaterials%22+OR+%22metamaterial%22+OR+%22metasurface%22+OR+%22metasurfaces%22%29&article_type=research%2C+reviews&subject={}&order=date_desc&date_range=2023-2025&journal=lsa%2Cnature%2Cnchem%2Cncomms%2Cnatelectron%2Cnmat%2Cnnano%2Cnphoton%2Cnphys%2Cnatrevphys%2Cnpjacoustics%2Cnpjqi%2Csrep&article_type=research%2C+reviews&page={}"
+    base_url_template = "https://www.nature.com/search?q=%28metamaterials%29+OR+%28metamaterial%29+OR+%28metasurface%29+OR+%28metasurfaces%29&article_type=research%2C+reviews&subject={}&order=date_desc&journal=lsa%2Cnature%2Cnchem%2Cncomms%2Cnatelectron%2Cnmat%2Cnnano%2Cnphoton%2Cnphys%2Cnatrevphys%2Cnpjacoustics%2Cnpjqi%2Csrep&article_type=research%2C+reviews&page={}"
     all_articles = []  # 用于存储所有学科的文章
 
     # 遍历每个学科，抓取前三页（page=1, page=2, page=3）
